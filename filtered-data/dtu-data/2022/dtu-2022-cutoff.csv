@@ -162,7 +162,7 @@ Mechanical Engineering,GEN,42937,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,GEN,47516,OD,S
 Production and Industrial Engineering,GEN,64570,OD,S
 Software Engineering,GEN,11405,OD,S
-Bio-Technology,GEN-DEF,146655 (Priority VI),D,1
+Bio-Technology,GEN-DEF,146655,D,1
 Chemical Engineering,GEN-DEF,127424,D,1
 Civil Engineering,GEN-DEF,135873,D,1
 Computer Science and Engineering,GEN-DEF,576497,D,1
@@ -181,7 +181,7 @@ Electrical Engineering,GEN-DEF,291725,OD,1
 Electronics and Communication Engineering,GEN-DEF,696858,OD,1
 Engineering Physics,GEN-DEF,345080,OD,1
 Mathematics and Computing,GEN-DEF,33165,OD,1
-Mechanical Engineering,GEN-DEF,75552 (Priority IV),OD,1
+Mechanical Engineering,GEN-DEF,75552,OD,1
 Bio-Technology,GEN-DEF,167239,D,2
 Chemical Engineering,GEN-DEF,171493,D,2
 Civil Engineering,GEN-DEF,192394,D,2
@@ -194,12 +194,12 @@ Information Technology,GEN-DEF,21621,D,2
 Mathematics and Computing,GEN-DEF,32054,D,2
 Mechanical Engineering,GEN-DEF,131825,D,2
 Mechanical Engineering with specialization in Automotive Engineering,GEN-DEF,142585,D,2
-Production and Industrial Engineering,GEN-DEF,208162 (Priority VI),D,2
+Production and Industrial Engineering,GEN-DEF,208162,D,2
 Software Engineering,GEN-DEF,25314,D,2
 Computer Science and Engineering,GEN-DEF,202383,OD,2
 Electrical Engineering,GEN-DEF,345080,OD,2
 Electronics and Communication Engineering,GEN-DEF,696858,OD,2
-Engineering Physics,GEN-DEF,139277 (Priority IV),OD,2
+Engineering Physics,GEN-DEF,139277,OD,2
 Mathematics and Computing,GEN-DEF,33165,OD,2
 Mechanical Engineering,GEN-DEF,75552,OD,2
 Bio-Technology,GEN-DEF,167239,D,3
@@ -214,12 +214,12 @@ Information Technology,GEN-DEF,21621,D,3
 Mathematics and Computing,GEN-DEF,32054,D,3
 Mechanical Engineering,GEN-DEF,131825,D,3
 Mechanical Engineering with specialization in Automotive Engineering,GEN-DEF,142585,D,3
-Production and Industrial Engineering,GEN-DEF,197759 (Priority VI),D,3
+Production and Industrial Engineering,GEN-DEF,197759,D,3
 Software Engineering,GEN-DEF,25314,D,3
 Computer Science and Engineering,GEN-DEF,202383,OD,3
 Electrical Engineering,GEN-DEF,345080,OD,3
 Electronics and Communication Engineering,GEN-DEF,696858,OD,3
-Engineering Physics,GEN-DEF,139277 (Priority IV),OD,3
+Engineering Physics,GEN-DEF,139277,OD,3
 Mathematics and Computing,GEN-DEF,33165,OD,3
 Mechanical Engineering,GEN-DEF,75552,OD,3
 Bio-Technology,GEN-DEF,167239,D,4
@@ -234,12 +234,12 @@ Information Technology,GEN-DEF,21621,D,4
 Mathematics and Computing,GEN-DEF,42168,D,4
 Mechanical Engineering,GEN-DEF,131825,D,4
 Mechanical Engineering with specialization in Automotive Engineering,GEN-DEF,146655,D,4
-Production and Industrial Engineering,GEN-DEF,253424 (Priority VI),D,4
+Production and Industrial Engineering,GEN-DEF,253424,D,4
 Software Engineering,GEN-DEF,25698,D,4
 Computer Science and Engineering,GEN-DEF,202383,OD,4
 Electrical Engineering,GEN-DEF,123155,OD,4
 Electronics and Communication Engineering,GEN-DEF,696858,OD,4
-Engineering Physics,GEN-DEF,139277 (Priority IV),OD,4
+Engineering Physics,GEN-DEF,139277,OD,4
 Mathematics and Computing,GEN-DEF,51630,OD,4
 Mechanical Engineering,GEN-DEF,75552,OD,4
 Bio-Technology,GEN-DEF,241825,D,U1
@@ -278,62 +278,62 @@ Electronics and Communication Engineering,GEN-DEF,696858,OD,S
 Engineering Physics,GEN-DEF,89370,OD,S
 Mathematics and Computing,GEN-DEF,51630,OD,S
 Mechanical Engineering,GEN-DEF,75552,OD,S
-Bio-Technology,SingleGirlChild,98337,D,1
-Chemical Engineering,SingleGirlChild,94356,D,1
-Civil Engineering,SingleGirlChild,99310,D,1
-Computer Science and Engineering,SingleGirlChild,8594,D,1
-Electrical Engineering,SingleGirlChild,41969,D,1
-Electronics and Communication Engineering,SingleGirlChild,21190,D,1
-Engineering Physics,SingleGirlChild,60529,D,1
-Environmental Engineering,SingleGirlChild,129113,D,1
-Information Technology,SingleGirlChild,10837,D,1
-Mathematics and Computing,SingleGirlChild,16170,D,1
-Mechanical Engineering,SingleGirlChild,69563,D,1
-Mechanical Engineering with specialization in Automotive Engineering,SingleGirlChild,84899,D,1
-Production and Industrial Engineering,SingleGirlChild,90024,D,1
-Software Engineering,SingleGirlChild,15705,D,1
-Bio-Technology,SingleGirlChild,130019,D,2
-Chemical Engineering,SingleGirlChild,107554,D,2
-Civil Engineering,SingleGirlChild,129113,D,2
-Computer Science and Engineering,SingleGirlChild,15705,D,2
-Electrical Engineering,SingleGirlChild,41969,D,2
-Electronics and Communication Engineering,SingleGirlChild,25570,D,2
-Engineering Physics,SingleGirlChild,106821,D,2
-Environmental Engineering,SingleGirlChild,144126,D,2
-Information Technology,SingleGirlChild,16170,D,2
-Mathematics and Computing,SingleGirlChild,22269,D,2
-Mechanical Engineering,SingleGirlChild,69563,D,2
-Mechanical Engineering with specialization in Automotive Engineering,SingleGirlChild,94356,D,2
-Production and Industrial Engineering,SingleGirlChild,99310,D,2
-Software Engineering,SingleGirlChild,17660,D,2
-Bio-Technology,SingleGirlChild,130019,D,3
-Chemical Engineering,SingleGirlChild,110162,D,3
-Civil Engineering,SingleGirlChild,129113,D,3
-Computer Science and Engineering,SingleGirlChild,15705,D,3
-Electrical Engineering,SingleGirlChild,58015,D,3
-Electronics and Communication Engineering,SingleGirlChild,41969,D,3
-Engineering Physics,SingleGirlChild,106821,D,3
-Environmental Engineering,SingleGirlChild,144126,D,3
-Information Technology,SingleGirlChild,16170,D,3
-Mathematics and Computing,SingleGirlChild,22269,D,3
-Mechanical Engineering,SingleGirlChild,69563,D,3
-Mechanical Engineering with specialization in Automotive Engineering,SingleGirlChild,107554,D,3
-Production and Industrial Engineering,SingleGirlChild,99310,D,3
-Software Engineering,SingleGirlChild,18819,D,3
-Bio-Technology,SingleGirlChild,120517,D,4
-Chemical Engineering,SingleGirlChild,110162,D,4
-Civil Engineering,SingleGirlChild,129113,D,4
-Computer Science and Engineering,SingleGirlChild,15705,D,4
-Electrical Engineering,SingleGirlChild,58015,D,4
-Electronics and Communication Engineering,SingleGirlChild,41969,D,4
-Engineering Physics,SingleGirlChild,99310,D,4
-Environmental Engineering,SingleGirlChild,144126,D,4
-Information Technology,SingleGirlChild,16170,D,4
-Mathematics and Computing,SingleGirlChild,25570,D,4
-Mechanical Engineering,SingleGirlChild,69563,D,4
-Mechanical Engineering with specialization in Automotive Engineering,SingleGirlChild,113887,D,4
-Production and Industrial Engineering,SingleGirlChild,169648,D,4
-Software Engineering,SingleGirlChild,18819,D,4
+Bio-Technology,SGC,98337,D,1
+Chemical Engineering,SGC,94356,D,1
+Civil Engineering,SGC,99310,D,1
+Computer Science and Engineering,SGC,8594,D,1
+Electrical Engineering,SGC,41969,D,1
+Electronics and Communication Engineering,SGC,21190,D,1
+Engineering Physics,SGC,60529,D,1
+Environmental Engineering,SGC,129113,D,1
+Information Technology,SGC,10837,D,1
+Mathematics and Computing,SGC,16170,D,1
+Mechanical Engineering,SGC,69563,D,1
+Mechanical Engineering with specialization in Automotive Engineering,SGC,84899,D,1
+Production and Industrial Engineering,SGC,90024,D,1
+Software Engineering,SGC,15705,D,1
+Bio-Technology,SGC,130019,D,2
+Chemical Engineering,SGC,107554,D,2
+Civil Engineering,SGC,129113,D,2
+Computer Science and Engineering,SGC,15705,D,2
+Electrical Engineering,SGC,41969,D,2
+Electronics and Communication Engineering,SGC,25570,D,2
+Engineering Physics,SGC,106821,D,2
+Environmental Engineering,SGC,144126,D,2
+Information Technology,SGC,16170,D,2
+Mathematics and Computing,SGC,22269,D,2
+Mechanical Engineering,SGC,69563,D,2
+Mechanical Engineering with specialization in Automotive Engineering,SGC,94356,D,2
+Production and Industrial Engineering,SGC,99310,D,2
+Software Engineering,SGC,17660,D,2
+Bio-Technology,SGC,130019,D,3
+Chemical Engineering,SGC,110162,D,3
+Civil Engineering,SGC,129113,D,3
+Computer Science and Engineering,SGC,15705,D,3
+Electrical Engineering,SGC,58015,D,3
+Electronics and Communication Engineering,SGC,41969,D,3
+Engineering Physics,SGC,106821,D,3
+Environmental Engineering,SGC,144126,D,3
+Information Technology,SGC,16170,D,3
+Mathematics and Computing,SGC,22269,D,3
+Mechanical Engineering,SGC,69563,D,3
+Mechanical Engineering with specialization in Automotive Engineering,SGC,107554,D,3
+Production and Industrial Engineering,SGC,99310,D,3
+Software Engineering,SGC,18819,D,3
+Bio-Technology,SGC,120517,D,4
+Chemical Engineering,SGC,110162,D,4
+Civil Engineering,SGC,129113,D,4
+Computer Science and Engineering,SGC,15705,D,4
+Electrical Engineering,SGC,58015,D,4
+Electronics and Communication Engineering,SGC,41969,D,4
+Engineering Physics,SGC,99310,D,4
+Environmental Engineering,SGC,144126,D,4
+Information Technology,SGC,16170,D,4
+Mathematics and Computing,SGC,25570,D,4
+Mechanical Engineering,SGC,69563,D,4
+Mechanical Engineering with specialization in Automotive Engineering,SGC,113887,D,4
+Production and Industrial Engineering,SGC,169648,D,4
+Software Engineering,SGC,18819,D,4
 Civil Engineering,GEN-PWD,672435,D,1
 Computer Science and Engineering,GEN-PWD,193326,D,1
 Electrical Engineering,GEN-PWD,209776,D,1
@@ -565,7 +565,7 @@ Mechanical Engineering,EWS,46982,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,EWS,47210,OD,S
 Production and Industrial Engineering,EWS,67261,OD,S
 Software Engineering,EWS,15949,OD,S
-Civil Engineering,EWS-DEF,368001 (Priority VIII),D,1
+Civil Engineering,EWS-DEF,368001,D,1
 Computer Science and Engineering,EWS-DEF,59642,D,1
 Electrical Engineering,EWS-DEF,167991,D,1
 Electronics and Communication Engineering,EWS-DEF,144614,D,1
@@ -573,9 +573,9 @@ Information Technology,EWS-DEF,62913,D,1
 Mathematics and Computing,EWS-DEF,189345,D,1
 Mechanical Engineering,EWS-DEF,162523,D,1
 Software Engineering,EWS-DEF,134463,D,1
-Electronics and Communication Engineering,EWS-DEF,17125 (Priority VI),OD,1
+Electronics and Communication Engineering,EWS-DEF,17125,OD,1
 Information Technology,EWS-DEF,7299,OD,1
-Civil Engineering,EWS-DEF,368001 (Priority VIII),D,2
+Civil Engineering,EWS-DEF,368001,D,2
 Computer Science and Engineering,EWS-DEF,59642,D,2
 Electrical Engineering,EWS-DEF,167991,D,2
 Electronics and Communication Engineering,EWS-DEF,144614,D,2
@@ -583,9 +583,9 @@ Information Technology,EWS-DEF,62913,D,2
 Mathematics and Computing,EWS-DEF,189345,D,2
 Mechanical Engineering,EWS-DEF,162523,D,2
 Software Engineering,EWS-DEF,134463,D,2
-Electronics and Communication Engineering,EWS-DEF,17125 (Priority VI),OD,2
+Electronics and Communication Engineering,EWS-DEF,17125,OD,2
 Information Technology,EWS-DEF,7299,OD,2
-Civil Engineering,EWS-DEF,368001 (Priority VIII),D,3
+Civil Engineering,EWS-DEF,368001,D,3
 Computer Science and Engineering,EWS-DEF,59642,D,3
 Electrical Engineering,EWS-DEF,167991,D,3
 Electronics and Communication Engineering,EWS-DEF,144614,D,3
@@ -593,9 +593,9 @@ Information Technology,EWS-DEF,62913,D,3
 Mathematics and Computing,EWS-DEF,189345,D,3
 Mechanical Engineering,EWS-DEF,162523,D,3
 Software Engineering,EWS-DEF,134463,D,3
-Electronics and Communication Engineering,EWS-DEF,17125 (Priority VI),OD,3
+Electronics and Communication Engineering,EWS-DEF,17125,OD,3
 Information Technology,EWS-DEF,7299,OD,3
-Civil Engineering,EWS-DEF,368001 (Priority VIII),D,4
+Civil Engineering,EWS-DEF,368001,D,4
 Computer Science and Engineering,EWS-DEF,59642,D,4
 Electrical Engineering,EWS-DEF,167991,D,4
 Electronics and Communication Engineering,EWS-DEF,144614,D,4
@@ -604,7 +604,7 @@ Mathematics and Computing,EWS-DEF,189345,D,4
 Mechanical Engineering,EWS-DEF,162523,D,4
 Software Engineering,EWS-DEF,134463,D,4
 Electronics and Communication Engineering,EWS-DEF,17125,OD,4
-Information Technology,EWS-DEF,24422 (Priority VI),OD,4
+Information Technology,EWS-DEF,24422,OD,4
 Civil Engineering,EWS-DEF,368001,D,U1
 Computer Science and Engineering,EWS-DEF,59642,D,U1
 Electrical Engineering,EWS-DEF,167991,D,U1
@@ -807,7 +807,7 @@ Mechanical Engineering,OBC,54025,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,OBC,61739,OD,S
 Production and Industrial Engineering,OBC,66827,OD,S
 Software Engineering,OBC,15695,OD,S
-Bio-Technology,OBC-DEF,285952 (Priority VIII),D,1
+Bio-Technology,OBC-DEF,285952,D,1
 Chemical Engineering,OBC-DEF,196820,D,1
 Civil Engineering,OBC-DEF,192394,D,1
 Computer Science and Engineering,OBC-DEF,124733,D,1
@@ -821,12 +821,12 @@ Mechanical Engineering,OBC-DEF,552270,D,1
 Mechanical Engineering with specialization in Automotive Engineering,OBC-DEF,256432,D,1
 Production and Industrial Engineering,OBC-DEF,237115,D,1
 Software Engineering,OBC-DEF,154172,D,1
-Civil Engineering,OBC-DEF,395239 (Priority IV),OD,1
+Civil Engineering,OBC-DEF,395239,OD,1
 Computer Science and Engineering,OBC-DEF,713870,OD,1
 Information Technology,OBC-DEF,17346,OD,1
 Mechanical Engineering,OBC-DEF,99871,OD,1
 Software Engineering,OBC-DEF,19880,OD,1
-Bio-Technology,OBC-DEF,644448 (Priority VIII),D,2
+Bio-Technology,OBC-DEF,644448,D,2
 Chemical Engineering,OBC-DEF,523807,D,2
 Civil Engineering,OBC-DEF,411127,D,2
 Computer Science and Engineering,OBC-DEF,142192,D,2
@@ -839,12 +839,12 @@ Mathematics and Computing,OBC-DEF,197528,D,2
 Mechanical Engineering,OBC-DEF,437264,D,2
 Mechanical Engineering with specialization in Automotive Engineering,OBC-DEF,221551,D,2
 Software Engineering,OBC-DEF,173850,D,2
-Civil Engineering,OBC-DEF,395239 (Priority IV),OD,2
+Civil Engineering,OBC-DEF,395239,OD,2
 Computer Science and Engineering,OBC-DEF,713870,OD,2
 Information Technology,OBC-DEF,17346,OD,2
 Mechanical Engineering,OBC-DEF,99871,OD,2
 Software Engineering,OBC-DEF,19880,OD,2
-Bio-Technology,OBC-DEF,437264 (Priority VIII),D,3
+Bio-Technology,OBC-DEF,437264,D,3
 Chemical Engineering,OBC-DEF,396077,D,3
 Computer Science and Engineering,OBC-DEF,142192,D,3
 Electrical Engineering,OBC-DEF,398752,D,3
@@ -856,7 +856,7 @@ Mathematics and Computing,OBC-DEF,197528,D,3
 Mechanical Engineering,OBC-DEF,504807,D,3
 Mechanical Engineering with specialization in Automotive Engineering,OBC-DEF,221551,D,3
 Software Engineering,OBC-DEF,184762,D,3
-Civil Engineering,OBC-DEF,395239 (Priority IV),OD,3
+Civil Engineering,OBC-DEF,395239,OD,3
 Computer Science and Engineering,OBC-DEF,713870,OD,3
 Information Technology,OBC-DEF,17346,OD,3
 Mechanical Engineering,OBC-DEF,99871,OD,3
@@ -866,13 +866,13 @@ Computer Science and Engineering,OBC-DEF,142192,D,4
 Electrical Engineering,OBC-DEF,398752,D,4
 Electronics and Communication Engineering,OBC-DEF,332468,D,4
 Engineering Physics,OBC-DEF,193068,D,4
-Environmental Engineering,OBC-DEF,503599 (Priority VIII),D,4
+Environmental Engineering,OBC-DEF,503599,D,4
 Information Technology,OBC-DEF,155731,D,4
 Mathematics and Computing,OBC-DEF,197528,D,4
 Mechanical Engineering,OBC-DEF,504807,D,4
 Mechanical Engineering with specialization in Automotive Engineering,OBC-DEF,221551,D,4
 Software Engineering,OBC-DEF,184762,D,4
-Civil Engineering,OBC-DEF,236395 (Priority V(vii)),OD,4
+Civil Engineering,OBC-DEF,236395,OD,4
 Computer Science and Engineering,OBC-DEF,713870,OD,4
 Information Technology,OBC-DEF,17346,OD,4
 Mechanical Engineering,OBC-DEF,395239,OD,4
@@ -1099,38 +1099,38 @@ Software Engineering,SC,46761,OD,S
 Computer Science and Engineering,SC-DEF,374061,D,1
 Electronics and Communication Engineering,SC-DEF,256054,D,1
 Information Technology,SC-DEF,492215,D,1
-Mathematics and Computing,SC-DEF,697020 (Priority VIII),D,1
+Mathematics and Computing,SC-DEF,697020,D,1
 Mechanical Engineering,SC-DEF,591361,D,1
 Software Engineering,SC-DEF,152003,D,1
 Computer Science and Engineering,SC-DEF,67950,OD,1
 Electronics and Communication Engineering,SC-DEF,85160,OD,1
-Mechanical Engineering,SC-DEF,88689 (Priority VI),OD,1
+Mechanical Engineering,SC-DEF,88689,OD,1
 Computer Science and Engineering,SC-DEF,374061,D,2
 Information Technology,SC-DEF,492215,D,2
-Mathematics and Computing,SC-DEF,697020 (Priority VIII),D,2
+Mathematics and Computing,SC-DEF,697020,D,2
 Mechanical Engineering,SC-DEF,591361,D,2
 Software Engineering,SC-DEF,152003,D,2
 Computer Science and Engineering,SC-DEF,67950,OD,2
 Electronics and Communication Engineering,SC-DEF,85160,OD,2
-Mechanical Engineering,SC-DEF,88689 (Priority IV),OD,2
+Mechanical Engineering,SC-DEF,88689,OD,2
 Computer Science and Engineering,SC-DEF,374061,D,3
 Electronics and Communication Engineering,SC-DEF,665513,D,3
 Information Technology,SC-DEF,492215,D,3
-Mathematics and Computing,SC-DEF,697020 (Priority VIII),D,3
+Mathematics and Computing,SC-DEF,697020,D,3
 Mechanical Engineering,SC-DEF,591361,D,3
 Software Engineering,SC-DEF,152003,D,3
 Computer Science and Engineering,SC-DEF,67950,OD,3
 Electronics and Communication Engineering,SC-DEF,85160,OD,3
-Mechanical Engineering,SC-DEF,88689 (Priority IV),OD,3
+Mechanical Engineering,SC-DEF,88689,OD,3
 Computer Science and Engineering,SC-DEF,374061,D,4
 Electronics and Communication Engineering,SC-DEF,665513,D,4
 Information Technology,SC-DEF,492215,D,4
-Mathematics and Computing,SC-DEF,697020 (Priority VIII),D,4
+Mathematics and Computing,SC-DEF,697020,D,4
 Mechanical Engineering,SC-DEF,591361,D,4
 Software Engineering,SC-DEF,152003,D,4
 Computer Science and Engineering,SC-DEF,67950,OD,4
 Electronics and Communication Engineering,SC-DEF,85160,OD,4
-Mechanical Engineering,SC-DEF,189887 (Priority VI),OD,4
+Mechanical Engineering,SC-DEF,189887,OD,4
 Computer Science and Engineering,SC-DEF,374061,D,U1
 Electronics and Communication Engineering,SC-DEF,665513,D,U1
 Information Technology,SC-DEF,492215,D,U1
@@ -1286,13 +1286,13 @@ Mechanical Engineering,ST,188521,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,ST,130188,OD,S
 Software Engineering,ST,74324,OD,S
 Computer Science and Engineering,ST-DEF,307088,OD,1
-Information Technology,ST-DEF,77474 (Priority VIII),OD,1
+Information Technology,ST-DEF,77474,OD,1
 Computer Science and Engineering,ST-DEF,77474,OD,2
-Information Technology,ST-DEF,309530 (Priority VIII),OD,2
+Information Technology,ST-DEF,309530,OD,2
 Computer Science and Engineering,ST-DEF,77474,OD,3
-Information Technology,ST-DEF,309530 (Priority VIII),OD,3
+Information Technology,ST-DEF,309530,OD,3
 Computer Science and Engineering,ST-DEF,77474,OD,4
-Information Technology,ST-DEF,309530 (Priority VIII),OD,4
+Information Technology,ST-DEF,309530,OD,4
 Computer Science and Engineering,ST-DEF,77474,OD,U1
 Information Technology,ST-DEF,309530,OD,U1
 Computer Science and Engineering,ST-DEF,77474,OD,S

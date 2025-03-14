@@ -58,28 +58,12 @@ Civil Engineering,GEN,200421,OD,s2
 Geoinformatics,GEN,287426,OD,s2
 Mechanical Engineering with specialization in Electric Vehicles,GEN,50573,OD,s2
 Architecture,GEN,801,OD,s2
-Civil Engineering,SpotRound-1,210512,D,s2
-Geoinformatics,SpotRound-1,184976,D,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,114615,D,s2
-Architecture,SpotRound-1,35003,D,s2
-Civil Engineering,SpotRound-1,59209,OD,s2
-Geoinformatics,SpotRound-1,64803,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,50573,OD,s2
-Architecture,SpotRound-1,801,OD,s2
-Civil Engineering,SpotRound-2,640066,D,s2
-Geoinformatics,SpotRound-2,506294,D,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,833068,D,s2
-Architecture,SpotRound-2,35003,D,s2
-Civil Engineering,SpotRound-2,200421,OD,s2
-Geoinformatics,SpotRound-2,287426,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,50573,OD,s2
-Architecture,SpotRound-2,801,OD,s2
 Civil Engineering,GEN-DEF,107291,D,1
-Geoinformatics,GEN-DEF,116814 (Priority VI),D,1
+Geoinformatics,GEN-DEF,116814,D,1
 Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,80657,D,1
 Architecture,GEN-DEF,21483,D,1
 Civil Engineering,GEN-DEF,107291,D,2
-Geoinformatics,GEN-DEF,146315 (Priority VI),D,2
+Geoinformatics,GEN-DEF,146315,D,2
 Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,115438,D,2
 Architecture,GEN-DEF,2963,D,2
 Civil Engineering,GEN-DEF,107291,D,3
@@ -87,43 +71,43 @@ Geoinformatics,GEN-DEF,693307,D,3
 Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,637351,D,3
 Architecture,GEN-DEF,7268,D,3
 Civil Engineering,GEN-DEF,107291,D,4
-Geoinformatics,GEN-DEF,146315 (Priority VI),D,4
+Geoinformatics,GEN-DEF,146315,D,4
 Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,108654,D,4
 Architecture,GEN-DEF,25179,D,4
-Civil Engineering,GEN-DEF,186105 (Priority VI),D,5
+Civil Engineering,GEN-DEF,186105,D,5
 Geoinformatics,GEN-DEF,174145,D,5
 Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,122422,D,5
 Architecture,GEN-DEF,40032,D,5
-Civil Engineering,GENGirlCandidate,85918,D,1
-Geoinformatics,GENGirlCandidate,88324,D,1
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,79049,D,1
-Civil Engineering,GENGirlCandidate,19449,OD,1
-Geoinformatics,GENGirlCandidate,19310,OD,1
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,19998,OD,1
-Civil Engineering,GENGirlCandidate,90049,D,2
-Geoinformatics,GENGirlCandidate,93037,D,2
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,84663,D,2
-Civil Engineering,GENGirlCandidate,23888,OD,2
-Geoinformatics,GENGirlCandidate,24730,OD,2
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,21977,OD,2
-Civil Engineering,GENGirlCandidate,90049,D,3
-Geoinformatics,GENGirlCandidate,93515,D,3
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,84663,D,3
-Civil Engineering,GENGirlCandidate,26102,OD,3
-Geoinformatics,GENGirlCandidate,24730,OD,3
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,24038,OD,3
-Civil Engineering,GENGirlCandidate,93037,D,4
-Geoinformatics,GENGirlCandidate,95882,D,4
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,92062,D,4
-Civil Engineering,GENGirlCandidate,27450,OD,4
-Geoinformatics,GENGirlCandidate,27700,OD,4
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,26444,OD,4
-Civil Engineering,GENGirlCandidate,107535,D,5
-Geoinformatics,GENGirlCandidate,109322,D,5
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,105272,D,5
-Civil Engineering,GENGirlCandidate,29809,OD,5
-Geoinformatics,GENGirlCandidate,31791,OD,5
-Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,28774,OD,5
+Civil Engineering,GEN-SGC,85918,D,1
+Geoinformatics,GEN-SGC,88324,D,1
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,79049,D,1
+Civil Engineering,GEN-SGC,19449,OD,1
+Geoinformatics,GEN-SGC,19310,OD,1
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,19998,OD,1
+Civil Engineering,GEN-SGC,90049,D,2
+Geoinformatics,GEN-SGC,93037,D,2
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,84663,D,2
+Civil Engineering,GEN-SGC,23888,OD,2
+Geoinformatics,GEN-SGC,24730,OD,2
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,21977,OD,2
+Civil Engineering,GEN-SGC,90049,D,3
+Geoinformatics,GEN-SGC,93515,D,3
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,84663,D,3
+Civil Engineering,GEN-SGC,26102,OD,3
+Geoinformatics,GEN-SGC,24730,OD,3
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,24038,OD,3
+Civil Engineering,GEN-SGC,93037,D,4
+Geoinformatics,GEN-SGC,95882,D,4
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,92062,D,4
+Civil Engineering,GEN-SGC,27450,OD,4
+Geoinformatics,GEN-SGC,27700,OD,4
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,26444,OD,4
+Civil Engineering,GEN-SGC,107535,D,5
+Geoinformatics,GEN-SGC,109322,D,5
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,105272,D,5
+Civil Engineering,GEN-SGC,29809,OD,5
+Geoinformatics,GEN-SGC,31791,OD,5
+Mechanical Engineering with specialization in Electric Vehicles,GEN-SGC,28774,OD,5
 Civil Engineering,EWS,97593,D,1
 Geoinformatics,EWS,102759,D,1
 Mechanical Engineering with specialization in Electric Vehicles,EWS,94868,D,1
@@ -169,36 +153,26 @@ Geoinformatics,EWS,148769,D,s2
 Mechanical Engineering with specialization in Electric Vehicles,EWS,173782,D,s2
 Civil Engineering,EWS,49414,OD,s2
 Mechanical Engineering with specialization in Electric Vehicles,EWS,43794,OD,s2
-Civil Engineering,SpotRound-1,187045,D,s2
-Geoinformatics,SpotRound-1,148769,D,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,173782,D,s2
-Civil Engineering,SpotRound-1,49414,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,43794,OD,s2
-Civil Engineering,SpotRound-2,187045,D,s2
-Geoinformatics,SpotRound-2,148769,D,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,173782,D,s2
-Civil Engineering,SpotRound-2,49414,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,43794,OD,s2
-Civil Engineering,EWSGirlCandidate,148571,D,1
-Geoinformatics,EWSGirlCandidate,123637,D,1
-Mechanical Engineering with specialization in Electric Vehicles,EWSGirlCandidate,127748,D,1
-Civil Engineering,EWSGirlCandidate,23736,OD,1
-Civil Engineering,EWSGirlCandidate,165570,D,2
-Geoinformatics,EWSGirlCandidate,169347,D,2
-Mechanical Engineering with specialization in Electric Vehicles,EWSGirlCandidate,160614,D,2
-Civil Engineering,EWSGirlCandidate,40677,OD,2
-Civil Engineering,EWSGirlCandidate,165570,D,3
-Geoinformatics,EWSGirlCandidate,172200,D,3
-Mechanical Engineering with specialization in Electric Vehicles,EWSGirlCandidate,150195,D,3
-Civil Engineering,EWSGirlCandidate,42697,OD,3
-Civil Engineering,EWSGirlCandidate,165570,D,4
-Geoinformatics,EWSGirlCandidate,174874,D,4
-Mechanical Engineering with specialization in Electric Vehicles,EWSGirlCandidate,162043,D,4
-Civil Engineering,EWSGirlCandidate,45679,OD,4
-Civil Engineering,EWSGirlCandidate,183548,D,5
-Geoinformatics,EWSGirlCandidate,189270,D,5
-Mechanical Engineering with specialization in Electric Vehicles,EWSGirlCandidate,165570,D,5
-Civil Engineering,EWSGirlCandidate,45875,OD,5
+Civil Engineering,EWS-SGC,148571,D,1
+Geoinformatics,EWS-SGC,123637,D,1
+Mechanical Engineering with specialization in Electric Vehicles,EWS-SGC,127748,D,1
+Civil Engineering,EWS-SGC,23736,OD,1
+Civil Engineering,EWS-SGC,165570,D,2
+Geoinformatics,EWS-SGC,169347,D,2
+Mechanical Engineering with specialization in Electric Vehicles,EWS-SGC,160614,D,2
+Civil Engineering,EWS-SGC,40677,OD,2
+Civil Engineering,EWS-SGC,165570,D,3
+Geoinformatics,EWS-SGC,172200,D,3
+Mechanical Engineering with specialization in Electric Vehicles,EWS-SGC,150195,D,3
+Civil Engineering,EWS-SGC,42697,OD,3
+Civil Engineering,EWS-SGC,165570,D,4
+Geoinformatics,EWS-SGC,174874,D,4
+Mechanical Engineering with specialization in Electric Vehicles,EWS-SGC,162043,D,4
+Civil Engineering,EWS-SGC,45679,OD,4
+Civil Engineering,EWS-SGC,183548,D,5
+Geoinformatics,EWS-SGC,189270,D,5
+Mechanical Engineering with specialization in Electric Vehicles,EWS-SGC,165570,D,5
+Civil Engineering,EWS-SGC,45875,OD,5
 Civil Engineering,OBC,192031,D,1
 Geoinformatics,OBC,202253,D,1
 Mechanical Engineering with specialization in Electric Vehicles,OBC,160254,D,1
@@ -253,53 +227,41 @@ Mechanical Engineering with specialization in Electric Vehicles,OBC,287575,D,s2
 Civil Engineering,OBC,85107,OD,s2
 Geoinformatics,OBC,85120,OD,s2
 Mechanical Engineering with specialization in Electric Vehicles,OBC,62487,OD,s2
-Civil Engineering,SpotRound-1,359011,D,s2
-Geoinformatics,SpotRound-1,410179,D,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,287575,D,s2
-Civil Engineering,SpotRound-1,85107,OD,s2
-Geoinformatics,SpotRound-1,85120,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,62487,OD,s2
-Civil Engineering,SpotRound-2,359011,D,s2
-Geoinformatics,SpotRound-2,410179,D,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,287575,D,s2
-Civil Engineering,SpotRound-2,85107,OD,s2
-Geoinformatics,SpotRound-2,85120,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,62487,OD,s2
-Geoinformatics,OBC-DEF,658432 (Priority VI),D,1
+Geoinformatics,OBC-DEF,658432,D,1
 Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,384647,D,1
 Civil Engineering,OBC-DEF,33985,OD,1
-Geoinformatics,OBC-DEF,410804 (Priority VIII),D,2
+Geoinformatics,OBC-DEF,410804,D,2
 Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,230741,D,2
-Civil Engineering,OBC-DEF,41528 (Priority VI),OD,2
-Geoinformatics,OBC-DEF,451057 (Priority VIII),D,3
+Civil Engineering,OBC-DEF,41528,OD,2
+Geoinformatics,OBC-DEF,451057,D,3
 Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,255033,D,3
-Civil Engineering,OBC-DEF,41528 (Priority VI),OD,3
-Geoinformatics,OBC-DEF,461869 (Priority VIII),D,4
+Civil Engineering,OBC-DEF,41528,OD,3
+Geoinformatics,OBC-DEF,461869,D,4
 Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,255033,D,4
-Civil Engineering,OBC-DEF,41528 (Priority VI),OD,4
-Geoinformatics,OBC-DEF,480661 (Priority VIII),D,5
+Civil Engineering,OBC-DEF,41528,OD,4
+Geoinformatics,OBC-DEF,480661,D,5
 Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,361553,D,5
-Civil Engineering,OBC-DEF,42038 (Priority VI),OD,5
-Civil Engineering,OBCGirlCandidate,328871,D,1
-Geoinformatics,OBCGirlCandidate,329416,D,1
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,322093,D,1
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,36663,OD,1
-Civil Engineering,OBCGirlCandidate,374104,D,2
-Geoinformatics,OBCGirlCandidate,384235,D,2
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,383199,D,2
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,44537,OD,2
-Civil Engineering,OBCGirlCandidate,414427,D,3
-Geoinformatics,OBCGirlCandidate,389744,D,3
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,400151,D,3
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,51920,OD,3
-Civil Engineering,OBCGirlCandidate,458809,D,4
-Geoinformatics,OBCGirlCandidate,452612,D,4
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,434179,D,4
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,52875,OD,4
-Civil Engineering,OBCGirlCandidate,486192,D,5
-Geoinformatics,OBCGirlCandidate,465557,D,5
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,479819,D,5
-Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,57753,OD,5
+Civil Engineering,OBC-DEF,42038,OD,5
+Civil Engineering,OBC-SGC,328871,D,1
+Geoinformatics,OBC-SGC,329416,D,1
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,322093,D,1
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,36663,OD,1
+Civil Engineering,OBC-SGC,374104,D,2
+Geoinformatics,OBC-SGC,384235,D,2
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,383199,D,2
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,44537,OD,2
+Civil Engineering,OBC-SGC,414427,D,3
+Geoinformatics,OBC-SGC,389744,D,3
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,400151,D,3
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,51920,OD,3
+Civil Engineering,OBC-SGC,458809,D,4
+Geoinformatics,OBC-SGC,452612,D,4
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,434179,D,4
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,52875,OD,4
+Civil Engineering,OBC-SGC,486192,D,5
+Geoinformatics,OBC-SGC,465557,D,5
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,479819,D,5
+Mechanical Engineering with specialization in Electric Vehicles,OBC-SGC,57753,OD,5
 Civil Engineering,SC,297655,D,1
 Geoinformatics,SC,312708,D,1
 Mechanical Engineering with specialization in Electric Vehicles,SC,270279,D,1
@@ -352,33 +314,21 @@ Mechanical Engineering with specialization in Electric Vehicles,SC,833068,D,s2
 Civil Engineering,SC,230235,OD,s2
 Geoinformatics,SC,588183,OD,s2
 Mechanical Engineering with specialization in Electric Vehicles,SC,211846,OD,s2
-Civil Engineering,SpotRound-1,1039366,D,s2
-Geoinformatics,SpotRound-1,525965,D,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,833068,D,s2
-Civil Engineering,SpotRound-1,230235,OD,s2
-Geoinformatics,SpotRound-1,588183,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,211846,OD,s2
-Civil Engineering,SpotRound-2,1039366,D,s2
-Geoinformatics,SpotRound-2,525965,D,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,833068,D,s2
-Civil Engineering,SpotRound-2,230235,OD,s2
-Geoinformatics,SpotRound-2,588183,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,211846,OD,s2
-Civil Engineering,SCGirlCandidate,400404,D,1
-Geoinformatics,SCGirlCandidate,441081,D,1
-Mechanical Engineering with specialization in Electric Vehicles,SCGirlCandidate,459503,D,1
-Civil Engineering,SCGirlCandidate,408984,D,2
-Geoinformatics,SCGirlCandidate,516136,D,2
-Mechanical Engineering with specialization in Electric Vehicles,SCGirlCandidate,477772,D,2
-Civil Engineering,SCGirlCandidate,470858,D,3
-Geoinformatics,SCGirlCandidate,516136,D,3
-Mechanical Engineering with specialization in Electric Vehicles,SCGirlCandidate,477772,D,3
-Civil Engineering,SCGirlCandidate,470858,D,4
-Geoinformatics,SCGirlCandidate,524508,D,4
-Mechanical Engineering with specialization in Electric Vehicles,SCGirlCandidate,513253,D,4
-Civil Engineering,SCGirlCandidate,643195,D,5
-Geoinformatics,SCGirlCandidate,797746,D,5
-Mechanical Engineering with specialization in Electric Vehicles,SCGirlCandidate,736571,D,5
+Civil Engineering,SC-SGC,400404,D,1
+Geoinformatics,SC-SGC,441081,D,1
+Mechanical Engineering with specialization in Electric Vehicles,SC-SGC,459503,D,1
+Civil Engineering,SC-SGC,408984,D,2
+Geoinformatics,SC-SGC,516136,D,2
+Mechanical Engineering with specialization in Electric Vehicles,SC-SGC,477772,D,2
+Civil Engineering,SC-SGC,470858,D,3
+Geoinformatics,SC-SGC,516136,D,3
+Mechanical Engineering with specialization in Electric Vehicles,SC-SGC,477772,D,3
+Civil Engineering,SC-SGC,470858,D,4
+Geoinformatics,SC-SGC,524508,D,4
+Mechanical Engineering with specialization in Electric Vehicles,SC-SGC,513253,D,4
+Civil Engineering,SC-SGC,643195,D,5
+Geoinformatics,SC-SGC,797746,D,5
+Mechanical Engineering with specialization in Electric Vehicles,SC-SGC,736571,D,5
 Civil Engineering,ST,521306,D,1
 Mechanical Engineering with specialization in Electric Vehicles,ST,742524,D,1
 Geoinformatics,ST,157240,OD,1
@@ -396,6 +346,4 @@ Mechanical Engineering with specialization in Electric Vehicles,ST,187056,OD,5
 Mechanical Engineering with specialization in Electric Vehicles,ST,187056,OD,U1
 Mechanical Engineering with specialization in Electric Vehicles,ST,187056,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,ST,187056,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,187056,OD,s2
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,187056,OD,s2
-Civil Engineering,STGirlCandidate,678683,D,1
+Civil Engineering,ST-SGC,678683,D,1

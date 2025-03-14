@@ -116,42 +116,42 @@ B.Tech Mechanical and Automation Engineering + MBA,GEN-DEF,153706,D,1
 Computer Science and Engineering,GEN-DEF,177204,OD,1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,428820,OD,1
 Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,336173,OD,1
-Artificial Intelligence and Machine Learning,GEN-DEF,103487 (Priority VI),D,2
-Computer Science and Engineering,GEN-DEF,93246 (Priority VI),D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,77150 (Priority VI),D,2
-Electronics and Communication Engineering,GEN-DEF,142904 (Priority VI),D,2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,141522 (Priority VI),D,2
-Information Technology,GEN-DEF,94896 (Priority VI),D,2
-Mechanical and Automation Engineering,GEN-DEF,170595 (Priority VI),D,2
-Architecture,GEN-DEF,29729 (Priority VI),D,2
-B.Tech Mechanical and Automation Engineering + MBA,GEN-DEF,153706 (Priority VI),D,2
-Computer Science and Engineering,GEN-DEF,177204 (Priority IV),OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,336173 (Priority V),OD,2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,142193 (Priority V),OD,2
-Artificial Intelligence and Machine Learning,GEN-DEF,103487 (Priority VI),D,3
-Computer Science and Engineering,GEN-DEF,93246 (Priority VI),D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,77150 (Priority VI),D,3
-Electronics and Communication Engineering,GEN-DEF,142904 (Priority VI),D,3
-Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,141522 (Priority VI),D,3
-Information Technology,GEN-DEF,94896 (Priority VI),D,3
-Mechanical and Automation Engineering,GEN-DEF,170595 (Priority VI),D,3
-Architecture,GEN-DEF,29729 (Priority VI),D,3
-B.Tech Mechanical and Automation Engineering + MBA,GEN-DEF,153706 (Priority VI),D,3
-Computer Science and Engineering,GEN-DEF,177204 (Priority IV),OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,336173 (Priority V),OD,3
-Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,142193 (Priority V),OD,3
-Artificial Intelligence and Machine Learning,GEN-DEF,103487 (Priority VI),D,4
-Computer Science and Engineering,GEN-DEF,94896 (Priority VI),D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,77150 (Priority VI),D,4
+Artificial Intelligence and Machine Learning,GEN-DEF,103487,D,2
+Computer Science and Engineering,GEN-DEF,93246,D,2
+Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,77150,D,2
+Electronics and Communication Engineering,GEN-DEF,142904,D,2
+Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,141522,D,2
+Information Technology,GEN-DEF,94896,D,2
+Mechanical and Automation Engineering,GEN-DEF,170595,D,2
+Architecture,GEN-DEF,29729,D,2
+B.Tech Mechanical and Automation Engineering + MBA,GEN-DEF,153706,D,2
+Computer Science and Engineering,GEN-DEF,177204,OD,2
+Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,336173,OD,2
+Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,142193,OD,2
+Artificial Intelligence and Machine Learning,GEN-DEF,103487,D,3
+Computer Science and Engineering,GEN-DEF,93246,D,3
+Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,77150,D,3
+Electronics and Communication Engineering,GEN-DEF,142904,D,3
+Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,141522,D,3
+Information Technology,GEN-DEF,94896,D,3
+Mechanical and Automation Engineering,GEN-DEF,170595,D,3
+Architecture,GEN-DEF,29729,D,3
+B.Tech Mechanical and Automation Engineering + MBA,GEN-DEF,153706,D,3
+Computer Science and Engineering,GEN-DEF,177204,OD,3
+Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,336173,OD,3
+Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,142193,OD,3
+Artificial Intelligence and Machine Learning,GEN-DEF,103487,D,4
+Computer Science and Engineering,GEN-DEF,94896,D,4
+Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,77150,D,4
 Electronics and Communication Engineering,GEN-DEF,142904,D,4
 Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,143289,D,4
 Information Technology,GEN-DEF,102156,D,4
-Mechanical and Automation Engineering,GEN-DEF,170595 (Priority VI),D,4
-Architecture,GEN-DEF,29729 (Priority VI),D,4
-B.Tech Mechanical and Automation Engineering + MBA,GEN-DEF,397523 (Priority VI),D,4
-Computer Science and Engineering,GEN-DEF,177204 (Priority IV),OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,336173 (Priority V),OD,4
-Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,142193 (Priority V),OD,4
+Mechanical and Automation Engineering,GEN-DEF,170595,D,4
+Architecture,GEN-DEF,29729,D,4
+B.Tech Mechanical and Automation Engineering + MBA,GEN-DEF,397523,D,4
+Computer Science and Engineering,GEN-DEF,177204,OD,4
+Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,336173,OD,4
+Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,142193,OD,4
 Artificial Intelligence and Machine Learning,GEN-DEF,143289,D,U1
 Computer Science and Engineering,GEN-DEF,94896,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,77150,D,U1
@@ -172,38 +172,38 @@ Mechanical and Automation Engineering,GEN-DEF,170595,D,S
 Computer Science and Engineering,GEN-DEF,177204,OD,S
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,336173,OD,S
 Electronics and Communication Engineering with specialization in Artificial Intelligence,GEN-DEF,142193,OD,S
-Artificial Intelligence and Machine Learning,SingleGirlChild,66281,D,1
-Computer Science and Engineering,SingleGirlChild,47421,D,1
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,39094,D,1
-Electronics and Communication Engineering,SingleGirlChild,73162,D,1
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,69450,D,1
-Information Technology,SingleGirlChild,55462,D,1
-Mechanical and Automation Engineering,SingleGirlChild,136506,D,1
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,113887,D,1
-Artificial Intelligence and Machine Learning,SingleGirlChild,68889,D,2
-Computer Science and Engineering,SingleGirlChild,50578,D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,47421,D,2
-Electronics and Communication Engineering,SingleGirlChild,81365,D,2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,90024,D,2
-Information Technology,SingleGirlChild,59040,D,2
-Mechanical and Automation Engineering,SingleGirlChild,145363,D,2
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,136506,D,2
-Artificial Intelligence and Machine Learning,SingleGirlChild,68889,D,3
-Computer Science and Engineering,SingleGirlChild,55462,D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,47421,D,3
-Electronics and Communication Engineering,SingleGirlChild,90024,D,3
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,94356,D,3
-Information Technology,SingleGirlChild,59040,D,3
-Mechanical and Automation Engineering,SingleGirlChild,145363,D,3
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,136506,D,3
-Artificial Intelligence and Machine Learning,SingleGirlChild,68889,D,4
-Computer Science and Engineering,SingleGirlChild,55462,D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,47421,D,4
-Electronics and Communication Engineering,SingleGirlChild,99102,D,4
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,106821,D,4
-Information Technology,SingleGirlChild,59040,D,4
-Mechanical and Automation Engineering,SingleGirlChild,148898,D,4
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,160873,D,4
+Artificial Intelligence and Machine Learning,SGC,66281,D,1
+Computer Science and Engineering,SGC,47421,D,1
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,39094,D,1
+Electronics and Communication Engineering,SGC,73162,D,1
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,69450,D,1
+Information Technology,SGC,55462,D,1
+Mechanical and Automation Engineering,SGC,136506,D,1
+B.Tech Mechanical and Automation Engineering + MBA,SGC,113887,D,1
+Artificial Intelligence and Machine Learning,SGC,68889,D,2
+Computer Science and Engineering,SGC,50578,D,2
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,47421,D,2
+Electronics and Communication Engineering,SGC,81365,D,2
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,90024,D,2
+Information Technology,SGC,59040,D,2
+Mechanical and Automation Engineering,SGC,145363,D,2
+B.Tech Mechanical and Automation Engineering + MBA,SGC,136506,D,2
+Artificial Intelligence and Machine Learning,SGC,68889,D,3
+Computer Science and Engineering,SGC,55462,D,3
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,47421,D,3
+Electronics and Communication Engineering,SGC,90024,D,3
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,94356,D,3
+Information Technology,SGC,59040,D,3
+Mechanical and Automation Engineering,SGC,145363,D,3
+B.Tech Mechanical and Automation Engineering + MBA,SGC,136506,D,3
+Artificial Intelligence and Machine Learning,SGC,68889,D,4
+Computer Science and Engineering,SGC,55462,D,4
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,47421,D,4
+Electronics and Communication Engineering,SGC,99102,D,4
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,106821,D,4
+Information Technology,SGC,59040,D,4
+Mechanical and Automation Engineering,SGC,148898,D,4
+B.Tech Mechanical and Automation Engineering + MBA,SGC,160873,D,4
 Computer Science and Engineering,GEN-PWD,538024,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,391048,D,1
 Architecture,GEN-PWD,3333,D,1
@@ -320,9 +320,9 @@ Information Technology,EWS,42142,OD,S
 Mechanical and Automation Engineering,EWS,90183,OD,S
 Architecture,EWS,7605,OD,S
 Computer Science and Engineering,EWS-DEF,144534,D,1
-Computer Science and Engineering,EWS-DEF,144534 (Priority VI),D,2
-Computer Science and Engineering,EWS-DEF,144534 (Priority VI),D,3
-Computer Science and Engineering,EWS-DEF,144534 (Priority VI),D,4
+Computer Science and Engineering,EWS-DEF,144534,D,2
+Computer Science and Engineering,EWS-DEF,144534,D,3
+Computer Science and Engineering,EWS-DEF,144534,D,4
 Computer Science and Engineering,EWS-DEF,144534,D,U1
 Computer Science and Engineering,EWS-DEF,144534,D,S
 Artificial Intelligence and Machine Learning,OBC,219070,D,1
@@ -437,30 +437,30 @@ Mechanical and Automation Engineering,OBC-DEF,828598,D,1
 B.Tech Mechanical and Automation Engineering + MBA,OBC-DEF,470904,D,1
 Computer Science and Engineering,OBC-DEF,323907,OD,1
 Mechanical and Automation Engineering,OBC-DEF,46133,OD,1
-Artificial Intelligence and Machine Learning,OBC-DEF,470904 (Priority VIII),D,2
-Computer Science and Engineering,OBC-DEF,408357 (Priority VI),D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,302004 (Priority VI),D,2
-Electronics and Communication Engineering,OBC-DEF,689105 (Priority VI),D,2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,OBC-DEF,734130 (Priority VIII),D,2
-Information Technology,OBC-DEF,391091 (Priority VIII),D,2
-Computer Science and Engineering,OBC-DEF,323907 (Priority V),OD,2
-Mechanical and Automation Engineering,OBC-DEF,53287 (Priority VI),OD,2
-Artificial Intelligence and Machine Learning,OBC-DEF,470904 (Priority VIII),D,3
-Computer Science and Engineering,OBC-DEF,408357 (Priority VI),D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,302004 (Priority VI),D,3
-Electronics and Communication Engineering,OBC-DEF,689105 (Priority VI),D,3
-Electronics and Communication Engineering with specialization in Artificial Intelligence,OBC-DEF,683576 (Priority VIII),D,3
-Information Technology,OBC-DEF,391091 (Priority VIII),D,3
-Computer Science and Engineering,OBC-DEF,323907 (Priority V),OD,3
+Artificial Intelligence and Machine Learning,OBC-DEF,470904,D,2
+Computer Science and Engineering,OBC-DEF,408357,D,2
+Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,302004,D,2
+Electronics and Communication Engineering,OBC-DEF,689105,D,2
+Electronics and Communication Engineering with specialization in Artificial Intelligence,OBC-DEF,734130,D,2
+Information Technology,OBC-DEF,391091,D,2
+Computer Science and Engineering,OBC-DEF,323907,OD,2
+Mechanical and Automation Engineering,OBC-DEF,53287,OD,2
+Artificial Intelligence and Machine Learning,OBC-DEF,470904,D,3
+Computer Science and Engineering,OBC-DEF,408357,D,3
+Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,302004,D,3
+Electronics and Communication Engineering,OBC-DEF,689105,D,3
+Electronics and Communication Engineering with specialization in Artificial Intelligence,OBC-DEF,683576,D,3
+Information Technology,OBC-DEF,391091,D,3
+Computer Science and Engineering,OBC-DEF,323907,OD,3
 Mechanical and Automation Engineering,OBC-DEF,80886,OD,3
-Artificial Intelligence and Machine Learning,OBC-DEF,470904 (Priority VIII),D,4
-Computer Science and Engineering,OBC-DEF,408357 (Priority VI),D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,302004 (Priority VI),D,4
-Electronics and Communication Engineering,OBC-DEF,689105 (Priority VI),D,4
-Electronics and Communication Engineering with specialization in Artificial Intelligence,OBC-DEF,683576 (Priority VIII),D,4
-Information Technology,OBC-DEF,391091 (Priority VIII),D,4
-Computer Science and Engineering,OBC-DEF,323907 (Priority V),OD,4
-Mechanical and Automation Engineering,OBC-DEF,87105 (Priority VI),OD,4
+Artificial Intelligence and Machine Learning,OBC-DEF,470904,D,4
+Computer Science and Engineering,OBC-DEF,408357,D,4
+Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,302004,D,4
+Electronics and Communication Engineering,OBC-DEF,689105,D,4
+Electronics and Communication Engineering with specialization in Artificial Intelligence,OBC-DEF,683576,D,4
+Information Technology,OBC-DEF,391091,D,4
+Computer Science and Engineering,OBC-DEF,323907,OD,4
+Mechanical and Automation Engineering,OBC-DEF,87105,OD,4
 Artificial Intelligence and Machine Learning,OBC-DEF,470904,D,U1
 Computer Science and Engineering,OBC-DEF,408357,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,302004,D,U1
@@ -583,12 +583,12 @@ Architecture,SC,5708,OD,S
 B.Tech Mechanical and Automation Engineering + MBA,SC,260719,OD,S
 Computer Science and Engineering,SC-DEF,334589,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,497357,D,1
-Computer Science and Engineering,SC-DEF,334589 (Priority VIII),D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,497357 (Priority VIII),D,2
-Computer Science and Engineering,SC-DEF,334589 (Priority VIII),D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,497357 (Priority VIII),D,3
-Computer Science and Engineering,SC-DEF,334589 (Priority VIII),D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,497357 (Priority VIII),D,4
+Computer Science and Engineering,SC-DEF,334589,D,2
+Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,497357,D,2
+Computer Science and Engineering,SC-DEF,334589,D,3
+Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,497357,D,3
+Computer Science and Engineering,SC-DEF,334589,D,4
+Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,497357,D,4
 Computer Science and Engineering,SC-DEF,334589,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,497357,D,U1
 Computer Science and Engineering,SC-DEF,334589,D,S

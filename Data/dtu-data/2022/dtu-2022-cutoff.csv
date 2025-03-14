@@ -335,62 +335,62 @@ Mechanical Engineering,GEN-DEF,75552,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,GEN-DEF,-,OD,S
 Production and Industrial Engineering,GEN-DEF,-,OD,S
 Software Engineering,GEN-DEF,-,OD,S
-Bio-Technology,SingleGirlChild,98337,D,1
-Chemical Engineering,SingleGirlChild,94356,D,1
-Civil Engineering,SingleGirlChild,99310,D,1
-Computer Science and Engineering,SingleGirlChild,8594,D,1
-Electrical Engineering,SingleGirlChild,41969,D,1
-Electronics and Communication Engineering,SingleGirlChild,21190,D,1
-Engineering Physics,SingleGirlChild,60529,D,1
-Environmental Engineering,SingleGirlChild,129113,D,1
-Information Technology,SingleGirlChild,10837,D,1
-Mathematics and Computing,SingleGirlChild,16170,D,1
-Mechanical Engineering,SingleGirlChild,69563,D,1
-Mechanical Engineering with specialization in Automotive Engineering,SingleGirlChild,84899,D,1
-Production and Industrial Engineering,SingleGirlChild,90024,D,1
-Software Engineering,SingleGirlChild,15705,D,1
-Bio-Technology,SingleGirlChild,130019,D,2
-Chemical Engineering,SingleGirlChild,107554,D,2
-Civil Engineering,SingleGirlChild,129113,D,2
-Computer Science and Engineering,SingleGirlChild,15705,D,2
-Electrical Engineering,SingleGirlChild,41969,D,2
-Electronics and Communication Engineering,SingleGirlChild,25570,D,2
-Engineering Physics,SingleGirlChild,106821,D,2
-Environmental Engineering,SingleGirlChild,144126,D,2
-Information Technology,SingleGirlChild,16170,D,2
-Mathematics and Computing,SingleGirlChild,22269,D,2
-Mechanical Engineering,SingleGirlChild,69563,D,2
-Mechanical Engineering with specialization in Automotive Engineering,SingleGirlChild,94356,D,2
-Production and Industrial Engineering,SingleGirlChild,99310,D,2
-Software Engineering,SingleGirlChild,17660,D,2
-Bio-Technology,SingleGirlChild,130019,D,3
-Chemical Engineering,SingleGirlChild,110162,D,3
-Civil Engineering,SingleGirlChild,129113,D,3
-Computer Science and Engineering,SingleGirlChild,15705,D,3
-Electrical Engineering,SingleGirlChild,58015,D,3
-Electronics and Communication Engineering,SingleGirlChild,41969,D,3
-Engineering Physics,SingleGirlChild,106821,D,3
-Environmental Engineering,SingleGirlChild,144126,D,3
-Information Technology,SingleGirlChild,16170,D,3
-Mathematics and Computing,SingleGirlChild,22269,D,3
-Mechanical Engineering,SingleGirlChild,69563,D,3
-Mechanical Engineering with specialization in Automotive Engineering,SingleGirlChild,107554,D,3
-Production and Industrial Engineering,SingleGirlChild,99310,D,3
-Software Engineering,SingleGirlChild,18819,D,3
-Bio-Technology,SingleGirlChild,120517,D,4
-Chemical Engineering,SingleGirlChild,110162,D,4
-Civil Engineering,SingleGirlChild,129113,D,4
-Computer Science and Engineering,SingleGirlChild,15705,D,4
-Electrical Engineering,SingleGirlChild,58015,D,4
-Electronics and Communication Engineering,SingleGirlChild,41969,D,4
-Engineering Physics,SingleGirlChild,99310,D,4
-Environmental Engineering,SingleGirlChild,144126,D,4
-Information Technology,SingleGirlChild,16170,D,4
-Mathematics and Computing,SingleGirlChild,25570,D,4
-Mechanical Engineering,SingleGirlChild,69563,D,4
-Mechanical Engineering with specialization in Automotive Engineering,SingleGirlChild,113887,D,4
-Production and Industrial Engineering,SingleGirlChild,169648,D,4
-Software Engineering,SingleGirlChild,18819,D,4
+Bio-Technology,SGC,98337,D,1
+Chemical Engineering,SGC,94356,D,1
+Civil Engineering,SGC,99310,D,1
+Computer Science and Engineering,SGC,8594,D,1
+Electrical Engineering,SGC,41969,D,1
+Electronics and Communication Engineering,SGC,21190,D,1
+Engineering Physics,SGC,60529,D,1
+Environmental Engineering,SGC,129113,D,1
+Information Technology,SGC,10837,D,1
+Mathematics and Computing,SGC,16170,D,1
+Mechanical Engineering,SGC,69563,D,1
+Mechanical Engineering with specialization in Automotive Engineering,SGC,84899,D,1
+Production and Industrial Engineering,SGC,90024,D,1
+Software Engineering,SGC,15705,D,1
+Bio-Technology,SGC,130019,D,2
+Chemical Engineering,SGC,107554,D,2
+Civil Engineering,SGC,129113,D,2
+Computer Science and Engineering,SGC,15705,D,2
+Electrical Engineering,SGC,41969,D,2
+Electronics and Communication Engineering,SGC,25570,D,2
+Engineering Physics,SGC,106821,D,2
+Environmental Engineering,SGC,144126,D,2
+Information Technology,SGC,16170,D,2
+Mathematics and Computing,SGC,22269,D,2
+Mechanical Engineering,SGC,69563,D,2
+Mechanical Engineering with specialization in Automotive Engineering,SGC,94356,D,2
+Production and Industrial Engineering,SGC,99310,D,2
+Software Engineering,SGC,17660,D,2
+Bio-Technology,SGC,130019,D,3
+Chemical Engineering,SGC,110162,D,3
+Civil Engineering,SGC,129113,D,3
+Computer Science and Engineering,SGC,15705,D,3
+Electrical Engineering,SGC,58015,D,3
+Electronics and Communication Engineering,SGC,41969,D,3
+Engineering Physics,SGC,106821,D,3
+Environmental Engineering,SGC,144126,D,3
+Information Technology,SGC,16170,D,3
+Mathematics and Computing,SGC,22269,D,3
+Mechanical Engineering,SGC,69563,D,3
+Mechanical Engineering with specialization in Automotive Engineering,SGC,107554,D,3
+Production and Industrial Engineering,SGC,99310,D,3
+Software Engineering,SGC,18819,D,3
+Bio-Technology,SGC,120517,D,4
+Chemical Engineering,SGC,110162,D,4
+Civil Engineering,SGC,129113,D,4
+Computer Science and Engineering,SGC,15705,D,4
+Electrical Engineering,SGC,58015,D,4
+Electronics and Communication Engineering,SGC,41969,D,4
+Engineering Physics,SGC,99310,D,4
+Environmental Engineering,SGC,144126,D,4
+Information Technology,SGC,16170,D,4
+Mathematics and Computing,SGC,25570,D,4
+Mechanical Engineering,SGC,69563,D,4
+Mechanical Engineering with specialization in Automotive Engineering,SGC,113887,D,4
+Production and Industrial Engineering,SGC,169648,D,4
+Software Engineering,SGC,18819,D,4
 Bio-Technology,GEN-PWD,-,D,1
 Chemical Engineering,GEN-PWD,-,D,1
 Civil Engineering,GEN-PWD,672435,D,1

@@ -161,13 +161,6 @@ Computer Science and Engineering,GEN-DEF,214006,D,5
 Computer Science and Social Sciences,GEN-DEF,30470,D,5
 Electronics and Communication Engineering,GEN-DEF,50973,D,5
 Electronics and VLSI Engineering,GEN-DEF,80476,D,5
-Computer Science and Applied Mathematics,GEN-DEF,Priority,D,U1
-Computer Science and Artificial Intelligence,GEN-DEF,Priority,D,U1
-Computer Science and Biosciences,GEN-DEF,Priority,D,U1
-Computer Science and Design,GEN-DEF,Priority,D,U1
-Computer Science and Engineering,GEN-DEF,Priority,D,U1
-Computer Science and Social Sciences,GEN-DEF,Priority,D,U1
-Electronics and VLSI Engineering,GEN-DEF,Priority,D,U1
 Computer Science and Artificial Intelligence,GEN-PWD,290285,D,1
 Computer Science and Engineering,GEN-PWD,308749,D,1
 Electronics and Communication Engineering,GEN-PWD,376275,D,1
@@ -271,7 +264,6 @@ Computer Science and Engineering,EWS-DEF,92984,D,2
 Computer Science and Engineering,EWS-DEF,92984,D,3
 Computer Science and Engineering,EWS-DEF,92984,D,4
 Computer Science and Engineering,EWS-DEF,92984,D,5
-Computer Science and Engineering,EWS-DEF,Priority,D,U1
 Computer Science and Applied Mathematics,OBC,65002,D,1
 Computer Science and Artificial Intelligence,OBC,35736,D,1
 Computer Science and Biosciences,OBC,82835,D,1
@@ -410,14 +402,6 @@ Computer Science and Engineering,OBC-DEF,131431,D,5
 Computer Science and Social Sciences,OBC-DEF,200299,D,5
 Electronics and Communication Engineering,OBC-DEF,318650,D,5
 Electronics and VLSI Engineering,OBC-DEF,371282,D,5
-Computer Science and Applied Mathematics,OBC-DEF,Priority,D,U1
-Computer Science and Artificial Intelligence,OBC-DEF,Priority,D,U1
-Computer Science and Biosciences,OBC-DEF,Priority,D,U1
-Computer Science and Design,OBC-DEF,Priority,D,U1
-Computer Science and Engineering,OBC-DEF,Priority,D,U1
-Computer Science and Social Sciences,OBC-DEF,Priority,D,U1
-Electronics and Communication Engineering,OBC-DEF,Priority,D,U1
-Electronics and VLSI Engineering,OBC-DEF,Priority,D,U1
 Computer Science and Applied Mathematics,SC,141512,D,1
 Computer Science and Artificial Intelligence,SC,114756,D,1
 Computer Science and Biosciences,SC,168326,D,1
@@ -506,7 +490,6 @@ Computer Science and Engineering,SC-DEF,136666,D,2
 Computer Science and Artificial Intelligence,SC-DEF,190467,D,3
 Computer Science and Artificial Intelligence,SC-DEF,190467,D,4
 Computer Science and Artificial Intelligence,SC-DEF,190467,D,5
-Computer Science and Artificial Intelligence,SC-DEF,Priority,D,U1
 Computer Science and Applied Mathematics,ST,816417,D,1
 Computer Science and Artificial Intelligence,ST,393637,D,1
 Computer Science and Design,ST,682548,D,1

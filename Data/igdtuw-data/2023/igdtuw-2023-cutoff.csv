@@ -143,42 +143,6 @@ Information Technology,GEN,28644,OD,s2
 Mechanical and Automation Engineering,GEN,94055,OD,s2
 Architecture,GEN,893,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,GEN,440368,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,71502,D,s2
-Computer Science and Engineering,SpotRound-1,58697,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,52095,D,s2
-Electronics and Communication Engineering,SpotRound-1,93004,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,86784,D,s2
-Information Technology,SpotRound-1,67813,D,s2
-Mechanical and Automation Engineering,SpotRound-1,115503,D,s2
-Architecture,SpotRound-1,11920,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,122612,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,31015,OD,s2
-Computer Science and Engineering,SpotRound-1,25851,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,26524,OD,s2
-Electronics and Communication Engineering,SpotRound-1,30539,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,34363,OD,s2
-Information Technology,SpotRound-1,28644,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,65193,OD,s2
-Architecture,SpotRound-1,893,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,83666,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,72709,D,s2
-Computer Science and Engineering,SpotRound-2,59506,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,53571,D,s2
-Electronics and Communication Engineering,SpotRound-2,94312,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,87886,D,s2
-Information Technology,SpotRound-2,70217,D,s2
-Mechanical and Automation Engineering,SpotRound-2,615394,D,s2
-Architecture,SpotRound-2,42602,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,781806,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,31015,OD,s2
-Computer Science and Engineering,SpotRound-2,26724,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,26524,OD,s2
-Electronics and Communication Engineering,SpotRound-2,63799,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,63565,OD,s2
-Information Technology,SpotRound-2,28644,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,94055,OD,s2
-Architecture,SpotRound-2,893,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,440368,OD,s2
 Artificial Intelligence and Machine Learning,GEN-DEF,150495 (Priority VI),D,1
 Computer Science and Engineering,GEN-DEF,116422 (Priority VI),D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,71076 (Priority VI),D,1
@@ -323,123 +287,69 @@ Information Technology,GEN-DEF,-,OD,s2
 Mechanical and Automation Engineering,GEN-DEF,-,OD,s2
 Architecture,GEN-DEF,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,GEN-DEF,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,561288,D,s2
-Computer Science and Engineering,SpotRound-2,408949,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,335652,D,s2
-Electronics and Communication Engineering,SpotRound-2,617661,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,529334,D,s2
-Information Technology,SpotRound-2,472199,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,288586,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,417421,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,133904,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
-Artificial Intelligence and Machine Learning,SingleGirlChild,61417,D,1
-Computer Science and Engineering,SingleGirlChild,47673,D,1
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,45438,D,1
-Electronics and Communication Engineering,SingleGirlChild,76959,D,1
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,67637,D,1
-Information Technology,SingleGirlChild,52362,D,1
-Mechanical and Automation Engineering,SingleGirlChild,88974,D,1
-Architecture,SingleGirlChild,-,D,1
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,100999,D,1
-Artificial Intelligence and Machine Learning,SingleGirlChild,67637,D,2
-Computer Science and Engineering,SingleGirlChild,50751,D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,47673,D,2
-Electronics and Communication Engineering,SingleGirlChild,81352,D,2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,77879,D,2
-Information Technology,SingleGirlChild,65599,D,2
-Mechanical and Automation Engineering,SingleGirlChild,99892,D,2
-Architecture,SingleGirlChild,-,D,2
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,113976,D,2
-Artificial Intelligence and Machine Learning,SingleGirlChild,67637,D,3
-Computer Science and Engineering,SingleGirlChild,50751,D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,47673,D,3
-Electronics and Communication Engineering,SingleGirlChild,81352,D,3
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,77879,D,3
-Information Technology,SingleGirlChild,65599,D,3
-Mechanical and Automation Engineering,SingleGirlChild,100324,D,3
-Architecture,SingleGirlChild,-,D,3
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,116253,D,3
-Artificial Intelligence and Machine Learning,SingleGirlChild,67637,D,4
-Computer Science and Engineering,SingleGirlChild,52098,D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,47673,D,4
-Electronics and Communication Engineering,SingleGirlChild,81352,D,4
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,77879,D,4
-Information Technology,SingleGirlChild,65599,D,4
-Mechanical and Automation Engineering,SingleGirlChild,100324,D,4
-Architecture,SingleGirlChild,-,D,4
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,116253,D,4
-Artificial Intelligence and Machine Learning,SingleGirlChild,83056,D,5
-Computer Science and Engineering,SingleGirlChild,63994,D,5
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,53731,D,5
-Electronics and Communication Engineering,SingleGirlChild,99892,D,5
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,88974,D,5
-Information Technology,SingleGirlChild,78943,D,5
-Mechanical and Automation Engineering,SingleGirlChild,113863,D,5
-Architecture,SingleGirlChild,-,D,5
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,117220,D,5
-Artificial Intelligence and Machine Learning,SingleGirlChild,-,D,U1
-Computer Science and Engineering,SingleGirlChild,-,D,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,-,D,U1
-Electronics and Communication Engineering,SingleGirlChild,-,D,U1
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,-,D,U1
-Information Technology,SingleGirlChild,-,D,U1
-Mechanical and Automation Engineering,SingleGirlChild,-,D,U1
-Architecture,SingleGirlChild,-,D,U1
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,-,D,U1
-Artificial Intelligence and Machine Learning,SingleGirlChild,83056,D,S
-Computer Science and Engineering,SingleGirlChild,63994,D,S
-Computer Science and Engineering with specialization in Artificial Intelligence,SingleGirlChild,53731,D,S
-Electronics and Communication Engineering,SingleGirlChild,113863,D,S
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SingleGirlChild,99892,D,S
-Information Technology,SingleGirlChild,78943,D,S
-Mechanical and Automation Engineering,SingleGirlChild,134194,D,S
-Architecture,SingleGirlChild,-,D,S
-B.Tech Mechanical and Automation Engineering + MBA,SingleGirlChild,123627,D,S
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,83056,D,s2
-Computer Science and Engineering,SpotRound-2,63994,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,53731,D,s2
-Electronics and Communication Engineering,SpotRound-2,113863,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,99892,D,s2
-Information Technology,SpotRound-2,78943,D,s2
-Mechanical and Automation Engineering,SpotRound-2,134194,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,123627,D,s2
+Artificial Intelligence and Machine Learning,SGC,61417,D,1
+Computer Science and Engineering,SGC,47673,D,1
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,45438,D,1
+Electronics and Communication Engineering,SGC,76959,D,1
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,67637,D,1
+Information Technology,SGC,52362,D,1
+Mechanical and Automation Engineering,SGC,88974,D,1
+Architecture,SGC,-,D,1
+B.Tech Mechanical and Automation Engineering + MBA,SGC,100999,D,1
+Artificial Intelligence and Machine Learning,SGC,67637,D,2
+Computer Science and Engineering,SGC,50751,D,2
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,47673,D,2
+Electronics and Communication Engineering,SGC,81352,D,2
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,77879,D,2
+Information Technology,SGC,65599,D,2
+Mechanical and Automation Engineering,SGC,99892,D,2
+Architecture,SGC,-,D,2
+B.Tech Mechanical and Automation Engineering + MBA,SGC,113976,D,2
+Artificial Intelligence and Machine Learning,SGC,67637,D,3
+Computer Science and Engineering,SGC,50751,D,3
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,47673,D,3
+Electronics and Communication Engineering,SGC,81352,D,3
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,77879,D,3
+Information Technology,SGC,65599,D,3
+Mechanical and Automation Engineering,SGC,100324,D,3
+Architecture,SGC,-,D,3
+B.Tech Mechanical and Automation Engineering + MBA,SGC,116253,D,3
+Artificial Intelligence and Machine Learning,SGC,67637,D,4
+Computer Science and Engineering,SGC,52098,D,4
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,47673,D,4
+Electronics and Communication Engineering,SGC,81352,D,4
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,77879,D,4
+Information Technology,SGC,65599,D,4
+Mechanical and Automation Engineering,SGC,100324,D,4
+Architecture,SGC,-,D,4
+B.Tech Mechanical and Automation Engineering + MBA,SGC,116253,D,4
+Artificial Intelligence and Machine Learning,SGC,83056,D,5
+Computer Science and Engineering,SGC,63994,D,5
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,53731,D,5
+Electronics and Communication Engineering,SGC,99892,D,5
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,88974,D,5
+Information Technology,SGC,78943,D,5
+Mechanical and Automation Engineering,SGC,113863,D,5
+Architecture,SGC,-,D,5
+B.Tech Mechanical and Automation Engineering + MBA,SGC,117220,D,5
+Artificial Intelligence and Machine Learning,SGC,-,D,U1
+Computer Science and Engineering,SGC,-,D,U1
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,-,D,U1
+Electronics and Communication Engineering,SGC,-,D,U1
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,-,D,U1
+Information Technology,SGC,-,D,U1
+Mechanical and Automation Engineering,SGC,-,D,U1
+Architecture,SGC,-,D,U1
+B.Tech Mechanical and Automation Engineering + MBA,SGC,-,D,U1
+Artificial Intelligence and Machine Learning,SGC,83056,D,S
+Computer Science and Engineering,SGC,63994,D,S
+Computer Science and Engineering with specialization in Artificial Intelligence,SGC,53731,D,S
+Electronics and Communication Engineering,SGC,113863,D,S
+Electronics and Communication Engineering with specialization in Artificial Intelligence,SGC,99892,D,S
+Information Technology,SGC,78943,D,S
+Mechanical and Automation Engineering,SGC,134194,D,S
+Architecture,SGC,-,D,S
+B.Tech Mechanical and Automation Engineering + MBA,SGC,123627,D,S
 Artificial Intelligence and Machine Learning,GEN-PWD,-,D,1
 Computer Science and Engineering,GEN-PWD,519512,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,812465,D,1
@@ -584,42 +494,6 @@ Information Technology,GEN-PWD,-,OD,s2
 Mechanical and Automation Engineering,GEN-PWD,-,OD,s2
 Architecture,GEN-PWD,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,GEN-PWD,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,812465,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,666584,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,316605,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,298706,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,812465,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,666584,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,316605,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,298706,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,EWS,101058,D,1
 Computer Science and Engineering,EWS,84637,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,EWS,78569,D,1
@@ -764,42 +638,6 @@ Information Technology,EWS,42550,OD,s2
 Mechanical and Automation Engineering,EWS,79931,OD,s2
 Architecture,EWS,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,EWS,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,118632,D,s2
-Computer Science and Engineering,SpotRound-1,101029,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,82606,D,s2
-Electronics and Communication Engineering,SpotRound-1,145434,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,132115,D,s2
-Information Technology,SpotRound-1,107203,D,s2
-Mechanical and Automation Engineering,SpotRound-1,222925,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,216209,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,46588,OD,s2
-Computer Science and Engineering,SpotRound-1,35961,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,38896,OD,s2
-Electronics and Communication Engineering,SpotRound-1,45875,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,49434,OD,s2
-Information Technology,SpotRound-1,42550,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,64534,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,119173,D,s2
-Computer Science and Engineering,SpotRound-2,103409,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,83007,D,s2
-Electronics and Communication Engineering,SpotRound-2,157739,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,132685,D,s2
-Information Technology,SpotRound-2,107733,D,s2
-Mechanical and Automation Engineering,SpotRound-2,222925,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,216209,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,46588,OD,s2
-Computer Science and Engineering,SpotRound-2,35961,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,38896,OD,s2
-Electronics and Communication Engineering,SpotRound-2,45875,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,49434,OD,s2
-Information Technology,SpotRound-2,42550,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,79931,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,EWS-DEF,-,D,1
 Computer Science and Engineering,EWS-DEF,177576 (Priority VI),D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,249696 (Priority VI),D,1
@@ -944,42 +782,6 @@ Information Technology,EWS-DEF,-,OD,s2
 Mechanical and Automation Engineering,EWS-DEF,-,OD,s2
 Architecture,EWS-DEF,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,EWS-DEF,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,EWS-PWD,-,D,1
 Computer Science and Engineering,EWS-PWD,-,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,D,1
@@ -1124,42 +926,6 @@ Information Technology,EWS-PWD,-,OD,s2
 Mechanical and Automation Engineering,EWS-PWD,-,OD,s2
 Architecture,EWS-PWD,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,EWS-PWD,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,OBC,210049,D,1
 Computer Science and Engineering,OBC,169911,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC,174003,D,1
@@ -1304,42 +1070,6 @@ Information Technology,OBC,49484,OD,s2
 Mechanical and Automation Engineering,OBC,81941,OD,s2
 Architecture,OBC,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,OBC,98553,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,244940,D,s2
-Computer Science and Engineering,SpotRound-1,211764,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,210049,D,s2
-Electronics and Communication Engineering,SpotRound-1,302165,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,302639,D,s2
-Information Technology,SpotRound-1,235292,D,s2
-Mechanical and Automation Engineering,SpotRound-1,426081,D,s2
-Architecture,SpotRound-1,35117,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,486192,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,54816,OD,s2
-Computer Science and Engineering,SpotRound-1,42401,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,45547,OD,s2
-Electronics and Communication Engineering,SpotRound-1,71548,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,66913,OD,s2
-Information Technology,SpotRound-1,49484,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,81941,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,98553,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,244940,D,s2
-Computer Science and Engineering,SpotRound-2,211764,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,210049,D,s2
-Electronics and Communication Engineering,SpotRound-2,309326,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,302639,D,s2
-Information Technology,SpotRound-2,235292,D,s2
-Mechanical and Automation Engineering,SpotRound-2,431402,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,591902,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,54816,OD,s2
-Computer Science and Engineering,SpotRound-2,46573,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,45547,OD,s2
-Electronics and Communication Engineering,SpotRound-2,71548,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,66913,OD,s2
-Information Technology,SpotRound-2,49484,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,81941,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,98553,OD,s2
 Artificial Intelligence and Machine Learning,OBC-DEF,472199 (Priority VI),D,1
 Computer Science and Engineering,OBC-DEF,365900 (Priority VI),D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,335652 (Priority VI),D,1
@@ -1484,42 +1214,6 @@ Information Technology,OBC-DEF,-,OD,s2
 Mechanical and Automation Engineering,OBC-DEF,-,OD,s2
 Architecture,OBC-DEF,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,OBC-DEF,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,OBC-PWD,-,D,1
 Computer Science and Engineering,OBC-PWD,-,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,D,1
@@ -1664,42 +1358,6 @@ Information Technology,OBC-PWD,-,OD,s2
 Mechanical and Automation Engineering,OBC-PWD,-,OD,s2
 Architecture,OBC-PWD,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,OBC-PWD,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,SC,316014,D,1
 Computer Science and Engineering,SC,261724,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC,263470,D,1
@@ -1844,42 +1502,6 @@ Information Technology,SC,161503,OD,s2
 Mechanical and Automation Engineering,SC,500327,OD,s2
 Architecture,SC,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,SC,489125,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,508718,D,s2
-Computer Science and Engineering,SpotRound-1,352869,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,358210,D,s2
-Electronics and Communication Engineering,SpotRound-1,713141,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,776862,D,s2
-Information Technology,SpotRound-1,454865,D,s2
-Mechanical and Automation Engineering,SpotRound-1,1060615,D,s2
-Architecture,SpotRound-1,42602,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,529936,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,291741,OD,s2
-Computer Science and Engineering,SpotRound-1,134356,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,161503,OD,s2
-Electronics and Communication Engineering,SpotRound-1,244918,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,247275,OD,s2
-Information Technology,SpotRound-1,133990,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,500327,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,489125,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,508718,D,s2
-Computer Science and Engineering,SpotRound-2,352869,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,358210,D,s2
-Electronics and Communication Engineering,SpotRound-2,713141,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,776862,D,s2
-Information Technology,SpotRound-2,454865,D,s2
-Mechanical and Automation Engineering,SpotRound-2,1060615,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,529936,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,291741,OD,s2
-Computer Science and Engineering,SpotRound-2,134356,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,186896,OD,s2
-Electronics and Communication Engineering,SpotRound-2,244918,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,224243,OD,s2
-Information Technology,SpotRound-2,161503,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,500327,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,489125,OD,s2
 Artificial Intelligence and Machine Learning,SC-DEF,-,D,1
 Computer Science and Engineering,SC-DEF,-,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,-,D,1
@@ -2024,42 +1646,6 @@ Information Technology,SC-DEF,-,OD,s2
 Mechanical and Automation Engineering,SC-DEF,-,OD,s2
 Architecture,SC-DEF,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,SC-DEF,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,SC-PWD,-,D,1
 Computer Science and Engineering,SC-PWD,-,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,D,1
@@ -2204,42 +1790,6 @@ Information Technology,SC-PWD,-,OD,s2
 Mechanical and Automation Engineering,SC-PWD,-,OD,s2
 Architecture,SC-PWD,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,SC-PWD,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,ST,-,D,1
 Computer Science and Engineering,ST,983754,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,553764,D,1
@@ -2384,42 +1934,6 @@ Information Technology,ST,201331,OD,s2
 Mechanical and Automation Engineering,ST,291861,OD,s2
 Architecture,ST,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,ST,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,1028524,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,770091,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,32816,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,206256,OD,s2
-Computer Science and Engineering,SpotRound-1,257477,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,280461,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,200571,OD,s2
-Information Technology,SpotRound-1,201331,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,291861,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,1028524,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,569437,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,206256,OD,s2
-Computer Science and Engineering,SpotRound-2,212464,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,280461,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,200571,OD,s2
-Information Technology,SpotRound-2,201331,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,291861,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,ST-DEF,-,D,1
 Computer Science and Engineering,ST-DEF,-,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,-,D,1
@@ -2564,42 +2078,6 @@ Information Technology,ST-DEF,-,OD,s2
 Mechanical and Automation Engineering,ST-DEF,-,OD,s2
 Architecture,ST-DEF,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,ST-DEF,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
 Artificial Intelligence and Machine Learning,ST-PWD,-,D,1
 Computer Science and Engineering,ST-PWD,-,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,D,1
@@ -2744,39 +2222,3 @@ Information Technology,ST-PWD,-,OD,s2
 Mechanical and Automation Engineering,ST-PWD,-,OD,s2
 Architecture,ST-PWD,-,OD,s2
 B.Tech Mechanical and Automation Engineering + MBA,ST-PWD,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,D,s2
-Computer Science and Engineering,SpotRound-1,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Electronics and Communication Engineering,SpotRound-1,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,D,s2
-Information Technology,SpotRound-1,-,D,s2
-Mechanical and Automation Engineering,SpotRound-1,-,D,s2
-Architecture,SpotRound-1,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-1,-,OD,s2
-Computer Science and Engineering,SpotRound-1,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering,SpotRound-1,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-1,-,OD,s2
-Information Technology,SpotRound-1,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-1,-,OD,s2
-Architecture,SpotRound-1,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-1,-,OD,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,D,s2
-Computer Science and Engineering,SpotRound-2,-,D,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Electronics and Communication Engineering,SpotRound-2,-,D,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,D,s2
-Information Technology,SpotRound-2,-,D,s2
-Mechanical and Automation Engineering,SpotRound-2,-,D,s2
-Architecture,SpotRound-2,-,D,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,D,s2
-Artificial Intelligence and Machine Learning,SpotRound-2,-,OD,s2
-Computer Science and Engineering,SpotRound-2,-,OD,s2
-Computer Science and Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering,SpotRound-2,-,OD,s2
-Electronics and Communication Engineering with specialization in Artificial Intelligence,SpotRound-2,-,OD,s2
-Information Technology,SpotRound-2,-,OD,s2
-Mechanical and Automation Engineering,SpotRound-2,-,OD,s2
-Architecture,SpotRound-2,-,OD,s2
-B.Tech Mechanical and Automation Engineering + MBA,SpotRound-2,-,OD,s2
