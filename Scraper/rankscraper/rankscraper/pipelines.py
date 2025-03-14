@@ -41,6 +41,8 @@ class RankscraperPipeline:
         adapter["Round"] = adapter["Round"].replace("Round 5", "5")
         adapter["Round"] = adapter["Round"].replace("Upgradation Round", "U1")
         adapter["Round"] = adapter["Round"].replace("Upgradation Round 2", "U2")
+        adapter["Round"] = adapter["Round"].replace("Upgradation 1", "U1")
+        adapter["Round"] = adapter["Round"].replace("Upgradation 2", "U2")
         adapter["Round"] = adapter["Round"].replace("Spot Round", "S")
         
         adapter["Category"] = adapter["Category"].replace("General","GEN")

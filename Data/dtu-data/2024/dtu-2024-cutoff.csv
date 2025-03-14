@@ -195,34 +195,34 @@ Mechanical Engineering,GEN,41588,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,GEN,25624,OD,S
 Production and Industrial Engineering,GEN,41394,OD,S
 Software Engineering,GEN,11870,OD,S
-Bio-Technology,GEN,738541,D,Upgradation 2
-Chemical Engineering,GEN,109511,D,Upgradation 2
-Civil Engineering,GEN,191944,D,Upgradation 2
-Computer Science and Engineering,GEN,13846,D,Upgradation 2
-Electrical Engineering,GEN,40328,D,Upgradation 2
-Electronics and Communication Engineering,GEN,29995,D,Upgradation 2
-Engineering Physics,GEN,60546,D,Upgradation 2
-Environmental Engineering,GEN,697094,D,Upgradation 2
-Information Technology,GEN,18323,D,Upgradation 2
-Mathematics and Computing,GEN,24228,D,Upgradation 2
-Mechanical Engineering,GEN,61659,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,GEN,66813,D,Upgradation 2
-Production and Industrial Engineering,GEN,98671,D,Upgradation 2
-Software Engineering,GEN,21976,D,Upgradation 2
-Bio-Technology,GEN,179344,OD,Upgradation 2
-Chemical Engineering,GEN,60537,OD,Upgradation 2
-Civil Engineering,GEN,383834,OD,Upgradation 2
-Computer Science and Engineering,GEN,6605,OD,Upgradation 2
-Electrical Engineering,GEN,28100,OD,Upgradation 2
-Electronics and Communication Engineering,GEN,18668,OD,Upgradation 2
-Engineering Physics,GEN,41907,OD,Upgradation 2
-Environmental Engineering,GEN,305366,OD,Upgradation 2
-Information Technology,GEN,9244,OD,Upgradation 2
-Mathematics and Computing,GEN,14687,OD,Upgradation 2
-Mechanical Engineering,GEN,51703,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,GEN,55407,OD,Upgradation 2
-Production and Industrial Engineering,GEN,508872,OD,Upgradation 2
-Software Engineering,GEN,12959,OD,Upgradation 2
+Bio-Technology,GEN,738541,D,U2
+Chemical Engineering,GEN,109511,D,U2
+Civil Engineering,GEN,191944,D,U2
+Computer Science and Engineering,GEN,13846,D,U2
+Electrical Engineering,GEN,40328,D,U2
+Electronics and Communication Engineering,GEN,29995,D,U2
+Engineering Physics,GEN,60546,D,U2
+Environmental Engineering,GEN,697094,D,U2
+Information Technology,GEN,18323,D,U2
+Mathematics and Computing,GEN,24228,D,U2
+Mechanical Engineering,GEN,61659,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,GEN,66813,D,U2
+Production and Industrial Engineering,GEN,98671,D,U2
+Software Engineering,GEN,21976,D,U2
+Bio-Technology,GEN,179344,OD,U2
+Chemical Engineering,GEN,60537,OD,U2
+Civil Engineering,GEN,383834,OD,U2
+Computer Science and Engineering,GEN,6605,OD,U2
+Electrical Engineering,GEN,28100,OD,U2
+Electronics and Communication Engineering,GEN,18668,OD,U2
+Engineering Physics,GEN,41907,OD,U2
+Environmental Engineering,GEN,305366,OD,U2
+Information Technology,GEN,9244,OD,U2
+Mathematics and Computing,GEN,14687,OD,U2
+Mechanical Engineering,GEN,51703,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,GEN,55407,OD,U2
+Production and Industrial Engineering,GEN,508872,OD,U2
+Software Engineering,GEN,12959,OD,U2
 Bio-Technology,GEN-DEF,-,D,1
 Chemical Engineering,GEN-DEF,-,D,1
 Civil Engineering,GEN-DEF,-,D,1
@@ -671,34 +671,34 @@ Mechanical Engineering,GEN-PWD,182068,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,GEN-PWD,387245,OD,S
 Production and Industrial Engineering,GEN-PWD,-,OD,S
 Software Engineering,GEN-PWD,68914,OD,S
-Bio-Technology,GEN-PWD,-,D,Upgradation 2
-Chemical Engineering,GEN-PWD,-,D,Upgradation 2
-Civil Engineering,GEN-PWD,-,D,Upgradation 2
-Computer Science and Engineering,GEN-PWD,162744,D,Upgradation 2
-Electrical Engineering,GEN-PWD,1229037,D,Upgradation 2
-Electronics and Communication Engineering,GEN-PWD,422091,D,Upgradation 2
-Engineering Physics,GEN-PWD,-,D,Upgradation 2
-Environmental Engineering,GEN-PWD,-,D,Upgradation 2
-Information Technology,GEN-PWD,207264,D,Upgradation 2
-Mathematics and Computing,GEN-PWD,379743,D,Upgradation 2
-Mechanical Engineering,GEN-PWD,615374,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,GEN-PWD,824700,D,Upgradation 2
-Production and Industrial Engineering,GEN-PWD,633990,D,Upgradation 2
-Software Engineering,GEN-PWD,276635,D,Upgradation 2
-Bio-Technology,GEN-PWD,-,OD,Upgradation 2
-Chemical Engineering,GEN-PWD,-,OD,Upgradation 2
-Civil Engineering,GEN-PWD,-,OD,Upgradation 2
-Computer Science and Engineering,GEN-PWD,120016,OD,Upgradation 2
-Electrical Engineering,GEN-PWD,351230,OD,Upgradation 2
-Electronics and Communication Engineering,GEN-PWD,156451,OD,Upgradation 2
-Engineering Physics,GEN-PWD,-,OD,Upgradation 2
-Environmental Engineering,GEN-PWD,-,OD,Upgradation 2
-Information Technology,GEN-PWD,92141,OD,Upgradation 2
-Mathematics and Computing,GEN-PWD,-,OD,Upgradation 2
-Mechanical Engineering,GEN-PWD,182068,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,GEN-PWD,387245,OD,Upgradation 2
-Production and Industrial Engineering,GEN-PWD,-,OD,Upgradation 2
-Software Engineering,GEN-PWD,68914,OD,Upgradation 2
+Bio-Technology,GEN-PWD,-,D,U2
+Chemical Engineering,GEN-PWD,-,D,U2
+Civil Engineering,GEN-PWD,-,D,U2
+Computer Science and Engineering,GEN-PWD,162744,D,U2
+Electrical Engineering,GEN-PWD,1229037,D,U2
+Electronics and Communication Engineering,GEN-PWD,422091,D,U2
+Engineering Physics,GEN-PWD,-,D,U2
+Environmental Engineering,GEN-PWD,-,D,U2
+Information Technology,GEN-PWD,207264,D,U2
+Mathematics and Computing,GEN-PWD,379743,D,U2
+Mechanical Engineering,GEN-PWD,615374,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,GEN-PWD,824700,D,U2
+Production and Industrial Engineering,GEN-PWD,633990,D,U2
+Software Engineering,GEN-PWD,276635,D,U2
+Bio-Technology,GEN-PWD,-,OD,U2
+Chemical Engineering,GEN-PWD,-,OD,U2
+Civil Engineering,GEN-PWD,-,OD,U2
+Computer Science and Engineering,GEN-PWD,120016,OD,U2
+Electrical Engineering,GEN-PWD,351230,OD,U2
+Electronics and Communication Engineering,GEN-PWD,156451,OD,U2
+Engineering Physics,GEN-PWD,-,OD,U2
+Environmental Engineering,GEN-PWD,-,OD,U2
+Information Technology,GEN-PWD,92141,OD,U2
+Mathematics and Computing,GEN-PWD,-,OD,U2
+Mechanical Engineering,GEN-PWD,182068,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,GEN-PWD,387245,OD,U2
+Production and Industrial Engineering,GEN-PWD,-,OD,U2
+Software Engineering,GEN-PWD,68914,OD,U2
 Bio-Technology,EWS,85468,D,1
 Chemical Engineering,EWS,70132,D,1
 Civil Engineering,EWS,80022,D,1
@@ -895,34 +895,34 @@ Mechanical Engineering,EWS,-,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,EWS,41564,OD,S
 Production and Industrial Engineering,EWS,55407,OD,S
 Software Engineering,EWS,14131,OD,S
-Bio-Technology,EWS,-,D,Upgradation 2
-Chemical Engineering,EWS,149640,D,Upgradation 2
-Civil Engineering,EWS,-,D,Upgradation 2
-Computer Science and Engineering,EWS,25687,D,Upgradation 2
-Electrical Engineering,EWS,62721,D,Upgradation 2
-Electronics and Communication Engineering,EWS,43640,D,Upgradation 2
-Engineering Physics,EWS,94063,D,Upgradation 2
-Environmental Engineering,EWS,-,D,Upgradation 2
-Information Technology,EWS,28541,D,Upgradation 2
-Mathematics and Computing,EWS,37791,D,Upgradation 2
-Mechanical Engineering,EWS,88250,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,EWS,107752,D,Upgradation 2
-Production and Industrial Engineering,EWS,191461,D,Upgradation 2
-Software Engineering,EWS,33600,D,Upgradation 2
-Bio-Technology,EWS,-,OD,Upgradation 2
-Chemical Engineering,EWS,-,OD,Upgradation 2
-Civil Engineering,EWS,-,OD,Upgradation 2
-Computer Science and Engineering,EWS,10421,OD,Upgradation 2
-Electrical Engineering,EWS,33513,OD,Upgradation 2
-Electronics and Communication Engineering,EWS,23515,OD,Upgradation 2
-Engineering Physics,EWS,50579,OD,Upgradation 2
-Environmental Engineering,EWS,-,OD,Upgradation 2
-Information Technology,EWS,12088,OD,Upgradation 2
-Mathematics and Computing,EWS,15586,OD,Upgradation 2
-Mechanical Engineering,EWS,-,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,EWS,57150,OD,Upgradation 2
-Production and Industrial Engineering,EWS,-,OD,Upgradation 2
-Software Engineering,EWS,14131,OD,Upgradation 2
+Bio-Technology,EWS,-,D,U2
+Chemical Engineering,EWS,149640,D,U2
+Civil Engineering,EWS,-,D,U2
+Computer Science and Engineering,EWS,25687,D,U2
+Electrical Engineering,EWS,62721,D,U2
+Electronics and Communication Engineering,EWS,43640,D,U2
+Engineering Physics,EWS,94063,D,U2
+Environmental Engineering,EWS,-,D,U2
+Information Technology,EWS,28541,D,U2
+Mathematics and Computing,EWS,37791,D,U2
+Mechanical Engineering,EWS,88250,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,EWS,107752,D,U2
+Production and Industrial Engineering,EWS,191461,D,U2
+Software Engineering,EWS,33600,D,U2
+Bio-Technology,EWS,-,OD,U2
+Chemical Engineering,EWS,-,OD,U2
+Civil Engineering,EWS,-,OD,U2
+Computer Science and Engineering,EWS,10421,OD,U2
+Electrical Engineering,EWS,33513,OD,U2
+Electronics and Communication Engineering,EWS,23515,OD,U2
+Engineering Physics,EWS,50579,OD,U2
+Environmental Engineering,EWS,-,OD,U2
+Information Technology,EWS,12088,OD,U2
+Mathematics and Computing,EWS,15586,OD,U2
+Mechanical Engineering,EWS,-,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,EWS,57150,OD,U2
+Production and Industrial Engineering,EWS,-,OD,U2
+Software Engineering,EWS,14131,OD,U2
 Bio-Technology,EWS-DEF,-,D,1
 Chemical Engineering,EWS-DEF,-,D,1
 Civil Engineering,EWS-DEF,995288 (Priority VI),D,1
@@ -1287,34 +1287,34 @@ Mechanical Engineering,EWS-PWD,-,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,EWS-PWD,-,OD,S
 Production and Industrial Engineering,EWS-PWD,-,OD,S
 Software Engineering,EWS-PWD,356041,OD,S
-Bio-Technology,EWS-PWD,-,D,Upgradation 2
-Chemical Engineering,EWS-PWD,-,D,Upgradation 2
-Civil Engineering,EWS-PWD,-,D,Upgradation 2
-Computer Science and Engineering,EWS-PWD,915664,D,Upgradation 2
-Electrical Engineering,EWS-PWD,-,D,Upgradation 2
-Electronics and Communication Engineering,EWS-PWD,-,D,Upgradation 2
-Engineering Physics,EWS-PWD,-,D,Upgradation 2
-Environmental Engineering,EWS-PWD,-,D,Upgradation 2
-Information Technology,EWS-PWD,-,D,Upgradation 2
-Mathematics and Computing,EWS-PWD,-,D,Upgradation 2
-Mechanical Engineering,EWS-PWD,-,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,EWS-PWD,-,D,Upgradation 2
-Production and Industrial Engineering,EWS-PWD,-,D,Upgradation 2
-Software Engineering,EWS-PWD,-,D,Upgradation 2
-Bio-Technology,EWS-PWD,-,OD,Upgradation 2
-Chemical Engineering,EWS-PWD,-,OD,Upgradation 2
-Civil Engineering,EWS-PWD,-,OD,Upgradation 2
-Computer Science and Engineering,EWS-PWD,178864,OD,Upgradation 2
-Electrical Engineering,EWS-PWD,380604,OD,Upgradation 2
-Electronics and Communication Engineering,EWS-PWD,-,OD,Upgradation 2
-Engineering Physics,EWS-PWD,-,OD,Upgradation 2
-Environmental Engineering,EWS-PWD,-,OD,Upgradation 2
-Information Technology,EWS-PWD,-,OD,Upgradation 2
-Mathematics and Computing,EWS-PWD,-,OD,Upgradation 2
-Mechanical Engineering,EWS-PWD,-,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,EWS-PWD,-,OD,Upgradation 2
-Production and Industrial Engineering,EWS-PWD,-,OD,Upgradation 2
-Software Engineering,EWS-PWD,356041,OD,Upgradation 2
+Bio-Technology,EWS-PWD,-,D,U2
+Chemical Engineering,EWS-PWD,-,D,U2
+Civil Engineering,EWS-PWD,-,D,U2
+Computer Science and Engineering,EWS-PWD,915664,D,U2
+Electrical Engineering,EWS-PWD,-,D,U2
+Electronics and Communication Engineering,EWS-PWD,-,D,U2
+Engineering Physics,EWS-PWD,-,D,U2
+Environmental Engineering,EWS-PWD,-,D,U2
+Information Technology,EWS-PWD,-,D,U2
+Mathematics and Computing,EWS-PWD,-,D,U2
+Mechanical Engineering,EWS-PWD,-,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,EWS-PWD,-,D,U2
+Production and Industrial Engineering,EWS-PWD,-,D,U2
+Software Engineering,EWS-PWD,-,D,U2
+Bio-Technology,EWS-PWD,-,OD,U2
+Chemical Engineering,EWS-PWD,-,OD,U2
+Civil Engineering,EWS-PWD,-,OD,U2
+Computer Science and Engineering,EWS-PWD,178864,OD,U2
+Electrical Engineering,EWS-PWD,380604,OD,U2
+Electronics and Communication Engineering,EWS-PWD,-,OD,U2
+Engineering Physics,EWS-PWD,-,OD,U2
+Environmental Engineering,EWS-PWD,-,OD,U2
+Information Technology,EWS-PWD,-,OD,U2
+Mathematics and Computing,EWS-PWD,-,OD,U2
+Mechanical Engineering,EWS-PWD,-,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,EWS-PWD,-,OD,U2
+Production and Industrial Engineering,EWS-PWD,-,OD,U2
+Software Engineering,EWS-PWD,356041,OD,U2
 Bio-Technology,OBC,192213,D,1
 Chemical Engineering,OBC,166203,D,1
 Civil Engineering,OBC,179086,D,1
@@ -1511,34 +1511,34 @@ Mechanical Engineering,OBC,435288,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,OBC,61804,OD,S
 Production and Industrial Engineering,OBC,71201,OD,S
 Software Engineering,OBC,21624,OD,S
-Bio-Technology,OBC,-,D,Upgradation 2
-Chemical Engineering,OBC,273893,D,Upgradation 2
-Civil Engineering,OBC,349495,D,Upgradation 2
-Computer Science and Engineering,OBC,57520,D,Upgradation 2
-Electrical Engineering,OBC,149612,D,Upgradation 2
-Electronics and Communication Engineering,OBC,109062,D,Upgradation 2
-Engineering Physics,OBC,200542,D,Upgradation 2
-Environmental Engineering,OBC,529341,D,Upgradation 2
-Information Technology,OBC,71245,D,Upgradation 2
-Mathematics and Computing,OBC,93741,D,Upgradation 2
-Mechanical Engineering,OBC,203718,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,OBC,214253,D,Upgradation 2
-Production and Industrial Engineering,OBC,373321,D,Upgradation 2
-Software Engineering,OBC,83824,D,Upgradation 2
-Bio-Technology,OBC,-,OD,Upgradation 2
-Chemical Engineering,OBC,77966,OD,Upgradation 2
-Civil Engineering,OBC,-,OD,Upgradation 2
-Computer Science and Engineering,OBC,12590,OD,Upgradation 2
-Electrical Engineering,OBC,47725,OD,Upgradation 2
-Electronics and Communication Engineering,OBC,29560,OD,Upgradation 2
-Engineering Physics,OBC,61804,OD,Upgradation 2
-Environmental Engineering,OBC,-,OD,Upgradation 2
-Information Technology,OBC,15893,OD,Upgradation 2
-Mathematics and Computing,OBC,24619,OD,Upgradation 2
-Mechanical Engineering,OBC,435288,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,OBC,75842,OD,Upgradation 2
-Production and Industrial Engineering,OBC,71201,OD,Upgradation 2
-Software Engineering,OBC,21624,OD,Upgradation 2
+Bio-Technology,OBC,-,D,U2
+Chemical Engineering,OBC,273893,D,U2
+Civil Engineering,OBC,349495,D,U2
+Computer Science and Engineering,OBC,57520,D,U2
+Electrical Engineering,OBC,149612,D,U2
+Electronics and Communication Engineering,OBC,109062,D,U2
+Engineering Physics,OBC,200542,D,U2
+Environmental Engineering,OBC,529341,D,U2
+Information Technology,OBC,71245,D,U2
+Mathematics and Computing,OBC,93741,D,U2
+Mechanical Engineering,OBC,203718,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,OBC,214253,D,U2
+Production and Industrial Engineering,OBC,373321,D,U2
+Software Engineering,OBC,83824,D,U2
+Bio-Technology,OBC,-,OD,U2
+Chemical Engineering,OBC,77966,OD,U2
+Civil Engineering,OBC,-,OD,U2
+Computer Science and Engineering,OBC,12590,OD,U2
+Electrical Engineering,OBC,47725,OD,U2
+Electronics and Communication Engineering,OBC,29560,OD,U2
+Engineering Physics,OBC,61804,OD,U2
+Environmental Engineering,OBC,-,OD,U2
+Information Technology,OBC,15893,OD,U2
+Mathematics and Computing,OBC,24619,OD,U2
+Mechanical Engineering,OBC,435288,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,OBC,75842,OD,U2
+Production and Industrial Engineering,OBC,71201,OD,U2
+Software Engineering,OBC,21624,OD,U2
 Bio-Technology,OBC-DEF,447966 (Priority VI),D,1
 Chemical Engineering,OBC-DEF,-,D,1
 Civil Engineering,OBC-DEF,-,D,1
@@ -1903,34 +1903,34 @@ Mechanical Engineering,OBC-PWD,-,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,OBC-PWD,-,OD,S
 Production and Industrial Engineering,OBC-PWD,-,OD,S
 Software Engineering,OBC-PWD,-,OD,S
-Bio-Technology,OBC-PWD,-,D,Upgradation 2
-Chemical Engineering,OBC-PWD,-,D,Upgradation 2
-Civil Engineering,OBC-PWD,-,D,Upgradation 2
-Computer Science and Engineering,OBC-PWD,1298763,D,Upgradation 2
-Electrical Engineering,OBC-PWD,-,D,Upgradation 2
-Electronics and Communication Engineering,OBC-PWD,427447,D,Upgradation 2
-Engineering Physics,OBC-PWD,-,D,Upgradation 2
-Environmental Engineering,OBC-PWD,-,D,Upgradation 2
-Information Technology,OBC-PWD,437675,D,Upgradation 2
-Mathematics and Computing,OBC-PWD,-,D,Upgradation 2
-Mechanical Engineering,OBC-PWD,-,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,OBC-PWD,-,D,Upgradation 2
-Production and Industrial Engineering,OBC-PWD,-,D,Upgradation 2
-Software Engineering,OBC-PWD,-,D,Upgradation 2
-Bio-Technology,OBC-PWD,-,OD,Upgradation 2
-Chemical Engineering,OBC-PWD,-,OD,Upgradation 2
-Civil Engineering,OBC-PWD,-,OD,Upgradation 2
-Computer Science and Engineering,OBC-PWD,212027,OD,Upgradation 2
-Electrical Engineering,OBC-PWD,-,OD,Upgradation 2
-Electronics and Communication Engineering,OBC-PWD,-,OD,Upgradation 2
-Engineering Physics,OBC-PWD,-,OD,Upgradation 2
-Environmental Engineering,OBC-PWD,-,OD,Upgradation 2
-Information Technology,OBC-PWD,-,OD,Upgradation 2
-Mathematics and Computing,OBC-PWD,710094,OD,Upgradation 2
-Mechanical Engineering,OBC-PWD,-,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,OBC-PWD,-,OD,Upgradation 2
-Production and Industrial Engineering,OBC-PWD,-,OD,Upgradation 2
-Software Engineering,OBC-PWD,-,OD,Upgradation 2
+Bio-Technology,OBC-PWD,-,D,U2
+Chemical Engineering,OBC-PWD,-,D,U2
+Civil Engineering,OBC-PWD,-,D,U2
+Computer Science and Engineering,OBC-PWD,1298763,D,U2
+Electrical Engineering,OBC-PWD,-,D,U2
+Electronics and Communication Engineering,OBC-PWD,427447,D,U2
+Engineering Physics,OBC-PWD,-,D,U2
+Environmental Engineering,OBC-PWD,-,D,U2
+Information Technology,OBC-PWD,437675,D,U2
+Mathematics and Computing,OBC-PWD,-,D,U2
+Mechanical Engineering,OBC-PWD,-,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,OBC-PWD,-,D,U2
+Production and Industrial Engineering,OBC-PWD,-,D,U2
+Software Engineering,OBC-PWD,-,D,U2
+Bio-Technology,OBC-PWD,-,OD,U2
+Chemical Engineering,OBC-PWD,-,OD,U2
+Civil Engineering,OBC-PWD,-,OD,U2
+Computer Science and Engineering,OBC-PWD,212027,OD,U2
+Electrical Engineering,OBC-PWD,-,OD,U2
+Electronics and Communication Engineering,OBC-PWD,-,OD,U2
+Engineering Physics,OBC-PWD,-,OD,U2
+Environmental Engineering,OBC-PWD,-,OD,U2
+Information Technology,OBC-PWD,-,OD,U2
+Mathematics and Computing,OBC-PWD,710094,OD,U2
+Mechanical Engineering,OBC-PWD,-,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,OBC-PWD,-,OD,U2
+Production and Industrial Engineering,OBC-PWD,-,OD,U2
+Software Engineering,OBC-PWD,-,OD,U2
 Bio-Technology,SC,300700,D,1
 Chemical Engineering,SC,281108,D,1
 Civil Engineering,SC,285456,D,1
@@ -2127,34 +2127,34 @@ Mechanical Engineering,SC,201172,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,SC,179344,OD,S
 Production and Industrial Engineering,SC,223847,OD,S
 Software Engineering,SC,86411,OD,S
-Bio-Technology,SC,1154098,D,Upgradation 2
-Chemical Engineering,SC,635373,D,Upgradation 2
-Civil Engineering,SC,771353,D,Upgradation 2
-Computer Science and Engineering,SC,122763,D,Upgradation 2
-Electrical Engineering,SC,346626,D,Upgradation 2
-Electronics and Communication Engineering,SC,222834,D,Upgradation 2
-Engineering Physics,SC,867684,D,Upgradation 2
-Environmental Engineering,SC,562999,D,Upgradation 2
-Information Technology,SC,140198,D,Upgradation 2
-Mathematics and Computing,SC,213200,D,Upgradation 2
-Mechanical Engineering,SC,462626,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,SC,479584,D,Upgradation 2
-Production and Industrial Engineering,SC,752037,D,Upgradation 2
-Software Engineering,SC,175806,D,Upgradation 2
-Bio-Technology,SC,-,OD,Upgradation 2
-Chemical Engineering,SC,161663,OD,Upgradation 2
-Civil Engineering,SC,172002,OD,Upgradation 2
-Computer Science and Engineering,SC,66040,OD,Upgradation 2
-Electrical Engineering,SC,151927,OD,Upgradation 2
-Electronics and Communication Engineering,SC,106333,OD,Upgradation 2
-Engineering Physics,SC,234189,OD,Upgradation 2
-Environmental Engineering,SC,-,OD,Upgradation 2
-Information Technology,SC,80075,OD,Upgradation 2
-Mathematics and Computing,SC,96377,OD,Upgradation 2
-Mechanical Engineering,SC,278572,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,SC,187484,OD,Upgradation 2
-Production and Industrial Engineering,SC,-,OD,Upgradation 2
-Software Engineering,SC,86411,OD,Upgradation 2
+Bio-Technology,SC,1154098,D,U2
+Chemical Engineering,SC,635373,D,U2
+Civil Engineering,SC,771353,D,U2
+Computer Science and Engineering,SC,122763,D,U2
+Electrical Engineering,SC,346626,D,U2
+Electronics and Communication Engineering,SC,222834,D,U2
+Engineering Physics,SC,867684,D,U2
+Environmental Engineering,SC,562999,D,U2
+Information Technology,SC,140198,D,U2
+Mathematics and Computing,SC,213200,D,U2
+Mechanical Engineering,SC,462626,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,SC,479584,D,U2
+Production and Industrial Engineering,SC,752037,D,U2
+Software Engineering,SC,175806,D,U2
+Bio-Technology,SC,-,OD,U2
+Chemical Engineering,SC,161663,OD,U2
+Civil Engineering,SC,172002,OD,U2
+Computer Science and Engineering,SC,66040,OD,U2
+Electrical Engineering,SC,151927,OD,U2
+Electronics and Communication Engineering,SC,106333,OD,U2
+Engineering Physics,SC,234189,OD,U2
+Environmental Engineering,SC,-,OD,U2
+Information Technology,SC,80075,OD,U2
+Mathematics and Computing,SC,96377,OD,U2
+Mechanical Engineering,SC,278572,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,SC,187484,OD,U2
+Production and Industrial Engineering,SC,-,OD,U2
+Software Engineering,SC,86411,OD,U2
 Bio-Technology,SC-DEF,-,D,1
 Chemical Engineering,SC-DEF,-,D,1
 Civil Engineering,SC-DEF,996154 (Priority VIII),D,1
@@ -2519,34 +2519,34 @@ Mechanical Engineering,SC-PWD,-,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,SC-PWD,-,OD,S
 Production and Industrial Engineering,SC-PWD,-,OD,S
 Software Engineering,SC-PWD,-,OD,S
-Bio-Technology,SC-PWD,-,D,Upgradation 2
-Chemical Engineering,SC-PWD,-,D,Upgradation 2
-Civil Engineering,SC-PWD,-,D,Upgradation 2
-Computer Science and Engineering,SC-PWD,578916,D,Upgradation 2
-Electrical Engineering,SC-PWD,-,D,Upgradation 2
-Electronics and Communication Engineering,SC-PWD,-,D,Upgradation 2
-Engineering Physics,SC-PWD,-,D,Upgradation 2
-Environmental Engineering,SC-PWD,-,D,Upgradation 2
-Information Technology,SC-PWD,-,D,Upgradation 2
-Mathematics and Computing,SC-PWD,-,D,Upgradation 2
-Mechanical Engineering,SC-PWD,-,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,SC-PWD,-,D,Upgradation 2
-Production and Industrial Engineering,SC-PWD,-,D,Upgradation 2
-Software Engineering,SC-PWD,513274,D,Upgradation 2
-Bio-Technology,SC-PWD,-,OD,Upgradation 2
-Chemical Engineering,SC-PWD,-,OD,Upgradation 2
-Civil Engineering,SC-PWD,-,OD,Upgradation 2
-Computer Science and Engineering,SC-PWD,710577,OD,Upgradation 2
-Electrical Engineering,SC-PWD,-,OD,Upgradation 2
-Electronics and Communication Engineering,SC-PWD,-,OD,Upgradation 2
-Engineering Physics,SC-PWD,-,OD,Upgradation 2
-Environmental Engineering,SC-PWD,-,OD,Upgradation 2
-Information Technology,SC-PWD,-,OD,Upgradation 2
-Mathematics and Computing,SC-PWD,-,OD,Upgradation 2
-Mechanical Engineering,SC-PWD,-,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,SC-PWD,-,OD,Upgradation 2
-Production and Industrial Engineering,SC-PWD,-,OD,Upgradation 2
-Software Engineering,SC-PWD,-,OD,Upgradation 2
+Bio-Technology,SC-PWD,-,D,U2
+Chemical Engineering,SC-PWD,-,D,U2
+Civil Engineering,SC-PWD,-,D,U2
+Computer Science and Engineering,SC-PWD,578916,D,U2
+Electrical Engineering,SC-PWD,-,D,U2
+Electronics and Communication Engineering,SC-PWD,-,D,U2
+Engineering Physics,SC-PWD,-,D,U2
+Environmental Engineering,SC-PWD,-,D,U2
+Information Technology,SC-PWD,-,D,U2
+Mathematics and Computing,SC-PWD,-,D,U2
+Mechanical Engineering,SC-PWD,-,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,SC-PWD,-,D,U2
+Production and Industrial Engineering,SC-PWD,-,D,U2
+Software Engineering,SC-PWD,513274,D,U2
+Bio-Technology,SC-PWD,-,OD,U2
+Chemical Engineering,SC-PWD,-,OD,U2
+Civil Engineering,SC-PWD,-,OD,U2
+Computer Science and Engineering,SC-PWD,710577,OD,U2
+Electrical Engineering,SC-PWD,-,OD,U2
+Electronics and Communication Engineering,SC-PWD,-,OD,U2
+Engineering Physics,SC-PWD,-,OD,U2
+Environmental Engineering,SC-PWD,-,OD,U2
+Information Technology,SC-PWD,-,OD,U2
+Mathematics and Computing,SC-PWD,-,OD,U2
+Mechanical Engineering,SC-PWD,-,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,SC-PWD,-,OD,U2
+Production and Industrial Engineering,SC-PWD,-,OD,U2
+Software Engineering,SC-PWD,-,OD,U2
 Bio-Technology,ST,700464,D,1
 Chemical Engineering,ST,868213,D,1
 Civil Engineering,ST,374587,D,1
@@ -2743,34 +2743,34 @@ Mechanical Engineering,ST,372164,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,ST,253354,OD,S
 Production and Industrial Engineering,ST,383834,OD,S
 Software Engineering,ST,132971,OD,S
-Bio-Technology,ST,-,D,Upgradation 2
-Chemical Engineering,ST,-,D,Upgradation 2
-Civil Engineering,ST,468166,D,Upgradation 2
-Computer Science and Engineering,ST,361124,D,Upgradation 2
-Electrical Engineering,ST,1268457,D,Upgradation 2
-Electronics and Communication Engineering,ST,1176223,D,Upgradation 2
-Engineering Physics,ST,-,D,Upgradation 2
-Environmental Engineering,ST,-,D,Upgradation 2
-Information Technology,ST,494782,D,Upgradation 2
-Mathematics and Computing,ST,967013,D,Upgradation 2
-Mechanical Engineering,ST,732816,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,ST,-,D,Upgradation 2
-Production and Industrial Engineering,ST,1085208,D,Upgradation 2
-Software Engineering,ST,515808,D,Upgradation 2
-Bio-Technology,ST,282632,OD,Upgradation 2
-Chemical Engineering,ST,206487,OD,Upgradation 2
-Civil Engineering,ST,-,OD,Upgradation 2
-Computer Science and Engineering,ST,104949,OD,Upgradation 2
-Electrical Engineering,ST,196437,OD,Upgradation 2
-Electronics and Communication Engineering,ST,191543,OD,Upgradation 2
-Engineering Physics,ST,381423,OD,Upgradation 2
-Environmental Engineering,ST,-,OD,Upgradation 2
-Information Technology,ST,125374,OD,Upgradation 2
-Mathematics and Computing,ST,129675,OD,Upgradation 2
-Mechanical Engineering,ST,372164,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,ST,-,OD,Upgradation 2
-Production and Industrial Engineering,ST,-,OD,Upgradation 2
-Software Engineering,ST,132971,OD,Upgradation 2
+Bio-Technology,ST,-,D,U2
+Chemical Engineering,ST,-,D,U2
+Civil Engineering,ST,468166,D,U2
+Computer Science and Engineering,ST,361124,D,U2
+Electrical Engineering,ST,1268457,D,U2
+Electronics and Communication Engineering,ST,1176223,D,U2
+Engineering Physics,ST,-,D,U2
+Environmental Engineering,ST,-,D,U2
+Information Technology,ST,494782,D,U2
+Mathematics and Computing,ST,967013,D,U2
+Mechanical Engineering,ST,732816,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,ST,-,D,U2
+Production and Industrial Engineering,ST,1085208,D,U2
+Software Engineering,ST,515808,D,U2
+Bio-Technology,ST,282632,OD,U2
+Chemical Engineering,ST,206487,OD,U2
+Civil Engineering,ST,-,OD,U2
+Computer Science and Engineering,ST,104949,OD,U2
+Electrical Engineering,ST,196437,OD,U2
+Electronics and Communication Engineering,ST,191543,OD,U2
+Engineering Physics,ST,381423,OD,U2
+Environmental Engineering,ST,-,OD,U2
+Information Technology,ST,125374,OD,U2
+Mathematics and Computing,ST,129675,OD,U2
+Mechanical Engineering,ST,372164,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,ST,-,OD,U2
+Production and Industrial Engineering,ST,-,OD,U2
+Software Engineering,ST,132971,OD,U2
 Bio-Technology,ST-DEF,-,D,1
 Chemical Engineering,ST-DEF,-,D,1
 Civil Engineering,ST-DEF,-,D,1
@@ -3135,31 +3135,31 @@ Mechanical Engineering,ST-PWD,-,OD,S
 Mechanical Engineering with specialization in Automotive Engineering,ST-PWD,-,OD,S
 Production and Industrial Engineering,ST-PWD,-,OD,S
 Software Engineering,ST-PWD,-,OD,S
-Bio-Technology,ST-PWD,-,D,Upgradation 2
-Chemical Engineering,ST-PWD,-,D,Upgradation 2
-Civil Engineering,ST-PWD,-,D,Upgradation 2
-Computer Science and Engineering,ST-PWD,-,D,Upgradation 2
-Electrical Engineering,ST-PWD,-,D,Upgradation 2
-Electronics and Communication Engineering,ST-PWD,-,D,Upgradation 2
-Engineering Physics,ST-PWD,-,D,Upgradation 2
-Environmental Engineering,ST-PWD,-,D,Upgradation 2
-Information Technology,ST-PWD,-,D,Upgradation 2
-Mathematics and Computing,ST-PWD,-,D,Upgradation 2
-Mechanical Engineering,ST-PWD,-,D,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,ST-PWD,-,D,Upgradation 2
-Production and Industrial Engineering,ST-PWD,-,D,Upgradation 2
-Software Engineering,ST-PWD,-,D,Upgradation 2
-Bio-Technology,ST-PWD,-,OD,Upgradation 2
-Chemical Engineering,ST-PWD,-,OD,Upgradation 2
-Civil Engineering,ST-PWD,-,OD,Upgradation 2
-Computer Science and Engineering,ST-PWD,-,OD,Upgradation 2
-Electrical Engineering,ST-PWD,-,OD,Upgradation 2
-Electronics and Communication Engineering,ST-PWD,-,OD,Upgradation 2
-Engineering Physics,ST-PWD,-,OD,Upgradation 2
-Environmental Engineering,ST-PWD,-,OD,Upgradation 2
-Information Technology,ST-PWD,-,OD,Upgradation 2
-Mathematics and Computing,ST-PWD,543117,OD,Upgradation 2
-Mechanical Engineering,ST-PWD,-,OD,Upgradation 2
-Mechanical Engineering with specialization in Automotive Engineering,ST-PWD,-,OD,Upgradation 2
-Production and Industrial Engineering,ST-PWD,-,OD,Upgradation 2
-Software Engineering,ST-PWD,-,OD,Upgradation 2
+Bio-Technology,ST-PWD,-,D,U2
+Chemical Engineering,ST-PWD,-,D,U2
+Civil Engineering,ST-PWD,-,D,U2
+Computer Science and Engineering,ST-PWD,-,D,U2
+Electrical Engineering,ST-PWD,-,D,U2
+Electronics and Communication Engineering,ST-PWD,-,D,U2
+Engineering Physics,ST-PWD,-,D,U2
+Environmental Engineering,ST-PWD,-,D,U2
+Information Technology,ST-PWD,-,D,U2
+Mathematics and Computing,ST-PWD,-,D,U2
+Mechanical Engineering,ST-PWD,-,D,U2
+Mechanical Engineering with specialization in Automotive Engineering,ST-PWD,-,D,U2
+Production and Industrial Engineering,ST-PWD,-,D,U2
+Software Engineering,ST-PWD,-,D,U2
+Bio-Technology,ST-PWD,-,OD,U2
+Chemical Engineering,ST-PWD,-,OD,U2
+Civil Engineering,ST-PWD,-,OD,U2
+Computer Science and Engineering,ST-PWD,-,OD,U2
+Electrical Engineering,ST-PWD,-,OD,U2
+Electronics and Communication Engineering,ST-PWD,-,OD,U2
+Engineering Physics,ST-PWD,-,OD,U2
+Environmental Engineering,ST-PWD,-,OD,U2
+Information Technology,ST-PWD,-,OD,U2
+Mathematics and Computing,ST-PWD,543117,OD,U2
+Mechanical Engineering,ST-PWD,-,OD,U2
+Mechanical Engineering with specialization in Automotive Engineering,ST-PWD,-,OD,U2
+Production and Industrial Engineering,ST-PWD,-,OD,U2
+Software Engineering,ST-PWD,-,OD,U2
