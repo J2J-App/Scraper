@@ -10,4 +10,22 @@ from itemadapter import ItemAdapter
 
 class RankscraperPipeline:
     def process_item(self, item, spider):
+        
+        adapter = ItemAdapter(item)
+
+        #To remove /n from data
+        adapter["Region"] = adapter["Region"].replace("\n", "")
+        adapter["Branch"] = adapter["Branch"].replace("\n", "")
+        
+        #To remove extra spaces from data
+        adapter["Region"] = adapter["Region"].strip()
+        adapter["Branch"] = adapter["Branch"].strip()
+        adapter["Jee_Rank"] = adapter["Jee_Rank"].strip()
+        adapter["Round"] = adapter["Round"].strip()
+        adapter["Category"] = adapter["Category"].strip()
+        
+        #To remove extra spaces from in between of data
+        adapter["Region"] = adapter["Region"].replace("                                                                                        ", " ")
+        adapter["Branch"] = adapter["Branch"].replace("                                                                                    ", " ")
+        
         return item

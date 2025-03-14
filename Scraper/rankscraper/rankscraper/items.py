@@ -8,5 +8,14 @@ import scrapy
 
 class RankscraperItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    name = scrapy.Field()
     pass
+
+class RankscraperItem(scrapy.Item):
+    Region = scrapy.Field()
+    Branch = scrapy.Field()
+    Jee_Rank = scrapy.Field()
+    Round = scrapy.Field()
+    Category = scrapy.Field()
+    
+
