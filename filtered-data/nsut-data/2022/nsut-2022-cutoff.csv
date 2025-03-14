@@ -107,7 +107,6 @@ Information Technology with specialization in Network and Information Security,G
 Instrumentation and Control Engineering,GEN,62947,D,U1
 Mathematics and Computing,GEN,21984,D,U1
 Mechanical Engineering,GEN,93405,D,U1
-Bio-Technology,GEN,-,OD,U1
 Computer Science and Engineering,GEN,4094,OD,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN,4008,OD,U1
 Computer Science and Engineering with specialization in Data Science,GEN,6128,OD,U1
@@ -118,7 +117,6 @@ Information Technology,GEN,7134,OD,U1
 Information Technology with specialization in Network and Information Security,GEN,11475,OD,U1
 Instrumentation and Control Engineering,GEN,15794,OD,U1
 Mathematics and Computing,GEN,16791,OD,U1
-Mechanical Engineering,GEN,-,OD,U1
 Bio-Technology,GEN,208655,D,S
 Computer Science and Engineering,GEN,9527,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN,5218,D,S
@@ -155,18 +153,10 @@ Information Technology with specialization in Network and Information Security,G
 Instrumentation and Control Engineering,GEN-DEF,79018,D,1
 Mathematics and Computing,GEN-DEF,22961,D,1
 Mechanical Engineering,GEN-DEF,126612,D,1
-Bio-Technology,GEN-DEF,-,OD,1
 Computer Science and Engineering,GEN-DEF,126385,OD,1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,29439,OD,1
-Computer Science and Engineering with specialization in Data Science,GEN-DEF,-,OD,1
 Electrical Engineering,GEN-DEF,187771,OD,1
-Electronics and Communication Engineering,GEN-DEF,-,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-DEF,-,OD,1
-Information Technology,GEN-DEF,-,OD,1
-Information Technology with specialization in Network and Information Security,GEN-DEF,-,OD,1
 Instrumentation and Control Engineering,GEN-DEF,484534 (Priority III),OD,1
-Mathematics and Computing,GEN-DEF,-,OD,1
-Mechanical Engineering,GEN-DEF,-,OD,1
 Bio-Technology,GEN-DEF,206648 (Priority VI),D,2
 Computer Science and Engineering,GEN-DEF,146154,D,2
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,227019,D,2
@@ -179,18 +169,10 @@ Information Technology with specialization in Network and Information Security,G
 Instrumentation and Control Engineering,GEN-DEF,127424,D,2
 Mathematics and Computing,GEN-DEF,24946,D,2
 Mechanical Engineering,GEN-DEF,150334,D,2
-Bio-Technology,GEN-DEF,-,OD,2
 Computer Science and Engineering,GEN-DEF,126385,OD,2
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,29439,OD,2
-Computer Science and Engineering with specialization in Data Science,GEN-DEF,-,OD,2
 Electrical Engineering,GEN-DEF,291725,OD,2
-Electronics and Communication Engineering,GEN-DEF,-,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-DEF,-,OD,2
-Information Technology,GEN-DEF,-,OD,2
-Information Technology with specialization in Network and Information Security,GEN-DEF,-,OD,2
 Instrumentation and Control Engineering,GEN-DEF,484534 (Priority III),OD,2
-Mathematics and Computing,GEN-DEF,-,OD,2
-Mechanical Engineering,GEN-DEF,-,OD,2
 Bio-Technology,GEN-DEF,206648 (Priority VI),D,3
 Computer Science and Engineering,GEN-DEF,146154,D,3
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,227019,D,3
@@ -203,18 +185,10 @@ Information Technology with specialization in Network and Information Security,G
 Instrumentation and Control Engineering,GEN-DEF,127424,D,3
 Mathematics and Computing,GEN-DEF,24946,D,3
 Mechanical Engineering,GEN-DEF,150334,D,3
-Bio-Technology,GEN-DEF,-,OD,3
 Computer Science and Engineering,GEN-DEF,126385,OD,3
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,29439,OD,3
-Computer Science and Engineering with specialization in Data Science,GEN-DEF,-,OD,3
 Electrical Engineering,GEN-DEF,291725,OD,3
-Electronics and Communication Engineering,GEN-DEF,-,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-DEF,-,OD,3
-Information Technology,GEN-DEF,-,OD,3
-Information Technology with specialization in Network and Information Security,GEN-DEF,-,OD,3
 Instrumentation and Control Engineering,GEN-DEF,484534 (Priority III),OD,3
-Mathematics and Computing,GEN-DEF,-,OD,3
-Mechanical Engineering,GEN-DEF,-,OD,3
 Bio-Technology,GEN-DEF,236115,D,4
 Computer Science and Engineering,GEN-DEF,146154,D,4
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,227019,D,4
@@ -227,19 +201,10 @@ Information Technology with specialization in Network and Information Security,G
 Instrumentation and Control Engineering,GEN-DEF,127424,D,4
 Mathematics and Computing,GEN-DEF,30799,D,4
 Mechanical Engineering,GEN-DEF,150334,D,4
-Bio-Technology,GEN-DEF,-,OD,4
 Computer Science and Engineering,GEN-DEF,126385,OD,4
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,29439,OD,4
-Computer Science and Engineering with specialization in Data Science,GEN-DEF,-,OD,4
 Electrical Engineering,GEN-DEF,93115 (Priority IV),OD,4
-Electronics and Communication Engineering,GEN-DEF,-,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-DEF,-,OD,4
-Information Technology,GEN-DEF,-,OD,4
-Information Technology with specialization in Network and Information Security,GEN-DEF,-,OD,4
 Instrumentation and Control Engineering,GEN-DEF,484534,OD,4
-Mathematics and Computing,GEN-DEF,-,OD,4
-Mechanical Engineering,GEN-DEF,-,OD,4
-Bio-Technology,GEN-DEF,-,D,U1
 Computer Science and Engineering,GEN-DEF,146154,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,227019,D,U1
 Computer Science and Engineering with specialization in Data Science,GEN-DEF,15522,D,U1
@@ -251,19 +216,10 @@ Information Technology with specialization in Network and Information Security,G
 Instrumentation and Control Engineering,GEN-DEF,127424,D,U1
 Mathematics and Computing,GEN-DEF,30799,D,U1
 Mechanical Engineering,GEN-DEF,195323,D,U1
-Bio-Technology,GEN-DEF,-,OD,U1
 Computer Science and Engineering,GEN-DEF,126385,OD,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,29439,OD,U1
-Computer Science and Engineering with specialization in Data Science,GEN-DEF,-,OD,U1
 Electrical Engineering,GEN-DEF,93115,OD,U1
-Electronics and Communication Engineering,GEN-DEF,-,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-DEF,-,OD,U1
-Information Technology,GEN-DEF,-,OD,U1
-Information Technology with specialization in Network and Information Security,GEN-DEF,-,OD,U1
 Instrumentation and Control Engineering,GEN-DEF,484534,OD,U1
-Mathematics and Computing,GEN-DEF,-,OD,U1
-Mechanical Engineering,GEN-DEF,-,OD,U1
-Bio-Technology,GEN-DEF,-,D,S
 Computer Science and Engineering,GEN-DEF,146154,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,227019,D,S
 Computer Science and Engineering with specialization in Data Science,GEN-DEF,15522,D,S
@@ -275,18 +231,10 @@ Information Technology with specialization in Network and Information Security,G
 Instrumentation and Control Engineering,GEN-DEF,127424,D,S
 Mathematics and Computing,GEN-DEF,30799,D,S
 Mechanical Engineering,GEN-DEF,195323,D,S
-Bio-Technology,GEN-DEF,-,OD,S
 Computer Science and Engineering,GEN-DEF,126385,OD,S
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-DEF,29439,OD,S
-Computer Science and Engineering with specialization in Data Science,GEN-DEF,-,OD,S
 Electrical Engineering,GEN-DEF,93115,OD,S
-Electronics and Communication Engineering,GEN-DEF,-,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-DEF,-,OD,S
-Information Technology,GEN-DEF,-,OD,S
-Information Technology with specialization in Network and Information Security,GEN-DEF,-,OD,S
 Instrumentation and Control Engineering,GEN-DEF,484534,OD,S
-Mathematics and Computing,GEN-DEF,-,OD,S
-Mechanical Engineering,GEN-DEF,-,OD,S
 Bio-Technology,GENGirlCandidate,69862,D,1
 Computer Science and Engineering,GENGirlCandidate,7915,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,GENGirlCandidate,6108,D,1
@@ -302,7 +250,6 @@ Mechanical Engineering,GENGirlCandidate,70413,D,1
 Bio-Technology,GENGirlCandidate,15129,OD,1
 Computer Science and Engineering,GENGirlCandidate,2334,OD,1
 Computer Science and Engineering with specialization in Artificial Intelligence,GENGirlCandidate,1024,OD,1
-Computer Science and Engineering with specialization in Data Science,GENGirlCandidate,-,OD,1
 Electrical Engineering,GENGirlCandidate,10342,OD,1
 Electronics and Communication Engineering,GENGirlCandidate,6436,OD,1
 Electronics and Communication Engineering with specialization in Internet of Things,GENGirlCandidate,8324,OD,1
@@ -326,7 +273,6 @@ Mechanical Engineering,GENGirlCandidate,83825,D,2
 Bio-Technology,GENGirlCandidate,24635,OD,2
 Computer Science and Engineering,GENGirlCandidate,3882,OD,2
 Computer Science and Engineering with specialization in Artificial Intelligence,GENGirlCandidate,3546,OD,2
-Computer Science and Engineering with specialization in Data Science,GENGirlCandidate,-,OD,2
 Electrical Engineering,GENGirlCandidate,13284,OD,2
 Electronics and Communication Engineering,GENGirlCandidate,10342,OD,2
 Electronics and Communication Engineering with specialization in Internet of Things,GENGirlCandidate,9657,OD,2
@@ -350,7 +296,6 @@ Mechanical Engineering,GENGirlCandidate,83825,D,3
 Bio-Technology,GENGirlCandidate,24635,OD,3
 Computer Science and Engineering,GENGirlCandidate,5684,OD,3
 Computer Science and Engineering with specialization in Artificial Intelligence,GENGirlCandidate,3546,OD,3
-Computer Science and Engineering with specialization in Data Science,GENGirlCandidate,-,OD,3
 Electrical Engineering,GENGirlCandidate,18832,OD,3
 Electronics and Communication Engineering,GENGirlCandidate,10349,OD,3
 Electronics and Communication Engineering with specialization in Internet of Things,GENGirlCandidate,9657,OD,3
@@ -374,7 +319,6 @@ Mechanical Engineering,GENGirlCandidate,107554,D,4
 Bio-Technology,GENGirlCandidate,29580,OD,4
 Computer Science and Engineering,GENGirlCandidate,7765,OD,4
 Computer Science and Engineering with specialization in Artificial Intelligence,GENGirlCandidate,5684,OD,4
-Computer Science and Engineering with specialization in Data Science,GENGirlCandidate,-,OD,4
 Electrical Engineering,GENGirlCandidate,21079,OD,4
 Electronics and Communication Engineering,GENGirlCandidate,16026,OD,4
 Electronics and Communication Engineering with specialization in Internet of Things,GENGirlCandidate,16947,OD,4
@@ -387,146 +331,63 @@ Bio-Technology,GEN-PWD,354144,D,1
 Computer Science and Engineering,GEN-PWD,119220,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,219446,D,1
 Computer Science and Engineering with specialization in Data Science,GEN-PWD,314068,D,1
-Electrical Engineering,GEN-PWD,-,D,1
 Electronics and Communication Engineering,GEN-PWD,583367,D,1
 Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,844681,D,1
 Information Technology,GEN-PWD,358362,D,1
 Information Technology with specialization in Network and Information Security,GEN-PWD,439735,D,1
-Instrumentation and Control Engineering,GEN-PWD,-,D,1
 Mathematics and Computing,GEN-PWD,520609,D,1
-Mechanical Engineering,GEN-PWD,-,D,1
-Bio-Technology,GEN-PWD,-,OD,1
 Computer Science and Engineering,GEN-PWD,49846,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,-,OD,1
-Computer Science and Engineering with specialization in Data Science,GEN-PWD,-,OD,1
-Electrical Engineering,GEN-PWD,-,OD,1
 Electronics and Communication Engineering,GEN-PWD,111266,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,OD,1
 Information Technology,GEN-PWD,87784,OD,1
-Information Technology with specialization in Network and Information Security,GEN-PWD,-,OD,1
 Instrumentation and Control Engineering,GEN-PWD,217655,OD,1
-Mathematics and Computing,GEN-PWD,-,OD,1
 Mechanical Engineering,GEN-PWD,242666,OD,1
 Bio-Technology,GEN-PWD,570221,D,2
 Computer Science and Engineering,GEN-PWD,290222,D,2
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,354144,D,2
 Computer Science and Engineering with specialization in Data Science,GEN-PWD,395478,D,2
-Electrical Engineering,GEN-PWD,-,D,2
-Electronics and Communication Engineering,GEN-PWD,-,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,D,2
 Information Technology,GEN-PWD,534357,D,2
 Information Technology with specialization in Network and Information Security,GEN-PWD,583367,D,2
-Instrumentation and Control Engineering,GEN-PWD,-,D,2
-Mathematics and Computing,GEN-PWD,-,D,2
-Mechanical Engineering,GEN-PWD,-,D,2
-Bio-Technology,GEN-PWD,-,OD,2
 Computer Science and Engineering,GEN-PWD,67806,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,-,OD,2
-Computer Science and Engineering with specialization in Data Science,GEN-PWD,-,OD,2
-Electrical Engineering,GEN-PWD,-,OD,2
 Electronics and Communication Engineering,GEN-PWD,123978,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,OD,2
 Information Technology,GEN-PWD,125758,OD,2
-Information Technology with specialization in Network and Information Security,GEN-PWD,-,OD,2
 Instrumentation and Control Engineering,GEN-PWD,334844,OD,2
-Mathematics and Computing,GEN-PWD,-,OD,2
 Mechanical Engineering,GEN-PWD,310455,OD,2
-Bio-Technology,GEN-PWD,-,D,3
 Computer Science and Engineering,GEN-PWD,290222,D,3
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,354144,D,3
 Computer Science and Engineering with specialization in Data Science,GEN-PWD,395478,D,3
-Electrical Engineering,GEN-PWD,-,D,3
-Electronics and Communication Engineering,GEN-PWD,-,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,D,3
 Information Technology,GEN-PWD,527585,D,3
 Information Technology with specialization in Network and Information Security,GEN-PWD,583367,D,3
-Instrumentation and Control Engineering,GEN-PWD,-,D,3
-Mathematics and Computing,GEN-PWD,-,D,3
-Mechanical Engineering,GEN-PWD,-,D,3
-Bio-Technology,GEN-PWD,-,OD,3
 Computer Science and Engineering,GEN-PWD,67806,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,-,OD,3
-Computer Science and Engineering with specialization in Data Science,GEN-PWD,-,OD,3
-Electrical Engineering,GEN-PWD,-,OD,3
 Electronics and Communication Engineering,GEN-PWD,123978,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,OD,3
 Information Technology,GEN-PWD,60010,OD,3
-Information Technology with specialization in Network and Information Security,GEN-PWD,-,OD,3
 Instrumentation and Control Engineering,GEN-PWD,335040,OD,3
-Mathematics and Computing,GEN-PWD,-,OD,3
 Mechanical Engineering,GEN-PWD,479902,OD,3
-Bio-Technology,GEN-PWD,-,D,4
 Computer Science and Engineering,GEN-PWD,290222,D,4
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,395478,D,4
 Computer Science and Engineering with specialization in Data Science,GEN-PWD,526676,D,4
-Electrical Engineering,GEN-PWD,-,D,4
-Electronics and Communication Engineering,GEN-PWD,-,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,D,4
 Information Technology,GEN-PWD,527585,D,4
 Information Technology with specialization in Network and Information Security,GEN-PWD,583367,D,4
-Instrumentation and Control Engineering,GEN-PWD,-,D,4
-Mathematics and Computing,GEN-PWD,-,D,4
-Mechanical Engineering,GEN-PWD,-,D,4
-Bio-Technology,GEN-PWD,-,OD,4
 Computer Science and Engineering,GEN-PWD,67806,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,-,OD,4
-Computer Science and Engineering with specialization in Data Science,GEN-PWD,-,OD,4
-Electrical Engineering,GEN-PWD,-,OD,4
 Electronics and Communication Engineering,GEN-PWD,123978,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,OD,4
 Information Technology,GEN-PWD,145015,OD,4
-Information Technology with specialization in Network and Information Security,GEN-PWD,-,OD,4
 Instrumentation and Control Engineering,GEN-PWD,475274,OD,4
-Mathematics and Computing,GEN-PWD,-,OD,4
 Mechanical Engineering,GEN-PWD,523203,OD,4
-Bio-Technology,GEN-PWD,-,D,U1
 Computer Science and Engineering,GEN-PWD,290222,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,395478,D,U1
 Computer Science and Engineering with specialization in Data Science,GEN-PWD,526676,D,U1
-Electrical Engineering,GEN-PWD,-,D,U1
-Electronics and Communication Engineering,GEN-PWD,-,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,D,U1
 Information Technology,GEN-PWD,527585,D,U1
 Information Technology with specialization in Network and Information Security,GEN-PWD,583367,D,U1
-Instrumentation and Control Engineering,GEN-PWD,-,D,U1
-Mathematics and Computing,GEN-PWD,-,D,U1
-Mechanical Engineering,GEN-PWD,-,D,U1
-Bio-Technology,GEN-PWD,-,OD,U1
 Computer Science and Engineering,GEN-PWD,67806,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,GEN-PWD,-,OD,U1
-Electrical Engineering,GEN-PWD,-,OD,U1
 Electronics and Communication Engineering,GEN-PWD,123978,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,OD,U1
 Information Technology,GEN-PWD,267377,OD,U1
-Information Technology with specialization in Network and Information Security,GEN-PWD,-,OD,U1
-Instrumentation and Control Engineering,GEN-PWD,-,OD,U1
-Mathematics and Computing,GEN-PWD,-,OD,U1
-Mechanical Engineering,GEN-PWD,-,OD,U1
-Bio-Technology,GEN-PWD,-,D,S
 Computer Science and Engineering,GEN-PWD,290222,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,395478,D,S
 Computer Science and Engineering with specialization in Data Science,GEN-PWD,526676,D,S
-Electrical Engineering,GEN-PWD,-,D,S
-Electronics and Communication Engineering,GEN-PWD,-,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,D,S
 Information Technology,GEN-PWD,527585,D,S
 Information Technology with specialization in Network and Information Security,GEN-PWD,583367,D,S
-Instrumentation and Control Engineering,GEN-PWD,-,D,S
-Mathematics and Computing,GEN-PWD,-,D,S
-Mechanical Engineering,GEN-PWD,-,D,S
-Bio-Technology,GEN-PWD,-,OD,S
 Computer Science and Engineering,GEN-PWD,67806,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,GEN-PWD,-,OD,S
-Computer Science and Engineering with specialization in Data Science,GEN-PWD,-,OD,S
-Electrical Engineering,GEN-PWD,-,OD,S
 Electronics and Communication Engineering,GEN-PWD,123978,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,GEN-PWD,-,OD,S
 Information Technology,GEN-PWD,267377,OD,S
-Information Technology with specialization in Network and Information Security,GEN-PWD,-,OD,S
-Instrumentation and Control Engineering,GEN-PWD,-,OD,S
-Mathematics and Computing,GEN-PWD,-,OD,S
-Mechanical Engineering,GEN-PWD,-,OD,S
 Bio-Technology,EWS,97743,D,1
 Computer Science and Engineering,EWS,15406,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,EWS,7870,D,1
@@ -635,18 +496,13 @@ Information Technology with specialization in Network and Information Security,E
 Instrumentation and Control Engineering,EWS,75677,D,U1
 Mathematics and Computing,EWS,37403,D,U1
 Mechanical Engineering,EWS,127689,D,U1
-Bio-Technology,EWS,-,OD,U1
 Computer Science and Engineering,EWS,7832,OD,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,EWS,8701,OD,U1
 Computer Science and Engineering with specialization in Data Science,EWS,10465,OD,U1
-Electrical Engineering,EWS,-,OD,U1
-Electronics and Communication Engineering,EWS,-,OD,U1
 Electronics and Communication Engineering with specialization in Internet of Things,EWS,37172,OD,U1
 Information Technology,EWS,13002,OD,U1
 Information Technology with specialization in Network and Information Security,EWS,13104,OD,U1
-Instrumentation and Control Engineering,EWS,-,OD,U1
 Mathematics and Computing,EWS,17092,OD,U1
-Mechanical Engineering,EWS,-,OD,U1
 Bio-Technology,EWS,339665,D,S
 Computer Science and Engineering,EWS,21200,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,EWS,15406,D,S
@@ -671,150 +527,48 @@ Information Technology with specialization in Network and Information Security,E
 Instrumentation and Control Engineering,EWS,63606,OD,S
 Mathematics and Computing,EWS,17092,OD,S
 Mechanical Engineering,EWS,61874,OD,S
-Bio-Technology,EWS-DEF,-,D,1
 Computer Science and Engineering,EWS-DEF,26392,D,1
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,D,1
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,D,1
 Electrical Engineering,EWS-DEF,338703,D,1
 Electronics and Communication Engineering,EWS-DEF,148204,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,D,1
 Information Technology,EWS-DEF,68796,D,1
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,D,1
 Instrumentation and Control Engineering,EWS-DEF,92816,D,1
-Mathematics and Computing,EWS-DEF,-,D,1
 Mechanical Engineering,EWS-DEF,719661 (Priority VIII),D,1
-Bio-Technology,EWS-DEF,-,OD,1
 Computer Science and Engineering,EWS-DEF,148609,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,OD,1
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,OD,1
-Electrical Engineering,EWS-DEF,-,OD,1
-Electronics and Communication Engineering,EWS-DEF,-,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,OD,1
-Information Technology,EWS-DEF,-,OD,1
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,OD,1
-Instrumentation and Control Engineering,EWS-DEF,-,OD,1
-Mathematics and Computing,EWS-DEF,-,OD,1
-Mechanical Engineering,EWS-DEF,-,OD,1
-Bio-Technology,EWS-DEF,-,D,2
 Computer Science and Engineering,EWS-DEF,26392,D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,D,2
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,D,2
 Electrical Engineering,EWS-DEF,338703,D,2
 Electronics and Communication Engineering,EWS-DEF,148204,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,D,2
 Information Technology,EWS-DEF,68796,D,2
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,D,2
 Instrumentation and Control Engineering,EWS-DEF,92816,D,2
-Mathematics and Computing,EWS-DEF,-,D,2
 Mechanical Engineering,EWS-DEF,719661 (Priority VIII),D,2
-Bio-Technology,EWS-DEF,-,OD,2
 Computer Science and Engineering,EWS-DEF,148609,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,OD,2
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,OD,2
-Electrical Engineering,EWS-DEF,-,OD,2
-Electronics and Communication Engineering,EWS-DEF,-,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,OD,2
-Information Technology,EWS-DEF,-,OD,2
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,OD,2
-Instrumentation and Control Engineering,EWS-DEF,-,OD,2
-Mathematics and Computing,EWS-DEF,-,OD,2
-Mechanical Engineering,EWS-DEF,-,OD,2
-Bio-Technology,EWS-DEF,-,D,3
 Computer Science and Engineering,EWS-DEF,26392,D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,D,3
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,D,3
 Electrical Engineering,EWS-DEF,338703,D,3
 Electronics and Communication Engineering,EWS-DEF,148204,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,D,3
 Information Technology,EWS-DEF,68796,D,3
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,D,3
 Instrumentation and Control Engineering,EWS-DEF,92816,D,3
-Mathematics and Computing,EWS-DEF,-,D,3
 Mechanical Engineering,EWS-DEF,719661 (Priority VIII),D,3
-Bio-Technology,EWS-DEF,-,OD,3
 Computer Science and Engineering,EWS-DEF,148609,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,OD,3
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,OD,3
-Electrical Engineering,EWS-DEF,-,OD,3
-Electronics and Communication Engineering,EWS-DEF,-,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,OD,3
-Information Technology,EWS-DEF,-,OD,3
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,OD,3
-Instrumentation and Control Engineering,EWS-DEF,-,OD,3
-Mathematics and Computing,EWS-DEF,-,OD,3
-Mechanical Engineering,EWS-DEF,-,OD,3
-Bio-Technology,EWS-DEF,-,D,4
 Computer Science and Engineering,EWS-DEF,26392,D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,D,4
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,D,4
 Electrical Engineering,EWS-DEF,338703,D,4
 Electronics and Communication Engineering,EWS-DEF,148204,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,D,4
 Information Technology,EWS-DEF,68796,D,4
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,D,4
 Instrumentation and Control Engineering,EWS-DEF,92816,D,4
-Mathematics and Computing,EWS-DEF,-,D,4
 Mechanical Engineering,EWS-DEF,719661 (Priority VIII),D,4
-Bio-Technology,EWS-DEF,-,OD,4
 Computer Science and Engineering,EWS-DEF,148609,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,OD,4
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,OD,4
-Electrical Engineering,EWS-DEF,-,OD,4
-Electronics and Communication Engineering,EWS-DEF,-,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,OD,4
-Information Technology,EWS-DEF,-,OD,4
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,OD,4
-Instrumentation and Control Engineering,EWS-DEF,-,OD,4
-Mathematics and Computing,EWS-DEF,-,OD,4
-Mechanical Engineering,EWS-DEF,-,OD,4
-Bio-Technology,EWS-DEF,-,D,U1
 Computer Science and Engineering,EWS-DEF,26392,D,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,D,U1
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,D,U1
 Electrical Engineering,EWS-DEF,338703,D,U1
 Electronics and Communication Engineering,EWS-DEF,148204,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,D,U1
 Information Technology,EWS-DEF,68796,D,U1
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,D,U1
 Instrumentation and Control Engineering,EWS-DEF,92816,D,U1
-Mathematics and Computing,EWS-DEF,-,D,U1
 Mechanical Engineering,EWS-DEF,719661,D,U1
-Bio-Technology,EWS-DEF,-,OD,U1
 Computer Science and Engineering,EWS-DEF,148609,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,OD,U1
-Electrical Engineering,EWS-DEF,-,OD,U1
-Electronics and Communication Engineering,EWS-DEF,-,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,OD,U1
-Information Technology,EWS-DEF,-,OD,U1
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,OD,U1
-Instrumentation and Control Engineering,EWS-DEF,-,OD,U1
-Mathematics and Computing,EWS-DEF,-,OD,U1
-Mechanical Engineering,EWS-DEF,-,OD,U1
-Bio-Technology,EWS-DEF,-,D,S
 Computer Science and Engineering,EWS-DEF,26392,D,S
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,D,S
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,D,S
 Electrical Engineering,EWS-DEF,338703,D,S
 Electronics and Communication Engineering,EWS-DEF,148204,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,D,S
 Information Technology,EWS-DEF,68796,D,S
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,D,S
 Instrumentation and Control Engineering,EWS-DEF,92816,D,S
-Mathematics and Computing,EWS-DEF,-,D,S
 Mechanical Engineering,EWS-DEF,719661,D,S
-Bio-Technology,EWS-DEF,-,OD,S
 Computer Science and Engineering,EWS-DEF,148609,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-DEF,-,OD,S
-Computer Science and Engineering with specialization in Data Science,EWS-DEF,-,OD,S
-Electrical Engineering,EWS-DEF,-,OD,S
-Electronics and Communication Engineering,EWS-DEF,-,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-DEF,-,OD,S
-Information Technology,EWS-DEF,-,OD,S
-Information Technology with specialization in Network and Information Security,EWS-DEF,-,OD,S
-Instrumentation and Control Engineering,EWS-DEF,-,OD,S
-Mathematics and Computing,EWS-DEF,-,OD,S
-Mechanical Engineering,EWS-DEF,-,OD,S
 Bio-Technology,EWSGirlCandidate,134846,D,1
 Computer Science and Engineering,EWSGirlCandidate,28063,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,EWSGirlCandidate,15277,D,1
@@ -827,17 +581,9 @@ Information Technology with specialization in Network and Information Security,E
 Instrumentation and Control Engineering,EWSGirlCandidate,135632,D,1
 Mathematics and Computing,EWSGirlCandidate,39953,D,1
 Mechanical Engineering,EWSGirlCandidate,142830,D,1
-Bio-Technology,EWSGirlCandidate,-,OD,1
-Computer Science and Engineering,EWSGirlCandidate,-,OD,1
 Computer Science and Engineering with specialization in Artificial Intelligence,EWSGirlCandidate,7765,OD,1
 Computer Science and Engineering with specialization in Data Science,EWSGirlCandidate,7832,OD,1
-Electrical Engineering,EWSGirlCandidate,-,OD,1
 Electronics and Communication Engineering,EWSGirlCandidate,10666,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,EWSGirlCandidate,-,OD,1
-Information Technology,EWSGirlCandidate,-,OD,1
-Information Technology with specialization in Network and Information Security,EWSGirlCandidate,-,OD,1
-Instrumentation and Control Engineering,EWSGirlCandidate,-,OD,1
-Mathematics and Computing,EWSGirlCandidate,-,OD,1
 Mechanical Engineering,EWSGirlCandidate,28787,OD,1
 Bio-Technology,EWSGirlCandidate,158819,D,2
 Computer Science and Engineering,EWSGirlCandidate,28063,D,2
@@ -851,17 +597,9 @@ Information Technology with specialization in Network and Information Security,E
 Instrumentation and Control Engineering,EWSGirlCandidate,146143,D,2
 Mathematics and Computing,EWSGirlCandidate,51448,D,2
 Mechanical Engineering,EWSGirlCandidate,184237,D,2
-Bio-Technology,EWSGirlCandidate,-,OD,2
-Computer Science and Engineering,EWSGirlCandidate,-,OD,2
 Computer Science and Engineering with specialization in Artificial Intelligence,EWSGirlCandidate,7765,OD,2
 Computer Science and Engineering with specialization in Data Science,EWSGirlCandidate,12965,OD,2
-Electrical Engineering,EWSGirlCandidate,-,OD,2
 Electronics and Communication Engineering,EWSGirlCandidate,13118,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,EWSGirlCandidate,-,OD,2
-Information Technology,EWSGirlCandidate,-,OD,2
-Information Technology with specialization in Network and Information Security,EWSGirlCandidate,-,OD,2
-Instrumentation and Control Engineering,EWSGirlCandidate,-,OD,2
-Mathematics and Computing,EWSGirlCandidate,-,OD,2
 Mechanical Engineering,EWSGirlCandidate,33114,OD,2
 Bio-Technology,EWSGirlCandidate,158819,D,3
 Computer Science and Engineering,EWSGirlCandidate,28063,D,3
@@ -875,17 +613,9 @@ Information Technology with specialization in Network and Information Security,E
 Instrumentation and Control Engineering,EWSGirlCandidate,142830,D,3
 Mathematics and Computing,EWSGirlCandidate,51448,D,3
 Mechanical Engineering,EWSGirlCandidate,174453,D,3
-Bio-Technology,EWSGirlCandidate,-,OD,3
-Computer Science and Engineering,EWSGirlCandidate,-,OD,3
 Computer Science and Engineering with specialization in Artificial Intelligence,EWSGirlCandidate,7765,OD,3
 Computer Science and Engineering with specialization in Data Science,EWSGirlCandidate,13118,OD,3
-Electrical Engineering,EWSGirlCandidate,-,OD,3
 Electronics and Communication Engineering,EWSGirlCandidate,16947,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,EWSGirlCandidate,-,OD,3
-Information Technology,EWSGirlCandidate,-,OD,3
-Information Technology with specialization in Network and Information Security,EWSGirlCandidate,-,OD,3
-Instrumentation and Control Engineering,EWSGirlCandidate,-,OD,3
-Mathematics and Computing,EWSGirlCandidate,-,OD,3
 Mechanical Engineering,EWSGirlCandidate,32208,OD,3
 Bio-Technology,EWSGirlCandidate,158819,D,4
 Computer Science and Engineering,EWSGirlCandidate,28531,D,4
@@ -899,162 +629,13 @@ Information Technology with specialization in Network and Information Security,E
 Instrumentation and Control Engineering,EWSGirlCandidate,142830,D,4
 Mathematics and Computing,EWSGirlCandidate,51448,D,4
 Mechanical Engineering,EWSGirlCandidate,192700,D,4
-Bio-Technology,EWSGirlCandidate,-,OD,4
-Computer Science and Engineering,EWSGirlCandidate,-,OD,4
 Computer Science and Engineering with specialization in Artificial Intelligence,EWSGirlCandidate,13118,OD,4
 Computer Science and Engineering with specialization in Data Science,EWSGirlCandidate,13389,OD,4
-Electrical Engineering,EWSGirlCandidate,-,OD,4
 Electronics and Communication Engineering,EWSGirlCandidate,18000,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,EWSGirlCandidate,-,OD,4
-Information Technology,EWSGirlCandidate,-,OD,4
-Information Technology with specialization in Network and Information Security,EWSGirlCandidate,-,OD,4
-Instrumentation and Control Engineering,EWSGirlCandidate,-,OD,4
-Mathematics and Computing,EWSGirlCandidate,-,OD,4
 Mechanical Engineering,EWSGirlCandidate,37172,OD,4
-Bio-Technology,EWS-PWD,-,D,1
-Computer Science and Engineering,EWS-PWD,-,D,1
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,D,1
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,D,1
-Electrical Engineering,EWS-PWD,-,D,1
-Electronics and Communication Engineering,EWS-PWD,-,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,D,1
-Information Technology,EWS-PWD,-,D,1
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,D,1
-Instrumentation and Control Engineering,EWS-PWD,-,D,1
-Mathematics and Computing,EWS-PWD,-,D,1
-Mechanical Engineering,EWS-PWD,-,D,1
-Bio-Technology,EWS-PWD,-,OD,1
-Computer Science and Engineering,EWS-PWD,-,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,OD,1
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,OD,1
-Electrical Engineering,EWS-PWD,-,OD,1
 Electronics and Communication Engineering,EWS-PWD,161751,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,OD,1
-Information Technology,EWS-PWD,-,OD,1
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,OD,1
-Instrumentation and Control Engineering,EWS-PWD,-,OD,1
-Mathematics and Computing,EWS-PWD,-,OD,1
-Mechanical Engineering,EWS-PWD,-,OD,1
-Bio-Technology,EWS-PWD,-,D,2
-Computer Science and Engineering,EWS-PWD,-,D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,D,2
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,D,2
-Electrical Engineering,EWS-PWD,-,D,2
-Electronics and Communication Engineering,EWS-PWD,-,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,D,2
-Information Technology,EWS-PWD,-,D,2
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,D,2
-Instrumentation and Control Engineering,EWS-PWD,-,D,2
-Mathematics and Computing,EWS-PWD,-,D,2
-Mechanical Engineering,EWS-PWD,-,D,2
-Bio-Technology,EWS-PWD,-,OD,2
-Computer Science and Engineering,EWS-PWD,-,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,OD,2
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,OD,2
-Electrical Engineering,EWS-PWD,-,OD,2
 Electronics and Communication Engineering,EWS-PWD,196279,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,OD,2
-Information Technology,EWS-PWD,-,OD,2
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,OD,2
-Instrumentation and Control Engineering,EWS-PWD,-,OD,2
-Mathematics and Computing,EWS-PWD,-,OD,2
-Mechanical Engineering,EWS-PWD,-,OD,2
-Bio-Technology,EWS-PWD,-,D,3
-Computer Science and Engineering,EWS-PWD,-,D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,D,3
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,D,3
-Electrical Engineering,EWS-PWD,-,D,3
-Electronics and Communication Engineering,EWS-PWD,-,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,D,3
-Information Technology,EWS-PWD,-,D,3
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,D,3
-Instrumentation and Control Engineering,EWS-PWD,-,D,3
-Mathematics and Computing,EWS-PWD,-,D,3
-Mechanical Engineering,EWS-PWD,-,D,3
-Bio-Technology,EWS-PWD,-,OD,3
-Computer Science and Engineering,EWS-PWD,-,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,OD,3
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,OD,3
-Electrical Engineering,EWS-PWD,-,OD,3
 Electronics and Communication Engineering,EWS-PWD,299908,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,OD,3
-Information Technology,EWS-PWD,-,OD,3
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,OD,3
-Instrumentation and Control Engineering,EWS-PWD,-,OD,3
-Mathematics and Computing,EWS-PWD,-,OD,3
-Mechanical Engineering,EWS-PWD,-,OD,3
-Bio-Technology,EWS-PWD,-,D,4
-Computer Science and Engineering,EWS-PWD,-,D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,D,4
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,D,4
-Electrical Engineering,EWS-PWD,-,D,4
-Electronics and Communication Engineering,EWS-PWD,-,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,D,4
-Information Technology,EWS-PWD,-,D,4
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,D,4
-Instrumentation and Control Engineering,EWS-PWD,-,D,4
-Mathematics and Computing,EWS-PWD,-,D,4
-Mechanical Engineering,EWS-PWD,-,D,4
-Bio-Technology,EWS-PWD,-,OD,4
-Computer Science and Engineering,EWS-PWD,-,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,OD,4
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,OD,4
-Electrical Engineering,EWS-PWD,-,OD,4
-Electronics and Communication Engineering,EWS-PWD,-,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,OD,4
-Information Technology,EWS-PWD,-,OD,4
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,OD,4
-Instrumentation and Control Engineering,EWS-PWD,-,OD,4
-Mathematics and Computing,EWS-PWD,-,OD,4
-Mechanical Engineering,EWS-PWD,-,OD,4
-Bio-Technology,EWS-PWD,-,D,U1
-Computer Science and Engineering,EWS-PWD,-,D,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,D,U1
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,D,U1
-Electrical Engineering,EWS-PWD,-,D,U1
-Electronics and Communication Engineering,EWS-PWD,-,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,D,U1
-Information Technology,EWS-PWD,-,D,U1
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,D,U1
-Instrumentation and Control Engineering,EWS-PWD,-,D,U1
-Mathematics and Computing,EWS-PWD,-,D,U1
-Mechanical Engineering,EWS-PWD,-,D,U1
-Bio-Technology,EWS-PWD,-,OD,U1
-Computer Science and Engineering,EWS-PWD,-,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,OD,U1
-Electrical Engineering,EWS-PWD,-,OD,U1
-Electronics and Communication Engineering,EWS-PWD,-,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,OD,U1
-Information Technology,EWS-PWD,-,OD,U1
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,OD,U1
-Instrumentation and Control Engineering,EWS-PWD,-,OD,U1
-Mathematics and Computing,EWS-PWD,-,OD,U1
-Mechanical Engineering,EWS-PWD,-,OD,U1
-Bio-Technology,EWS-PWD,-,D,S
-Computer Science and Engineering,EWS-PWD,-,D,S
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,D,S
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,D,S
-Electrical Engineering,EWS-PWD,-,D,S
-Electronics and Communication Engineering,EWS-PWD,-,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,D,S
-Information Technology,EWS-PWD,-,D,S
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,D,S
-Instrumentation and Control Engineering,EWS-PWD,-,D,S
-Mathematics and Computing,EWS-PWD,-,D,S
-Mechanical Engineering,EWS-PWD,-,D,S
-Bio-Technology,EWS-PWD,-,OD,S
-Computer Science and Engineering,EWS-PWD,-,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,EWS-PWD,-,OD,S
-Computer Science and Engineering with specialization in Data Science,EWS-PWD,-,OD,S
-Electrical Engineering,EWS-PWD,-,OD,S
-Electronics and Communication Engineering,EWS-PWD,-,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,EWS-PWD,-,OD,S
-Information Technology,EWS-PWD,-,OD,S
-Information Technology with specialization in Network and Information Security,EWS-PWD,-,OD,S
-Instrumentation and Control Engineering,EWS-PWD,-,OD,S
-Mathematics and Computing,EWS-PWD,-,OD,S
-Mechanical Engineering,EWS-PWD,-,OD,S
 Bio-Technology,OBC,199567,D,1
 Computer Science and Engineering,OBC,30307,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC,18389,D,1
@@ -1163,16 +744,13 @@ Information Technology with specialization in Network and Information Security,O
 Instrumentation and Control Engineering,OBC,158380,D,U1
 Mathematics and Computing,OBC,77034,D,U1
 Mechanical Engineering,OBC,196439,D,U1
-Bio-Technology,OBC,-,OD,U1
 Computer Science and Engineering,OBC,12777,OD,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC,10696,OD,U1
 Computer Science and Engineering with specialization in Data Science,OBC,13357,OD,U1
-Electrical Engineering,OBC,-,OD,U1
 Electronics and Communication Engineering,OBC,33721,OD,U1
 Electronics and Communication Engineering with specialization in Internet of Things,OBC,26156,OD,U1
 Information Technology,OBC,15464,OD,U1
 Information Technology with specialization in Network and Information Security,OBC,16584,OD,U1
-Instrumentation and Control Engineering,OBC,-,OD,U1
 Mathematics and Computing,OBC,19860,OD,U1
 Mechanical Engineering,OBC,33560,OD,U1
 Bio-Technology,OBC,551052,D,S
@@ -1207,22 +785,10 @@ Electrical Engineering,OBC-DEF,273101,D,1
 Electronics and Communication Engineering,OBC-DEF,181426,D,1
 Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,184762,D,1
 Information Technology,OBC-DEF,149858,D,1
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,D,1
 Instrumentation and Control Engineering,OBC-DEF,351265,D,1
-Mathematics and Computing,OBC-DEF,-,D,1
 Mechanical Engineering,OBC-DEF,676768,D,1
-Bio-Technology,OBC-DEF,-,OD,1
-Computer Science and Engineering,OBC-DEF,-,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,-,OD,1
-Computer Science and Engineering with specialization in Data Science,OBC-DEF,-,OD,1
 Electrical Engineering,OBC-DEF,93115,OD,1
-Electronics and Communication Engineering,OBC-DEF,-,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,-,OD,1
 Information Technology,OBC-DEF,30450,OD,1
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,OD,1
-Instrumentation and Control Engineering,OBC-DEF,-,OD,1
-Mathematics and Computing,OBC-DEF,-,OD,1
-Mechanical Engineering,OBC-DEF,-,OD,1
 Bio-Technology,OBC-DEF,702671 (Priority VIII),D,2
 Computer Science and Engineering,OBC-DEF,81646,D,2
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,42655,D,2
@@ -1231,23 +797,10 @@ Electrical Engineering,OBC-DEF,638480,D,2
 Electronics and Communication Engineering,OBC-DEF,184762,D,2
 Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,253817,D,2
 Information Technology,OBC-DEF,149858,D,2
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,D,2
 Instrumentation and Control Engineering,OBC-DEF,471672,D,2
-Mathematics and Computing,OBC-DEF,-,D,2
 Mechanical Engineering,OBC-DEF,676768,D,2
-Bio-Technology,OBC-DEF,-,OD,2
-Computer Science and Engineering,OBC-DEF,-,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,-,OD,2
-Computer Science and Engineering with specialization in Data Science,OBC-DEF,-,OD,2
 Electrical Engineering,OBC-DEF,93115,OD,2
-Electronics and Communication Engineering,OBC-DEF,-,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,-,OD,2
 Information Technology,OBC-DEF,30450,OD,2
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,OD,2
-Instrumentation and Control Engineering,OBC-DEF,-,OD,2
-Mathematics and Computing,OBC-DEF,-,OD,2
-Mechanical Engineering,OBC-DEF,-,OD,2
-Bio-Technology,OBC-DEF,-,D,3
 Computer Science and Engineering,OBC-DEF,140708,D,3
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,59103,D,3
 Computer Science and Engineering with specialization in Data Science,OBC-DEF,129562,D,3
@@ -1255,23 +808,10 @@ Electrical Engineering,OBC-DEF,638480,D,3
 Electronics and Communication Engineering,OBC-DEF,273101,D,3
 Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,253817,D,3
 Information Technology,OBC-DEF,154392,D,3
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,D,3
 Instrumentation and Control Engineering,OBC-DEF,676768,D,3
-Mathematics and Computing,OBC-DEF,-,D,3
 Mechanical Engineering,OBC-DEF,322396,D,3
-Bio-Technology,OBC-DEF,-,OD,3
-Computer Science and Engineering,OBC-DEF,-,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,-,OD,3
-Computer Science and Engineering with specialization in Data Science,OBC-DEF,-,OD,3
 Electrical Engineering,OBC-DEF,93115,OD,3
-Electronics and Communication Engineering,OBC-DEF,-,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,-,OD,3
 Information Technology,OBC-DEF,30450,OD,3
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,OD,3
-Instrumentation and Control Engineering,OBC-DEF,-,OD,3
-Mathematics and Computing,OBC-DEF,-,OD,3
-Mechanical Engineering,OBC-DEF,-,OD,3
-Bio-Technology,OBC-DEF,-,D,4
 Computer Science and Engineering,OBC-DEF,140708,D,4
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,59103,D,4
 Computer Science and Engineering with specialization in Data Science,OBC-DEF,129562,D,4
@@ -1279,23 +819,10 @@ Electrical Engineering,OBC-DEF,638480,D,4
 Electronics and Communication Engineering,OBC-DEF,273101,D,4
 Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,253817,D,4
 Information Technology,OBC-DEF,154392,D,4
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,D,4
 Instrumentation and Control Engineering,OBC-DEF,676768,D,4
-Mathematics and Computing,OBC-DEF,-,D,4
 Mechanical Engineering,OBC-DEF,471672 (Priority VIII),D,4
-Bio-Technology,OBC-DEF,-,OD,4
-Computer Science and Engineering,OBC-DEF,-,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,-,OD,4
-Computer Science and Engineering with specialization in Data Science,OBC-DEF,-,OD,4
 Electrical Engineering,OBC-DEF,99871,OD,4
-Electronics and Communication Engineering,OBC-DEF,-,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,-,OD,4
 Information Technology,OBC-DEF,30450,OD,4
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,OD,4
-Instrumentation and Control Engineering,OBC-DEF,-,OD,4
-Mathematics and Computing,OBC-DEF,-,OD,4
-Mechanical Engineering,OBC-DEF,-,OD,4
-Bio-Technology,OBC-DEF,-,D,U1
 Computer Science and Engineering,OBC-DEF,140708,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,59103,D,U1
 Computer Science and Engineering with specialization in Data Science,OBC-DEF,129562,D,U1
@@ -1303,23 +830,10 @@ Electrical Engineering,OBC-DEF,638480,D,U1
 Electronics and Communication Engineering,OBC-DEF,273101,D,U1
 Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,253817,D,U1
 Information Technology,OBC-DEF,154392,D,U1
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,D,U1
 Instrumentation and Control Engineering,OBC-DEF,676768,D,U1
-Mathematics and Computing,OBC-DEF,-,D,U1
 Mechanical Engineering,OBC-DEF,471672,D,U1
-Bio-Technology,OBC-DEF,-,OD,U1
-Computer Science and Engineering,OBC-DEF,-,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,OBC-DEF,-,OD,U1
 Electrical Engineering,OBC-DEF,99871,OD,U1
-Electronics and Communication Engineering,OBC-DEF,-,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,-,OD,U1
 Information Technology,OBC-DEF,30450,OD,U1
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,OD,U1
-Instrumentation and Control Engineering,OBC-DEF,-,OD,U1
-Mathematics and Computing,OBC-DEF,-,OD,U1
-Mechanical Engineering,OBC-DEF,-,OD,U1
-Bio-Technology,OBC-DEF,-,D,S
 Computer Science and Engineering,OBC-DEF,140708,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,59103,D,S
 Computer Science and Engineering with specialization in Data Science,OBC-DEF,129562,D,S
@@ -1327,22 +841,10 @@ Electrical Engineering,OBC-DEF,638480,D,S
 Electronics and Communication Engineering,OBC-DEF,273101,D,S
 Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,253817,D,S
 Information Technology,OBC-DEF,154392,D,S
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,D,S
 Instrumentation and Control Engineering,OBC-DEF,676768,D,S
-Mathematics and Computing,OBC-DEF,-,D,S
 Mechanical Engineering,OBC-DEF,471672,D,S
-Bio-Technology,OBC-DEF,-,OD,S
-Computer Science and Engineering,OBC-DEF,-,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-DEF,-,OD,S
-Computer Science and Engineering with specialization in Data Science,OBC-DEF,-,OD,S
 Electrical Engineering,OBC-DEF,99871,OD,S
-Electronics and Communication Engineering,OBC-DEF,-,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-DEF,-,OD,S
 Information Technology,OBC-DEF,30450,OD,S
-Information Technology with specialization in Network and Information Security,OBC-DEF,-,OD,S
-Instrumentation and Control Engineering,OBC-DEF,-,OD,S
-Mathematics and Computing,OBC-DEF,-,OD,S
-Mechanical Engineering,OBC-DEF,-,OD,S
 Bio-Technology,OBCGirlCandidate,234873,D,1
 Computer Science and Engineering,OBCGirlCandidate,52720,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBCGirlCandidate,42702,D,1
@@ -1358,12 +860,10 @@ Mechanical Engineering,OBCGirlCandidate,274617,D,1
 Bio-Technology,OBCGirlCandidate,37673,OD,1
 Computer Science and Engineering,OBCGirlCandidate,11058,OD,1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBCGirlCandidate,6720,OD,1
-Computer Science and Engineering with specialization in Data Science,OBCGirlCandidate,-,OD,1
 Electrical Engineering,OBCGirlCandidate,20705,OD,1
 Electronics and Communication Engineering,OBCGirlCandidate,16325,OD,1
 Electronics and Communication Engineering with specialization in Internet of Things,OBCGirlCandidate,19103,OD,1
 Information Technology,OBCGirlCandidate,11762,OD,1
-Information Technology with specialization in Network and Information Security,OBCGirlCandidate,-,OD,1
 Instrumentation and Control Engineering,OBCGirlCandidate,33339,OD,1
 Mathematics and Computing,OBCGirlCandidate,14172,OD,1
 Mechanical Engineering,OBCGirlCandidate,34151,OD,1
@@ -1382,12 +882,10 @@ Mechanical Engineering,OBCGirlCandidate,390732,D,2
 Bio-Technology,OBCGirlCandidate,42813,OD,2
 Computer Science and Engineering,OBCGirlCandidate,20705,OD,2
 Computer Science and Engineering with specialization in Artificial Intelligence,OBCGirlCandidate,15682,OD,2
-Computer Science and Engineering with specialization in Data Science,OBCGirlCandidate,-,OD,2
 Electrical Engineering,OBCGirlCandidate,33259,OD,2
 Electronics and Communication Engineering,OBCGirlCandidate,31000,OD,2
 Electronics and Communication Engineering with specialization in Internet of Things,OBCGirlCandidate,28954,OD,2
 Information Technology,OBCGirlCandidate,21951,OD,2
-Information Technology with specialization in Network and Information Security,OBCGirlCandidate,-,OD,2
 Instrumentation and Control Engineering,OBCGirlCandidate,37776,OD,2
 Mathematics and Computing,OBCGirlCandidate,24929,OD,2
 Mechanical Engineering,OBCGirlCandidate,39485,OD,2
@@ -1406,12 +904,10 @@ Mechanical Engineering,OBCGirlCandidate,383617,D,3
 Bio-Technology,OBCGirlCandidate,52333,OD,3
 Computer Science and Engineering,OBCGirlCandidate,20705,OD,3
 Computer Science and Engineering with specialization in Artificial Intelligence,OBCGirlCandidate,21951,OD,3
-Computer Science and Engineering with specialization in Data Science,OBCGirlCandidate,-,OD,3
 Electrical Engineering,OBCGirlCandidate,42813,OD,3
 Electronics and Communication Engineering,OBCGirlCandidate,28564,OD,3
 Electronics and Communication Engineering with specialization in Internet of Things,OBCGirlCandidate,28954,OD,3
 Information Technology,OBCGirlCandidate,24929,OD,3
-Information Technology with specialization in Network and Information Security,OBCGirlCandidate,-,OD,3
 Instrumentation and Control Engineering,OBCGirlCandidate,47804,OD,3
 Mathematics and Computing,OBCGirlCandidate,23145,OD,3
 Mechanical Engineering,OBCGirlCandidate,44342,OD,3
@@ -1430,159 +926,35 @@ Mechanical Engineering,OBCGirlCandidate,410270,D,4
 Bio-Technology,OBCGirlCandidate,57410,OD,4
 Computer Science and Engineering,OBCGirlCandidate,20705,OD,4
 Computer Science and Engineering with specialization in Artificial Intelligence,OBCGirlCandidate,21951,OD,4
-Computer Science and Engineering with specialization in Data Science,OBCGirlCandidate,-,OD,4
 Electrical Engineering,OBCGirlCandidate,46190,OD,4
 Electronics and Communication Engineering,OBCGirlCandidate,42813,OD,4
 Electronics and Communication Engineering with specialization in Internet of Things,OBCGirlCandidate,44342,OD,4
 Information Technology,OBCGirlCandidate,24929,OD,4
-Information Technology with specialization in Network and Information Security,OBCGirlCandidate,-,OD,4
 Instrumentation and Control Engineering,OBCGirlCandidate,47804,OD,4
 Mathematics and Computing,OBCGirlCandidate,28564,OD,4
 Mechanical Engineering,OBCGirlCandidate,51272,OD,4
-Bio-Technology,OBC-PWD,-,D,1
 Computer Science and Engineering,OBC-PWD,301117,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,222336,D,1
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,D,1
-Electrical Engineering,OBC-PWD,-,D,1
-Electronics and Communication Engineering,OBC-PWD,-,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,D,1
-Information Technology,OBC-PWD,-,D,1
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,D,1
-Instrumentation and Control Engineering,OBC-PWD,-,D,1
-Mathematics and Computing,OBC-PWD,-,D,1
-Mechanical Engineering,OBC-PWD,-,D,1
-Bio-Technology,OBC-PWD,-,OD,1
 Computer Science and Engineering,OBC-PWD,50519,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,OD,1
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,OD,1
-Electrical Engineering,OBC-PWD,-,OD,1
 Electronics and Communication Engineering,OBC-PWD,123978,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,OD,1
-Information Technology,OBC-PWD,-,OD,1
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,OD,1
 Instrumentation and Control Engineering,OBC-PWD,475274,OD,1
-Mathematics and Computing,OBC-PWD,-,OD,1
 Mechanical Engineering,OBC-PWD,296217,OD,1
-Bio-Technology,OBC-PWD,-,D,2
-Computer Science and Engineering,OBC-PWD,-,D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,D,2
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,D,2
-Electrical Engineering,OBC-PWD,-,D,2
-Electronics and Communication Engineering,OBC-PWD,-,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,D,2
-Information Technology,OBC-PWD,-,D,2
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,D,2
-Instrumentation and Control Engineering,OBC-PWD,-,D,2
-Mathematics and Computing,OBC-PWD,-,D,2
-Mechanical Engineering,OBC-PWD,-,D,2
-Bio-Technology,OBC-PWD,-,OD,2
 Computer Science and Engineering,OBC-PWD,183932,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,OD,2
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,OD,2
-Electrical Engineering,OBC-PWD,-,OD,2
 Electronics and Communication Engineering,OBC-PWD,267377,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,OD,2
-Information Technology,OBC-PWD,-,OD,2
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,OD,2
 Instrumentation and Control Engineering,OBC-PWD,578760,OD,2
-Mathematics and Computing,OBC-PWD,-,OD,2
 Mechanical Engineering,OBC-PWD,593235,OD,2
-Bio-Technology,OBC-PWD,-,D,3
-Computer Science and Engineering,OBC-PWD,-,D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,D,3
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,D,3
-Electrical Engineering,OBC-PWD,-,D,3
-Electronics and Communication Engineering,OBC-PWD,-,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,D,3
-Information Technology,OBC-PWD,-,D,3
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,D,3
-Instrumentation and Control Engineering,OBC-PWD,-,D,3
-Mathematics and Computing,OBC-PWD,-,D,3
-Mechanical Engineering,OBC-PWD,-,D,3
-Bio-Technology,OBC-PWD,-,OD,3
 Computer Science and Engineering,OBC-PWD,183932,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,OD,3
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,OD,3
-Electrical Engineering,OBC-PWD,-,OD,3
 Electronics and Communication Engineering,OBC-PWD,267377,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,OD,3
-Information Technology,OBC-PWD,-,OD,3
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,OD,3
 Instrumentation and Control Engineering,OBC-PWD,578760,OD,3
-Mathematics and Computing,OBC-PWD,-,OD,3
 Mechanical Engineering,OBC-PWD,594345,OD,3
-Bio-Technology,OBC-PWD,-,D,4
-Computer Science and Engineering,OBC-PWD,-,D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,D,4
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,D,4
-Electrical Engineering,OBC-PWD,-,D,4
-Electronics and Communication Engineering,OBC-PWD,-,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,D,4
-Information Technology,OBC-PWD,-,D,4
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,D,4
-Instrumentation and Control Engineering,OBC-PWD,-,D,4
-Mathematics and Computing,OBC-PWD,-,D,4
-Mechanical Engineering,OBC-PWD,-,D,4
-Bio-Technology,OBC-PWD,-,OD,4
 Computer Science and Engineering,OBC-PWD,238831,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,OD,4
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,OD,4
-Electrical Engineering,OBC-PWD,-,OD,4
 Electronics and Communication Engineering,OBC-PWD,267377,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,OD,4
-Information Technology,OBC-PWD,-,OD,4
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,OD,4
 Instrumentation and Control Engineering,OBC-PWD,621859,OD,4
-Mathematics and Computing,OBC-PWD,-,OD,4
 Mechanical Engineering,OBC-PWD,721518,OD,4
-Bio-Technology,OBC-PWD,-,D,U1
-Computer Science and Engineering,OBC-PWD,-,D,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,D,U1
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,D,U1
-Electrical Engineering,OBC-PWD,-,D,U1
-Electronics and Communication Engineering,OBC-PWD,-,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,D,U1
-Information Technology,OBC-PWD,-,D,U1
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,D,U1
-Instrumentation and Control Engineering,OBC-PWD,-,D,U1
-Mathematics and Computing,OBC-PWD,-,D,U1
-Mechanical Engineering,OBC-PWD,-,D,U1
-Bio-Technology,OBC-PWD,-,OD,U1
 Computer Science and Engineering,OBC-PWD,238831,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,OD,U1
-Electrical Engineering,OBC-PWD,-,OD,U1
 Electronics and Communication Engineering,OBC-PWD,475274,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,OD,U1
-Information Technology,OBC-PWD,-,OD,U1
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,OD,U1
-Instrumentation and Control Engineering,OBC-PWD,-,OD,U1
-Mathematics and Computing,OBC-PWD,-,OD,U1
-Mechanical Engineering,OBC-PWD,-,OD,U1
-Bio-Technology,OBC-PWD,-,D,S
-Computer Science and Engineering,OBC-PWD,-,D,S
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,D,S
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,D,S
-Electrical Engineering,OBC-PWD,-,D,S
-Electronics and Communication Engineering,OBC-PWD,-,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,D,S
-Information Technology,OBC-PWD,-,D,S
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,D,S
-Instrumentation and Control Engineering,OBC-PWD,-,D,S
-Mathematics and Computing,OBC-PWD,-,D,S
-Mechanical Engineering,OBC-PWD,-,D,S
-Bio-Technology,OBC-PWD,-,OD,S
 Computer Science and Engineering,OBC-PWD,238831,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,OBC-PWD,-,OD,S
-Computer Science and Engineering with specialization in Data Science,OBC-PWD,-,OD,S
-Electrical Engineering,OBC-PWD,-,OD,S
 Electronics and Communication Engineering,OBC-PWD,475274,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,OBC-PWD,-,OD,S
-Information Technology,OBC-PWD,-,OD,S
-Information Technology with specialization in Network and Information Security,OBC-PWD,-,OD,S
-Instrumentation and Control Engineering,OBC-PWD,-,OD,S
-Mathematics and Computing,OBC-PWD,-,OD,S
-Mechanical Engineering,OBC-PWD,-,OD,S
 Bio-Technology,SC,315742,D,1
 Computer Science and Engineering,SC,60389,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC,46306,D,1
@@ -1691,7 +1063,6 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,SC,493010,D,U1
 Mathematics and Computing,SC,148749,D,U1
 Mechanical Engineering,SC,760436,D,U1
-Bio-Technology,SC,-,OD,U1
 Computer Science and Engineering,SC,36728,OD,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC,38644,OD,U1
 Computer Science and Engineering with specialization in Data Science,SC,40620,OD,U1
@@ -1702,7 +1073,6 @@ Information Technology,SC,43878,OD,U1
 Information Technology with specialization in Network and Information Security,SC,44797,OD,U1
 Instrumentation and Control Engineering,SC,102627,OD,U1
 Mathematics and Computing,SC,46076,OD,U1
-Mechanical Engineering,SC,-,OD,U1
 Bio-Technology,SC,405138,D,S
 Computer Science and Engineering,SC,83527,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,SC,72367,D,S
@@ -1727,150 +1097,45 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,SC,122760,OD,S
 Mathematics and Computing,SC,46076,OD,S
 Mechanical Engineering,SC,202011,OD,S
-Bio-Technology,SC-DEF,-,D,1
 Computer Science and Engineering,SC-DEF,309051,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,414603,D,1
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,D,1
-Electrical Engineering,SC-DEF,-,D,1
 Electronics and Communication Engineering,SC-DEF,430683,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,D,1
-Information Technology,SC-DEF,-,D,1
 Information Technology with specialization in Network and Information Security,SC-DEF,419857,D,1
-Instrumentation and Control Engineering,SC-DEF,-,D,1
 Mathematics and Computing,SC-DEF,185838,D,1
 Mechanical Engineering,SC-DEF,665513 (Priority VIII),D,1
 Bio-Technology,SC-DEF,126641(Priority VI),OD,1
-Computer Science and Engineering,SC-DEF,-,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,-,OD,1
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,OD,1
-Electrical Engineering,SC-DEF,-,OD,1
-Electronics and Communication Engineering,SC-DEF,-,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,OD,1
-Information Technology,SC-DEF,-,OD,1
-Information Technology with specialization in Network and Information Security,SC-DEF,-,OD,1
-Instrumentation and Control Engineering,SC-DEF,-,OD,1
-Mathematics and Computing,SC-DEF,-,OD,1
 Mechanical Engineering,SC-DEF,107196,OD,1
-Bio-Technology,SC-DEF,-,D,2
 Computer Science and Engineering,SC-DEF,309051,D,2
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,414603,D,2
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,D,2
-Electrical Engineering,SC-DEF,-,D,2
 Electronics and Communication Engineering,SC-DEF,430683,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,D,2
-Information Technology,SC-DEF,-,D,2
 Information Technology with specialization in Network and Information Security,SC-DEF,419857,D,2
-Instrumentation and Control Engineering,SC-DEF,-,D,2
 Mathematics and Computing,SC-DEF,185838,D,2
 Mechanical Engineering,SC-DEF,665513 (Priority VIII),D,2
 Bio-Technology,SC-DEF,187235 (Priority VI),OD,2
-Computer Science and Engineering,SC-DEF,-,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,-,OD,2
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,OD,2
-Electrical Engineering,SC-DEF,-,OD,2
-Electronics and Communication Engineering,SC-DEF,-,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,OD,2
-Information Technology,SC-DEF,-,OD,2
-Information Technology with specialization in Network and Information Security,SC-DEF,-,OD,2
-Instrumentation and Control Engineering,SC-DEF,-,OD,2
-Mathematics and Computing,SC-DEF,-,OD,2
 Mechanical Engineering,SC-DEF,107196,OD,2
-Bio-Technology,SC-DEF,-,D,3
 Computer Science and Engineering,SC-DEF,309051,D,3
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,414603,D,3
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,D,3
-Electrical Engineering,SC-DEF,-,D,3
 Electronics and Communication Engineering,SC-DEF,430683 (Priority VIII),D,3
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,D,3
-Information Technology,SC-DEF,-,D,3
 Information Technology with specialization in Network and Information Security,SC-DEF,419857,D,3
-Instrumentation and Control Engineering,SC-DEF,-,D,3
 Mathematics and Computing,SC-DEF,185838,D,3
-Mechanical Engineering,SC-DEF,-,D,3
 Bio-Technology,SC-DEF,412370 (Priority VI),OD,3
-Computer Science and Engineering,SC-DEF,-,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,-,OD,3
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,OD,3
-Electrical Engineering,SC-DEF,-,OD,3
-Electronics and Communication Engineering,SC-DEF,-,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,OD,3
-Information Technology,SC-DEF,-,OD,3
-Information Technology with specialization in Network and Information Security,SC-DEF,-,OD,3
-Instrumentation and Control Engineering,SC-DEF,-,OD,3
-Mathematics and Computing,SC-DEF,-,OD,3
 Mechanical Engineering,SC-DEF,107196,OD,3
-Bio-Technology,SC-DEF,-,D,4
 Computer Science and Engineering,SC-DEF,309051,D,4
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,414603,D,4
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,D,4
-Electrical Engineering,SC-DEF,-,D,4
-Electronics and Communication Engineering,SC-DEF,-,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,D,4
-Information Technology,SC-DEF,-,D,4
 Information Technology with specialization in Network and Information Security,SC-DEF,419857,D,4
-Instrumentation and Control Engineering,SC-DEF,-,D,4
 Mathematics and Computing,SC-DEF,185838 (Priority VIII),D,4
-Mechanical Engineering,SC-DEF,-,D,4
 Bio-Technology,SC-DEF,412370 (Priority VI),OD,4
-Computer Science and Engineering,SC-DEF,-,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,-,OD,4
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,OD,4
-Electrical Engineering,SC-DEF,-,OD,4
-Electronics and Communication Engineering,SC-DEF,-,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,OD,4
-Information Technology,SC-DEF,-,OD,4
-Information Technology with specialization in Network and Information Security,SC-DEF,-,OD,4
-Instrumentation and Control Engineering,SC-DEF,-,OD,4
-Mathematics and Computing,SC-DEF,-,OD,4
 Mechanical Engineering,SC-DEF,240757,OD,4
-Bio-Technology,SC-DEF,-,D,U1
 Computer Science and Engineering,SC-DEF,309051,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,414603,D,U1
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,D,U1
-Electrical Engineering,SC-DEF,-,D,U1
-Electronics and Communication Engineering,SC-DEF,-,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,D,U1
-Information Technology,SC-DEF,-,D,U1
 Information Technology with specialization in Network and Information Security,SC-DEF,419857,D,U1
-Instrumentation and Control Engineering,SC-DEF,-,D,U1
 Mathematics and Computing,SC-DEF,185838,D,U1
-Mechanical Engineering,SC-DEF,-,D,U1
 Bio-Technology,SC-DEF,412370,OD,U1
-Computer Science and Engineering,SC-DEF,-,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,OD,U1
-Electrical Engineering,SC-DEF,-,OD,U1
-Electronics and Communication Engineering,SC-DEF,-,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,OD,U1
-Information Technology,SC-DEF,-,OD,U1
-Information Technology with specialization in Network and Information Security,SC-DEF,-,OD,U1
-Instrumentation and Control Engineering,SC-DEF,-,OD,U1
-Mathematics and Computing,SC-DEF,-,OD,U1
-Mechanical Engineering,SC-DEF,-,OD,U1
-Bio-Technology,SC-DEF,-,D,S
 Computer Science and Engineering,SC-DEF,309051,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,414603,D,S
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,D,S
-Electrical Engineering,SC-DEF,-,D,S
-Electronics and Communication Engineering,SC-DEF,-,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,D,S
-Information Technology,SC-DEF,-,D,S
 Information Technology with specialization in Network and Information Security,SC-DEF,419857,D,S
-Instrumentation and Control Engineering,SC-DEF,-,D,S
 Mathematics and Computing,SC-DEF,185838,D,S
-Mechanical Engineering,SC-DEF,-,D,S
 Bio-Technology,SC-DEF,412370,OD,S
-Computer Science and Engineering,SC-DEF,-,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-DEF,-,OD,S
-Computer Science and Engineering with specialization in Data Science,SC-DEF,-,OD,S
-Electrical Engineering,SC-DEF,-,OD,S
-Electronics and Communication Engineering,SC-DEF,-,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,SC-DEF,-,OD,S
-Information Technology,SC-DEF,-,OD,S
-Information Technology with specialization in Network and Information Security,SC-DEF,-,OD,S
-Instrumentation and Control Engineering,SC-DEF,-,OD,S
-Mathematics and Computing,SC-DEF,-,OD,S
-Mechanical Engineering,SC-DEF,-,OD,S
 Bio-Technology,SCGirlCandidate,332925,D,1
 Computer Science and Engineering,SCGirlCandidate,105434,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,SCGirlCandidate,96624,D,1
@@ -1883,17 +1148,11 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,SCGirlCandidate,346573,D,1
 Mathematics and Computing,SCGirlCandidate,162922,D,1
 Mechanical Engineering,SCGirlCandidate,351933,D,1
-Bio-Technology,SCGirlCandidate,-,OD,1
 Computer Science and Engineering,SCGirlCandidate,25552,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,SCGirlCandidate,-,OD,1
 Computer Science and Engineering with specialization in Data Science,SCGirlCandidate,47834,OD,1
-Electrical Engineering,SCGirlCandidate,-,OD,1
 Electronics and Communication Engineering,SCGirlCandidate,73451,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,SCGirlCandidate,-,OD,1
 Information Technology,SCGirlCandidate,48610,OD,1
-Information Technology with specialization in Network and Information Security,SCGirlCandidate,-,OD,1
 Instrumentation and Control Engineering,SCGirlCandidate,103690,OD,1
-Mathematics and Computing,SCGirlCandidate,-,OD,1
 Mechanical Engineering,SCGirlCandidate,105409,OD,1
 Bio-Technology,SCGirlCandidate,405138,D,2
 Computer Science and Engineering,SCGirlCandidate,122785,D,2
@@ -1907,17 +1166,11 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,SCGirlCandidate,410047,D,2
 Mathematics and Computing,SCGirlCandidate,172531,D,2
 Mechanical Engineering,SCGirlCandidate,388922,D,2
-Bio-Technology,SCGirlCandidate,-,OD,2
 Computer Science and Engineering,SCGirlCandidate,43398,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,SCGirlCandidate,-,OD,2
 Computer Science and Engineering with specialization in Data Science,SCGirlCandidate,47834,OD,2
-Electrical Engineering,SCGirlCandidate,-,OD,2
 Electronics and Communication Engineering,SCGirlCandidate,73451,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,SCGirlCandidate,-,OD,2
 Information Technology,SCGirlCandidate,61511,OD,2
-Information Technology with specialization in Network and Information Security,SCGirlCandidate,-,OD,2
 Instrumentation and Control Engineering,SCGirlCandidate,120219,OD,2
-Mathematics and Computing,SCGirlCandidate,-,OD,2
 Mechanical Engineering,SCGirlCandidate,132447,OD,2
 Bio-Technology,SCGirlCandidate,528270,D,3
 Computer Science and Engineering,SCGirlCandidate,122785,D,3
@@ -1931,17 +1184,11 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,SCGirlCandidate,462005,D,3
 Mathematics and Computing,SCGirlCandidate,172531,D,3
 Mechanical Engineering,SCGirlCandidate,428915,D,3
-Bio-Technology,SCGirlCandidate,-,OD,3
 Computer Science and Engineering,SCGirlCandidate,47834,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,SCGirlCandidate,-,OD,3
 Computer Science and Engineering with specialization in Data Science,SCGirlCandidate,61511,OD,3
-Electrical Engineering,SCGirlCandidate,-,OD,3
 Electronics and Communication Engineering,SCGirlCandidate,73451,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,SCGirlCandidate,-,OD,3
 Information Technology,SCGirlCandidate,63949,OD,3
-Information Technology with specialization in Network and Information Security,SCGirlCandidate,-,OD,3
 Instrumentation and Control Engineering,SCGirlCandidate,120219,OD,3
-Mathematics and Computing,SCGirlCandidate,-,OD,3
 Mechanical Engineering,SCGirlCandidate,138976,OD,3
 Bio-Technology,SCGirlCandidate,818871,D,4
 Computer Science and Engineering,SCGirlCandidate,122785,D,4
@@ -1955,172 +1202,23 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,SCGirlCandidate,671561,D,4
 Mathematics and Computing,SCGirlCandidate,172531,D,4
 Mechanical Engineering,SCGirlCandidate,819117,D,4
-Bio-Technology,SCGirlCandidate,-,OD,4
 Computer Science and Engineering,SCGirlCandidate,61511,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,SCGirlCandidate,-,OD,4
 Computer Science and Engineering with specialization in Data Science,SCGirlCandidate,63949,OD,4
-Electrical Engineering,SCGirlCandidate,-,OD,4
 Electronics and Communication Engineering,SCGirlCandidate,86738,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,SCGirlCandidate,-,OD,4
 Information Technology,SCGirlCandidate,73451,OD,4
-Information Technology with specialization in Network and Information Security,SCGirlCandidate,-,OD,4
 Instrumentation and Control Engineering,SCGirlCandidate,159494,OD,4
-Mathematics and Computing,SCGirlCandidate,-,OD,4
 Mechanical Engineering,SCGirlCandidate,166432,OD,4
-Bio-Technology,SC-PWD,-,D,1
-Computer Science and Engineering,SC-PWD,-,D,1
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,D,1
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,D,1
-Electrical Engineering,SC-PWD,-,D,1
-Electronics and Communication Engineering,SC-PWD,-,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,D,1
-Information Technology,SC-PWD,-,D,1
-Information Technology with specialization in Network and Information Security,SC-PWD,-,D,1
-Instrumentation and Control Engineering,SC-PWD,-,D,1
-Mathematics and Computing,SC-PWD,-,D,1
-Mechanical Engineering,SC-PWD,-,D,1
-Bio-Technology,SC-PWD,-,OD,1
 Computer Science and Engineering,SC-PWD,233530,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,OD,1
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,OD,1
-Electrical Engineering,SC-PWD,-,OD,1
-Electronics and Communication Engineering,SC-PWD,-,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,OD,1
-Information Technology,SC-PWD,-,OD,1
-Information Technology with specialization in Network and Information Security,SC-PWD,-,OD,1
-Instrumentation and Control Engineering,SC-PWD,-,OD,1
-Mathematics and Computing,SC-PWD,-,OD,1
-Mechanical Engineering,SC-PWD,-,OD,1
-Bio-Technology,SC-PWD,-,D,2
-Computer Science and Engineering,SC-PWD,-,D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,D,2
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,D,2
-Electrical Engineering,SC-PWD,-,D,2
-Electronics and Communication Engineering,SC-PWD,-,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,D,2
-Information Technology,SC-PWD,-,D,2
-Information Technology with specialization in Network and Information Security,SC-PWD,-,D,2
-Instrumentation and Control Engineering,SC-PWD,-,D,2
-Mathematics and Computing,SC-PWD,-,D,2
-Mechanical Engineering,SC-PWD,-,D,2
-Bio-Technology,SC-PWD,-,OD,2
 Computer Science and Engineering,SC-PWD,233530,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,OD,2
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,OD,2
-Electrical Engineering,SC-PWD,-,OD,2
-Electronics and Communication Engineering,SC-PWD,-,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,OD,2
-Information Technology,SC-PWD,-,OD,2
-Information Technology with specialization in Network and Information Security,SC-PWD,-,OD,2
-Instrumentation and Control Engineering,SC-PWD,-,OD,2
-Mathematics and Computing,SC-PWD,-,OD,2
-Mechanical Engineering,SC-PWD,-,OD,2
-Bio-Technology,SC-PWD,-,D,3
-Computer Science and Engineering,SC-PWD,-,D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,D,3
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,D,3
-Electrical Engineering,SC-PWD,-,D,3
-Electronics and Communication Engineering,SC-PWD,-,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,D,3
-Information Technology,SC-PWD,-,D,3
-Information Technology with specialization in Network and Information Security,SC-PWD,-,D,3
-Instrumentation and Control Engineering,SC-PWD,-,D,3
-Mathematics and Computing,SC-PWD,-,D,3
-Mechanical Engineering,SC-PWD,-,D,3
-Bio-Technology,SC-PWD,-,OD,3
 Computer Science and Engineering,SC-PWD,233530,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,OD,3
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,OD,3
-Electrical Engineering,SC-PWD,-,OD,3
-Electronics and Communication Engineering,SC-PWD,-,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,OD,3
-Information Technology,SC-PWD,-,OD,3
-Information Technology with specialization in Network and Information Security,SC-PWD,-,OD,3
-Instrumentation and Control Engineering,SC-PWD,-,OD,3
-Mathematics and Computing,SC-PWD,-,OD,3
-Mechanical Engineering,SC-PWD,-,OD,3
-Bio-Technology,SC-PWD,-,D,4
-Computer Science and Engineering,SC-PWD,-,D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,D,4
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,D,4
-Electrical Engineering,SC-PWD,-,D,4
-Electronics and Communication Engineering,SC-PWD,-,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,D,4
-Information Technology,SC-PWD,-,D,4
-Information Technology with specialization in Network and Information Security,SC-PWD,-,D,4
-Instrumentation and Control Engineering,SC-PWD,-,D,4
-Mathematics and Computing,SC-PWD,-,D,4
-Mechanical Engineering,SC-PWD,-,D,4
-Bio-Technology,SC-PWD,-,OD,4
 Computer Science and Engineering,SC-PWD,518827,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,OD,4
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,OD,4
-Electrical Engineering,SC-PWD,-,OD,4
-Electronics and Communication Engineering,SC-PWD,-,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,OD,4
-Information Technology,SC-PWD,-,OD,4
-Information Technology with specialization in Network and Information Security,SC-PWD,-,OD,4
-Instrumentation and Control Engineering,SC-PWD,-,OD,4
-Mathematics and Computing,SC-PWD,-,OD,4
-Mechanical Engineering,SC-PWD,-,OD,4
-Bio-Technology,SC-PWD,-,D,U1
-Computer Science and Engineering,SC-PWD,-,D,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,D,U1
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,D,U1
-Electrical Engineering,SC-PWD,-,D,U1
-Electronics and Communication Engineering,SC-PWD,-,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,D,U1
-Information Technology,SC-PWD,-,D,U1
-Information Technology with specialization in Network and Information Security,SC-PWD,-,D,U1
-Instrumentation and Control Engineering,SC-PWD,-,D,U1
-Mathematics and Computing,SC-PWD,-,D,U1
-Mechanical Engineering,SC-PWD,-,D,U1
-Bio-Technology,SC-PWD,-,OD,U1
-Computer Science and Engineering,SC-PWD,-,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,OD,U1
-Electrical Engineering,SC-PWD,-,OD,U1
-Electronics and Communication Engineering,SC-PWD,-,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,OD,U1
-Information Technology,SC-PWD,-,OD,U1
-Information Technology with specialization in Network and Information Security,SC-PWD,-,OD,U1
-Instrumentation and Control Engineering,SC-PWD,-,OD,U1
-Mathematics and Computing,SC-PWD,-,OD,U1
-Mechanical Engineering,SC-PWD,-,OD,U1
-Bio-Technology,SC-PWD,-,D,S
-Computer Science and Engineering,SC-PWD,-,D,S
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,D,S
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,D,S
-Electrical Engineering,SC-PWD,-,D,S
-Electronics and Communication Engineering,SC-PWD,-,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,D,S
-Information Technology,SC-PWD,-,D,S
-Information Technology with specialization in Network and Information Security,SC-PWD,-,D,S
-Instrumentation and Control Engineering,SC-PWD,-,D,S
-Mathematics and Computing,SC-PWD,-,D,S
-Mechanical Engineering,SC-PWD,-,D,S
-Bio-Technology,SC-PWD,-,OD,S
-Computer Science and Engineering,SC-PWD,-,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,SC-PWD,-,OD,S
-Computer Science and Engineering with specialization in Data Science,SC-PWD,-,OD,S
-Electrical Engineering,SC-PWD,-,OD,S
-Electronics and Communication Engineering,SC-PWD,-,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,SC-PWD,-,OD,S
-Information Technology,SC-PWD,-,OD,S
-Information Technology with specialization in Network and Information Security,SC-PWD,-,OD,S
-Instrumentation and Control Engineering,SC-PWD,-,OD,S
-Mathematics and Computing,SC-PWD,-,OD,S
-Mechanical Engineering,SC-PWD,-,OD,S
-Bio-Technology,ST,-,D,1
 Computer Science and Engineering,ST,220541,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,160852,D,1
 Computer Science and Engineering with specialization in Data Science,ST,237159,D,1
 Electrical Engineering,ST,410476,D,1
 Electronics and Communication Engineering,ST,725144,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,ST,-,D,1
 Information Technology,ST,327180,D,1
 Information Technology with specialization in Network and Information Security,ST,390892,D,1
-Instrumentation and Control Engineering,ST,-,D,1
 Mathematics and Computing,ST,726878,D,1
 Mechanical Engineering,ST,805016,D,1
 Bio-Technology,ST,142096,OD,1
@@ -2135,16 +1233,12 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,ST,96707,OD,1
 Mathematics and Computing,ST,81369,OD,1
 Mechanical Engineering,ST,112338,OD,1
-Bio-Technology,ST,-,D,2
 Computer Science and Engineering,ST,275888,D,2
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,194108,D,2
 Computer Science and Engineering with specialization in Data Science,ST,387876,D,2
-Electrical Engineering,ST,-,D,2
 Electronics and Communication Engineering,ST,725144,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,ST,-,D,2
 Information Technology,ST,423332,D,2
 Information Technology with specialization in Network and Information Security,ST,531435,D,2
-Instrumentation and Control Engineering,ST,-,D,2
 Mathematics and Computing,ST,726878,D,2
 Mechanical Engineering,ST,805016,D,2
 Bio-Technology,ST,170948,OD,2
@@ -2159,17 +1253,12 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,ST,132807,OD,2
 Mathematics and Computing,ST,83839,OD,2
 Mechanical Engineering,ST,140641,OD,2
-Bio-Technology,ST,-,D,3
 Computer Science and Engineering,ST,275888,D,3
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,194108,D,3
 Computer Science and Engineering with specialization in Data Science,ST,387876,D,3
-Electrical Engineering,ST,-,D,3
 Electronics and Communication Engineering,ST,726878,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,ST,-,D,3
 Information Technology,ST,423332,D,3
 Information Technology with specialization in Network and Information Security,ST,599705,D,3
-Instrumentation and Control Engineering,ST,-,D,3
-Mathematics and Computing,ST,-,D,3
 Mechanical Engineering,ST,805016,D,3
 Bio-Technology,ST,190915,OD,3
 Computer Science and Engineering,ST,54125,OD,3
@@ -2183,17 +1272,12 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,ST,132807,OD,3
 Mathematics and Computing,ST,85530,OD,3
 Mechanical Engineering,ST,142096,OD,3
-Bio-Technology,ST,-,D,4
 Computer Science and Engineering,ST,275888,D,4
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,194108,D,4
 Computer Science and Engineering with specialization in Data Science,ST,387876,D,4
-Electrical Engineering,ST,-,D,4
 Electronics and Communication Engineering,ST,726878,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,ST,-,D,4
 Information Technology,ST,423332,D,4
 Information Technology with specialization in Network and Information Security,ST,599705,D,4
-Instrumentation and Control Engineering,ST,-,D,4
-Mathematics and Computing,ST,-,D,4
 Mechanical Engineering,ST,805016,D,4
 Bio-Technology,ST,205294,OD,4
 Computer Science and Engineering,ST,68541,OD,4
@@ -2207,19 +1291,13 @@ Information Technology with specialization in Network and Information Security,S
 Instrumentation and Control Engineering,ST,132807,OD,4
 Mathematics and Computing,ST,93081,OD,4
 Mechanical Engineering,ST,151170,OD,4
-Bio-Technology,ST,-,D,U1
 Computer Science and Engineering,ST,275888,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,194108,D,U1
 Computer Science and Engineering with specialization in Data Science,ST,387876,D,U1
-Electrical Engineering,ST,-,D,U1
 Electronics and Communication Engineering,ST,726878,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,ST,-,D,U1
 Information Technology,ST,423332,D,U1
 Information Technology with specialization in Network and Information Security,ST,599705,D,U1
-Instrumentation and Control Engineering,ST,-,D,U1
-Mathematics and Computing,ST,-,D,U1
 Mechanical Engineering,ST,805016,D,U1
-Bio-Technology,ST,-,OD,U1
 Computer Science and Engineering,ST,73262,OD,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,76254,OD,U1
 Computer Science and Engineering with specialization in Data Science,ST,84094,OD,U1
@@ -2228,22 +1306,14 @@ Electronics and Communication Engineering,ST,142096,OD,U1
 Electronics and Communication Engineering with specialization in Internet of Things,ST,115539,OD,U1
 Information Technology,ST,85530,OD,U1
 Information Technology with specialization in Network and Information Security,ST,81103,OD,U1
-Instrumentation and Control Engineering,ST,-,OD,U1
 Mathematics and Computing,ST,96707,OD,U1
-Mechanical Engineering,ST,-,OD,U1
-Bio-Technology,ST,-,D,S
 Computer Science and Engineering,ST,275888,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,194108,D,S
 Computer Science and Engineering with specialization in Data Science,ST,387876,D,S
-Electrical Engineering,ST,-,D,S
 Electronics and Communication Engineering,ST,726878,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,ST,-,D,S
 Information Technology,ST,423332,D,S
 Information Technology with specialization in Network and Information Security,ST,599705,D,S
-Instrumentation and Control Engineering,ST,-,D,S
-Mathematics and Computing,ST,-,D,S
 Mechanical Engineering,ST,805016,D,S
-Bio-Technology,ST,-,OD,S
 Computer Science and Engineering,ST,73262,OD,S
 Computer Science and Engineering with specialization in Artificial Intelligence,ST,76254,OD,S
 Computer Science and Engineering with specialization in Data Science,ST,84094,OD,S
@@ -2252,390 +1322,49 @@ Electronics and Communication Engineering,ST,142096,OD,S
 Electronics and Communication Engineering with specialization in Internet of Things,ST,115539,OD,S
 Information Technology,ST,85530,OD,S
 Information Technology with specialization in Network and Information Security,ST,81103,OD,S
-Instrumentation and Control Engineering,ST,-,OD,S
 Mathematics and Computing,ST,96707,OD,S
-Mechanical Engineering,ST,-,OD,S
-Bio-Technology,ST-DEF,-,D,1
-Computer Science and Engineering,ST-DEF,-,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,391364 (Priority VIII),D,1
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,D,1
-Electrical Engineering,ST-DEF,-,D,1
-Electronics and Communication Engineering,ST-DEF,-,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,D,1
-Information Technology,ST-DEF,-,D,1
-Information Technology with specialization in Network and Information Security,ST-DEF,-,D,1
-Instrumentation and Control Engineering,ST-DEF,-,D,1
-Mathematics and Computing,ST-DEF,-,D,1
-Mechanical Engineering,ST-DEF,-,D,1
-Bio-Technology,ST-DEF,-,OD,1
-Computer Science and Engineering,ST-DEF,-,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,-,OD,1
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,OD,1
-Electrical Engineering,ST-DEF,-,OD,1
-Electronics and Communication Engineering,ST-DEF,-,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,OD,1
-Information Technology,ST-DEF,-,OD,1
-Information Technology with specialization in Network and Information Security,ST-DEF,-,OD,1
 Instrumentation and Control Engineering,ST-DEF,426653 (Priority VI),OD,1
-Mathematics and Computing,ST-DEF,-,OD,1
-Mechanical Engineering,ST-DEF,-,OD,1
-Bio-Technology,ST-DEF,-,D,2
-Computer Science and Engineering,ST-DEF,-,D,2
 Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,391364 (Priority VIII),D,2
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,D,2
-Electrical Engineering,ST-DEF,-,D,2
-Electronics and Communication Engineering,ST-DEF,-,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,D,2
-Information Technology,ST-DEF,-,D,2
-Information Technology with specialization in Network and Information Security,ST-DEF,-,D,2
-Instrumentation and Control Engineering,ST-DEF,-,D,2
-Mathematics and Computing,ST-DEF,-,D,2
-Mechanical Engineering,ST-DEF,-,D,2
-Bio-Technology,ST-DEF,-,OD,2
-Computer Science and Engineering,ST-DEF,-,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,-,OD,2
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,OD,2
-Electrical Engineering,ST-DEF,-,OD,2
-Electronics and Communication Engineering,ST-DEF,-,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,OD,2
-Information Technology,ST-DEF,-,OD,2
-Information Technology with specialization in Network and Information Security,ST-DEF,-,OD,2
 Instrumentation and Control Engineering,ST-DEF,426653 (Priority VI),OD,2
-Mathematics and Computing,ST-DEF,-,OD,2
-Mechanical Engineering,ST-DEF,-,OD,2
-Bio-Technology,ST-DEF,-,D,3
-Computer Science and Engineering,ST-DEF,-,D,3
 Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,391364 (Priority VIII),D,3
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,D,3
-Electrical Engineering,ST-DEF,-,D,3
-Electronics and Communication Engineering,ST-DEF,-,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,D,3
-Information Technology,ST-DEF,-,D,3
-Information Technology with specialization in Network and Information Security,ST-DEF,-,D,3
-Instrumentation and Control Engineering,ST-DEF,-,D,3
-Mathematics and Computing,ST-DEF,-,D,3
-Mechanical Engineering,ST-DEF,-,D,3
-Bio-Technology,ST-DEF,-,OD,3
-Computer Science and Engineering,ST-DEF,-,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,-,OD,3
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,OD,3
-Electrical Engineering,ST-DEF,-,OD,3
-Electronics and Communication Engineering,ST-DEF,-,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,OD,3
-Information Technology,ST-DEF,-,OD,3
-Information Technology with specialization in Network and Information Security,ST-DEF,-,OD,3
 Instrumentation and Control Engineering,ST-DEF,426653 (Priority VI),OD,3
-Mathematics and Computing,ST-DEF,-,OD,3
-Mechanical Engineering,ST-DEF,-,OD,3
-Bio-Technology,ST-DEF,-,D,4
-Computer Science and Engineering,ST-DEF,-,D,4
 Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,391364 (Priority VIII),D,4
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,D,4
-Electrical Engineering,ST-DEF,-,D,4
-Electronics and Communication Engineering,ST-DEF,-,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,D,4
-Information Technology,ST-DEF,-,D,4
-Information Technology with specialization in Network and Information Security,ST-DEF,-,D,4
-Instrumentation and Control Engineering,ST-DEF,-,D,4
-Mathematics and Computing,ST-DEF,-,D,4
-Mechanical Engineering,ST-DEF,-,D,4
-Bio-Technology,ST-DEF,-,OD,4
-Computer Science and Engineering,ST-DEF,-,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,-,OD,4
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,OD,4
-Electrical Engineering,ST-DEF,-,OD,4
-Electronics and Communication Engineering,ST-DEF,-,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,OD,4
-Information Technology,ST-DEF,-,OD,4
-Information Technology with specialization in Network and Information Security,ST-DEF,-,OD,4
 Instrumentation and Control Engineering,ST-DEF,426653 (Priority VI),OD,4
-Mathematics and Computing,ST-DEF,-,OD,4
-Mechanical Engineering,ST-DEF,-,OD,4
-Bio-Technology,ST-DEF,-,D,U1
-Computer Science and Engineering,ST-DEF,-,D,U1
 Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,391364,D,U1
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,D,U1
-Electrical Engineering,ST-DEF,-,D,U1
-Electronics and Communication Engineering,ST-DEF,-,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,D,U1
-Information Technology,ST-DEF,-,D,U1
-Information Technology with specialization in Network and Information Security,ST-DEF,-,D,U1
-Instrumentation and Control Engineering,ST-DEF,-,D,U1
-Mathematics and Computing,ST-DEF,-,D,U1
-Mechanical Engineering,ST-DEF,-,D,U1
-Bio-Technology,ST-DEF,-,OD,U1
-Computer Science and Engineering,ST-DEF,-,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,OD,U1
-Electrical Engineering,ST-DEF,-,OD,U1
-Electronics and Communication Engineering,ST-DEF,-,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,OD,U1
-Information Technology,ST-DEF,-,OD,U1
-Information Technology with specialization in Network and Information Security,ST-DEF,-,OD,U1
 Instrumentation and Control Engineering,ST-DEF,426653,OD,U1
-Mathematics and Computing,ST-DEF,-,OD,U1
-Mechanical Engineering,ST-DEF,-,OD,U1
-Bio-Technology,ST-DEF,-,D,S
-Computer Science and Engineering,ST-DEF,-,D,S
 Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,391364,D,S
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,D,S
-Electrical Engineering,ST-DEF,-,D,S
-Electronics and Communication Engineering,ST-DEF,-,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,D,S
-Information Technology,ST-DEF,-,D,S
-Information Technology with specialization in Network and Information Security,ST-DEF,-,D,S
-Instrumentation and Control Engineering,ST-DEF,-,D,S
-Mathematics and Computing,ST-DEF,-,D,S
-Mechanical Engineering,ST-DEF,-,D,S
-Bio-Technology,ST-DEF,-,OD,S
-Computer Science and Engineering,ST-DEF,-,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-DEF,-,OD,S
-Computer Science and Engineering with specialization in Data Science,ST-DEF,-,OD,S
-Electrical Engineering,ST-DEF,-,OD,S
-Electronics and Communication Engineering,ST-DEF,-,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,ST-DEF,-,OD,S
-Information Technology,ST-DEF,-,OD,S
-Information Technology with specialization in Network and Information Security,ST-DEF,-,OD,S
 Instrumentation and Control Engineering,ST-DEF,426653,OD,S
-Mathematics and Computing,ST-DEF,-,OD,S
-Mechanical Engineering,ST-DEF,-,OD,S
-Bio-Technology,STGirlCandidate,-,D,1
 Computer Science and Engineering,STGirlCandidate,275888,D,1
 Computer Science and Engineering with specialization in Artificial Intelligence,STGirlCandidate,264969,D,1
-Computer Science and Engineering with specialization in Data Science,STGirlCandidate,-,D,1
-Electrical Engineering,STGirlCandidate,-,D,1
-Electronics and Communication Engineering,STGirlCandidate,-,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,STGirlCandidate,-,D,1
 Information Technology,STGirlCandidate,330160,D,1
 Information Technology with specialization in Network and Information Security,STGirlCandidate,587316,D,1
-Instrumentation and Control Engineering,STGirlCandidate,-,D,1
-Mathematics and Computing,STGirlCandidate,-,D,1
-Mechanical Engineering,STGirlCandidate,-,D,1
-Bio-Technology,STGirlCandidate,-,OD,1
-Computer Science and Engineering,STGirlCandidate,-,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,STGirlCandidate,-,OD,1
-Computer Science and Engineering with specialization in Data Science,STGirlCandidate,-,OD,1
 Electrical Engineering,STGirlCandidate,108878,OD,1
 Electronics and Communication Engineering,STGirlCandidate,115539,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,STGirlCandidate,-,OD,1
-Information Technology,STGirlCandidate,-,OD,1
 Information Technology with specialization in Network and Information Security,STGirlCandidate,112216,OD,1
-Instrumentation and Control Engineering,STGirlCandidate,-,OD,1
-Mathematics and Computing,STGirlCandidate,-,OD,1
-Mechanical Engineering,STGirlCandidate,-,OD,1
-Bio-Technology,STGirlCandidate,-,D,2
 Computer Science and Engineering,STGirlCandidate,337097,D,2
 Computer Science and Engineering with specialization in Artificial Intelligence,STGirlCandidate,272574,D,2
-Computer Science and Engineering with specialization in Data Science,STGirlCandidate,-,D,2
-Electrical Engineering,STGirlCandidate,-,D,2
-Electronics and Communication Engineering,STGirlCandidate,-,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,STGirlCandidate,-,D,2
 Information Technology,STGirlCandidate,587316,D,2
-Information Technology with specialization in Network and Information Security,STGirlCandidate,-,D,2
-Instrumentation and Control Engineering,STGirlCandidate,-,D,2
-Mathematics and Computing,STGirlCandidate,-,D,2
-Mechanical Engineering,STGirlCandidate,-,D,2
-Bio-Technology,STGirlCandidate,-,OD,2
-Computer Science and Engineering,STGirlCandidate,-,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,STGirlCandidate,-,OD,2
-Computer Science and Engineering with specialization in Data Science,STGirlCandidate,-,OD,2
 Electrical Engineering,STGirlCandidate,176240,OD,2
 Electronics and Communication Engineering,STGirlCandidate,115539,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,STGirlCandidate,-,OD,2
-Information Technology,STGirlCandidate,-,OD,2
 Information Technology with specialization in Network and Information Security,STGirlCandidate,112216,OD,2
-Instrumentation and Control Engineering,STGirlCandidate,-,OD,2
-Mathematics and Computing,STGirlCandidate,-,OD,2
-Mechanical Engineering,STGirlCandidate,-,OD,2
-Bio-Technology,STGirlCandidate,-,D,3
 Computer Science and Engineering,STGirlCandidate,337097,D,3
 Computer Science and Engineering with specialization in Artificial Intelligence,STGirlCandidate,272574,D,3
-Computer Science and Engineering with specialization in Data Science,STGirlCandidate,-,D,3
-Electrical Engineering,STGirlCandidate,-,D,3
-Electronics and Communication Engineering,STGirlCandidate,-,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,STGirlCandidate,-,D,3
 Information Technology,STGirlCandidate,587316,D,3
-Information Technology with specialization in Network and Information Security,STGirlCandidate,-,D,3
-Instrumentation and Control Engineering,STGirlCandidate,-,D,3
-Mathematics and Computing,STGirlCandidate,-,D,3
-Mechanical Engineering,STGirlCandidate,-,D,3
-Bio-Technology,STGirlCandidate,-,OD,3
-Computer Science and Engineering,STGirlCandidate,-,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,STGirlCandidate,-,OD,3
-Computer Science and Engineering with specialization in Data Science,STGirlCandidate,-,OD,3
 Electrical Engineering,STGirlCandidate,176240,OD,3
 Electronics and Communication Engineering,STGirlCandidate,115539,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,STGirlCandidate,-,OD,3
-Information Technology,STGirlCandidate,-,OD,3
 Information Technology with specialization in Network and Information Security,STGirlCandidate,112216,OD,3
-Instrumentation and Control Engineering,STGirlCandidate,-,OD,3
-Mathematics and Computing,STGirlCandidate,-,OD,3
-Mechanical Engineering,STGirlCandidate,-,OD,3
-Bio-Technology,STGirlCandidate,-,D,4
 Computer Science and Engineering,STGirlCandidate,337097,D,4
 Computer Science and Engineering with specialization in Artificial Intelligence,STGirlCandidate,272574,D,4
-Computer Science and Engineering with specialization in Data Science,STGirlCandidate,-,D,4
-Electrical Engineering,STGirlCandidate,-,D,4
-Electronics and Communication Engineering,STGirlCandidate,-,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,STGirlCandidate,-,D,4
 Information Technology,STGirlCandidate,587316,D,4
-Information Technology with specialization in Network and Information Security,STGirlCandidate,-,D,4
-Instrumentation and Control Engineering,STGirlCandidate,-,D,4
-Mathematics and Computing,STGirlCandidate,-,D,4
-Mechanical Engineering,STGirlCandidate,-,D,4
-Bio-Technology,STGirlCandidate,-,OD,4
-Computer Science and Engineering,STGirlCandidate,-,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,STGirlCandidate,-,OD,4
-Computer Science and Engineering with specialization in Data Science,STGirlCandidate,-,OD,4
 Electrical Engineering,STGirlCandidate,176240,OD,4
 Electronics and Communication Engineering,STGirlCandidate,130124,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,STGirlCandidate,-,OD,4
-Information Technology,STGirlCandidate,-,OD,4
 Information Technology with specialization in Network and Information Security,STGirlCandidate,112216,OD,4
-Instrumentation and Control Engineering,STGirlCandidate,-,OD,4
-Mathematics and Computing,STGirlCandidate,-,OD,4
-Mechanical Engineering,STGirlCandidate,-,OD,4
-Bio-Technology,ST-PWD,-,D,1
 Computer Science and Engineering,ST-PWD,576762,D,1
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,D,1
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,D,1
-Electrical Engineering,ST-PWD,-,D,1
-Electronics and Communication Engineering,ST-PWD,-,D,1
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,D,1
-Information Technology,ST-PWD,-,D,1
-Information Technology with specialization in Network and Information Security,ST-PWD,-,D,1
-Instrumentation and Control Engineering,ST-PWD,-,D,1
-Mathematics and Computing,ST-PWD,-,D,1
-Mechanical Engineering,ST-PWD,-,D,1
-Bio-Technology,ST-PWD,-,OD,1
-Computer Science and Engineering,ST-PWD,-,OD,1
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,OD,1
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,OD,1
-Electrical Engineering,ST-PWD,-,OD,1
-Electronics and Communication Engineering,ST-PWD,-,OD,1
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,OD,1
-Information Technology,ST-PWD,-,OD,1
-Information Technology with specialization in Network and Information Security,ST-PWD,-,OD,1
-Instrumentation and Control Engineering,ST-PWD,-,OD,1
-Mathematics and Computing,ST-PWD,-,OD,1
 Mechanical Engineering,ST-PWD,585143,OD,1
-Bio-Technology,ST-PWD,-,D,2
 Computer Science and Engineering,ST-PWD,576762,D,2
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,D,2
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,D,2
-Electrical Engineering,ST-PWD,-,D,2
-Electronics and Communication Engineering,ST-PWD,-,D,2
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,D,2
-Information Technology,ST-PWD,-,D,2
-Information Technology with specialization in Network and Information Security,ST-PWD,-,D,2
-Instrumentation and Control Engineering,ST-PWD,-,D,2
-Mathematics and Computing,ST-PWD,-,D,2
-Mechanical Engineering,ST-PWD,-,D,2
-Bio-Technology,ST-PWD,-,OD,2
-Computer Science and Engineering,ST-PWD,-,OD,2
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,OD,2
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,OD,2
-Electrical Engineering,ST-PWD,-,OD,2
-Electronics and Communication Engineering,ST-PWD,-,OD,2
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,OD,2
-Information Technology,ST-PWD,-,OD,2
-Information Technology with specialization in Network and Information Security,ST-PWD,-,OD,2
-Instrumentation and Control Engineering,ST-PWD,-,OD,2
-Mathematics and Computing,ST-PWD,-,OD,2
 Mechanical Engineering,ST-PWD,685491,OD,2
-Bio-Technology,ST-PWD,-,D,3
 Computer Science and Engineering,ST-PWD,576762,D,3
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,D,3
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,D,3
-Electrical Engineering,ST-PWD,-,D,3
-Electronics and Communication Engineering,ST-PWD,-,D,3
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,D,3
-Information Technology,ST-PWD,-,D,3
-Information Technology with specialization in Network and Information Security,ST-PWD,-,D,3
-Instrumentation and Control Engineering,ST-PWD,-,D,3
-Mathematics and Computing,ST-PWD,-,D,3
-Mechanical Engineering,ST-PWD,-,D,3
-Bio-Technology,ST-PWD,-,OD,3
-Computer Science and Engineering,ST-PWD,-,OD,3
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,OD,3
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,OD,3
-Electrical Engineering,ST-PWD,-,OD,3
-Electronics and Communication Engineering,ST-PWD,-,OD,3
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,OD,3
-Information Technology,ST-PWD,-,OD,3
-Information Technology with specialization in Network and Information Security,ST-PWD,-,OD,3
-Instrumentation and Control Engineering,ST-PWD,-,OD,3
-Mathematics and Computing,ST-PWD,-,OD,3
-Mechanical Engineering,ST-PWD,-,OD,3
-Bio-Technology,ST-PWD,-,D,4
 Computer Science and Engineering,ST-PWD,576762,D,4
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,D,4
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,D,4
-Electrical Engineering,ST-PWD,-,D,4
-Electronics and Communication Engineering,ST-PWD,-,D,4
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,D,4
-Information Technology,ST-PWD,-,D,4
-Information Technology with specialization in Network and Information Security,ST-PWD,-,D,4
-Instrumentation and Control Engineering,ST-PWD,-,D,4
-Mathematics and Computing,ST-PWD,-,D,4
-Mechanical Engineering,ST-PWD,-,D,4
-Bio-Technology,ST-PWD,-,OD,4
-Computer Science and Engineering,ST-PWD,-,OD,4
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,OD,4
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,OD,4
-Electrical Engineering,ST-PWD,-,OD,4
-Electronics and Communication Engineering,ST-PWD,-,OD,4
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,OD,4
-Information Technology,ST-PWD,-,OD,4
-Information Technology with specialization in Network and Information Security,ST-PWD,-,OD,4
-Instrumentation and Control Engineering,ST-PWD,-,OD,4
-Mathematics and Computing,ST-PWD,-,OD,4
-Mechanical Engineering,ST-PWD,-,OD,4
-Bio-Technology,ST-PWD,-,D,U1
 Computer Science and Engineering,ST-PWD,576762,D,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,D,U1
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,D,U1
-Electrical Engineering,ST-PWD,-,D,U1
-Electronics and Communication Engineering,ST-PWD,-,D,U1
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,D,U1
-Information Technology,ST-PWD,-,D,U1
-Information Technology with specialization in Network and Information Security,ST-PWD,-,D,U1
-Instrumentation and Control Engineering,ST-PWD,-,D,U1
-Mathematics and Computing,ST-PWD,-,D,U1
-Mechanical Engineering,ST-PWD,-,D,U1
-Bio-Technology,ST-PWD,-,OD,U1
-Computer Science and Engineering,ST-PWD,-,OD,U1
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,OD,U1
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,OD,U1
-Electrical Engineering,ST-PWD,-,OD,U1
-Electronics and Communication Engineering,ST-PWD,-,OD,U1
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,OD,U1
-Information Technology,ST-PWD,-,OD,U1
-Information Technology with specialization in Network and Information Security,ST-PWD,-,OD,U1
-Instrumentation and Control Engineering,ST-PWD,-,OD,U1
-Mathematics and Computing,ST-PWD,-,OD,U1
-Mechanical Engineering,ST-PWD,-,OD,U1
-Bio-Technology,ST-PWD,-,D,S
 Computer Science and Engineering,ST-PWD,576762,D,S
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,D,S
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,D,S
-Electrical Engineering,ST-PWD,-,D,S
-Electronics and Communication Engineering,ST-PWD,-,D,S
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,D,S
-Information Technology,ST-PWD,-,D,S
-Information Technology with specialization in Network and Information Security,ST-PWD,-,D,S
-Instrumentation and Control Engineering,ST-PWD,-,D,S
-Mathematics and Computing,ST-PWD,-,D,S
-Mechanical Engineering,ST-PWD,-,D,S
-Bio-Technology,ST-PWD,-,OD,S
-Computer Science and Engineering,ST-PWD,-,OD,S
-Computer Science and Engineering with specialization in Artificial Intelligence,ST-PWD,-,OD,S
-Computer Science and Engineering with specialization in Data Science,ST-PWD,-,OD,S
-Electrical Engineering,ST-PWD,-,OD,S
-Electronics and Communication Engineering,ST-PWD,-,OD,S
-Electronics and Communication Engineering with specialization in Internet of Things,ST-PWD,-,OD,S
-Information Technology,ST-PWD,-,OD,S
-Information Technology with specialization in Network and Information Security,ST-PWD,-,OD,S
-Instrumentation and Control Engineering,ST-PWD,-,OD,S
-Mathematics and Computing,ST-PWD,-,OD,S
-Mechanical Engineering,ST-PWD,-,OD,S
