@@ -16,6 +16,7 @@ class RankscraperPipeline:
         #To remove /n from data
         adapter["Region"] = adapter["Region"].replace("\n", "")
         adapter["Branch"] = adapter["Branch"].replace("\n", "")
+        adapter["Jee_Rank"] = adapter["Jee_Rank"].replace("\n", "")
         
         #To remove extra spaces from data
         adapter["Region"] = adapter["Region"].strip()
@@ -27,5 +28,6 @@ class RankscraperPipeline:
         #To remove extra spaces from in between of data
         adapter["Region"] = adapter["Region"].replace("                                                                                        ", " ")
         adapter["Branch"] = adapter["Branch"].replace("                                                                                    ", " ")
+        adapter["Jee_Rank"] = adapter["Jee_Rank"].replace("                                                                                    ", " ")
         
         return item
