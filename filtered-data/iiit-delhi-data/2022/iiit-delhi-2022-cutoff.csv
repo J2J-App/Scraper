@@ -1,530 +1,441 @@
-Branch,Category,Jee_Rank,Region,Round
-Computer Science and Applied Mathematics,GEN,1009 (8455),D,1
-Computer Science and Artificial Intelligence,GEN,244 (2942),D,1
-Computer Science and Biosciences,GEN,2180 (15988),D,1
-Computer Science and Design,GEN,1249 (9893),D,1
-Computer Science and Engineering,GEN,520 (5178),D,1
-Computer Science and Social Sciences,GEN,1788 (13339),D,1
-Electronics and Communication Engineering,GEN,2398 (17527),D,1
-Electronics and VLSI Engineering,GEN,2979 (21932),D,1
-Computer Science and Design,GEN,59 (981),OD,1
-Electronics and Communication Engineering,GEN,66 (1104),OD,1
-Electronics and VLSI Engineering,GEN,534 (5310),OD,1
-Computer Science and Applied Mathematics,GEN,1793 (13376),D,2
-Computer Science and Artificial Intelligence,GEN,520 (5178),D,2
-Computer Science and Biosciences,GEN,2783 (20359),D,2
-Computer Science and Design,GEN,2178 (16002),D,2
-Computer Science and Engineering,GEN,990 (8322),D,2
-Computer Science and Social Sciences,GEN,2342 (17123),D,2
-Electronics and Communication Engineering,GEN,3366 (25049),D,2
-Electronics and VLSI Engineering,GEN,3703 (27753),D,2
-Computer Science and Biosciences,GEN,440 (4554),OD,2
-Electronics and Communication Engineering,GEN,458 (4662),OD,2
-Electronics and VLSI Engineering,GEN,683 (6324),OD,2
-Computer Science and Applied Mathematics,GEN,1808 (13376),D,3
-Computer Science and Artificial Intelligence,GEN,707 (6427),D,3
-Computer Science and Biosciences,GEN,2888 (20971),D,3
-Computer Science and Design,GEN,2198 (16002),D,3
-Computer Science and Engineering,GEN,1009 (8385),D,3
-Computer Science and Social Sciences,GEN,2407 (17419),D,3
-Electronics and Communication Engineering,GEN,3506 (25840),D,3
-Electronics and VLSI Engineering,GEN,3947 (29308),D,3
-Computer Science and Biosciences,GEN,460 (4659),OD,3
-Electronics and Communication Engineering,GEN,634 (6006),OD,3
-Electronics and VLSI Engineering,GEN,869 (7444),OD,3
-Computer Science and Applied Mathematics,GEN,2218 (16114),D,4
-Computer Science and Artificial Intelligence,GEN,1052 (8683),D,4
-Computer Science and Biosciences,GEN,3435 (25174),D,4
-Computer Science and Design,GEN,2835 (20553),D,4
-Computer Science and Engineering,GEN,1326 (10347),D,4
-Computer Science and Social Sciences,GEN,2832 (20492),D,4
-Electronics and Communication Engineering,GEN,4008 (29806),D,4
-Electronics and VLSI Engineering,GEN,4676 (35636),D,4
-Computer Science and Applied Mathematics,GEN,461 (4662),OD,4
-Computer Science and Artificial Intelligence,GEN,188 (2485),OD,4
-Computer Science and Biosciences,GEN,900 (7630),OD,4
-Computer Science and Design,GEN,462 (4667),OD,4
-Computer Science and Social Sciences,GEN,778 (6870),OD,4
-Electronics and Communication Engineering,GEN,819 (7174),OD,4
-Electronics and VLSI Engineering,GEN,1076 (8818),OD,4
-Computer Science and Applied Mathematics,GEN,16304,D,U1
-Computer Science and Artificial Intelligence,GEN,8683,D,U1
-Computer Science and Biosciences,GEN,25174,D,U1
-Computer Science and Design,GEN,20553,D,U1
-Computer Science and Engineering,GEN,10347,D,U1
-Computer Science and Social Sciences,GEN,23216,D,U1
-Electronics and Communication Engineering,GEN,31066,D,U1
-Electronics and VLSI Engineering,GEN,37265,D,U1
-Computer Science and Applied Mathematics,GEN,6584,OD,U1
-Computer Science and Biosciences,GEN,16674,OD,U1
-Computer Science and Design,GEN,8164,OD,U1
-Computer Science and Social Sciences,GEN,12894,OD,U1
-Electronics and Communication Engineering,GEN,22311,OD,U1
-Electronics and VLSI Engineering,GEN,24923,OD,U1
-Computer Science and Applied Mathematics,GEN,803 (16230),D,S
-Computer Science and Artificial Intelligence,GEN,70 (10173),D,S
-Computer Science and Biosciences,GEN,1864 (22727),D,S
-Computer Science and Design,GEN,1285 (19093),D,S
-Computer Science and Engineering,GEN,472 (13935),D,S
-Electronics and Communication Engineering,GEN,2192 (24941),D,S
-Computer Science and Applied Mathematics,GEN,78 (10232),OD,S
-Computer Science and Artificial Intelligence,GEN,18 (5916),OD,S
-Computer Science and Biosciences,GEN,212 (11712),OD,S
-Computer Science and Design,GEN,55 (9975),OD,S
-Computer Science and Engineering,GEN,21 (6694),OD,S
-Computer Science and Social Sciences,GEN,156 (11176),OD,S
-Electronics and Communication Engineering,GEN,250 (12018),OD,S
-Computer Science and Applied Mathematics,GEN,1225 (18796),D,1
-Computer Science and Artificial Intelligence,GEN,70 (10173),D,1
-Computer Science and Design,GEN,1285 (19093),D,1
-Computer Science and Engineering,GEN,803 (16230),D,1
-Computer Science and Social Sciences,GEN,2189 (24941),D,1
-Computer Science and Applied Mathematics,GEN,156 (11176),OD,1
-Computer Science and Artificial Intelligence,GEN,31 (9299),OD,1
-Computer Science and Biosciences,GEN,194 (11640),OD,1
-Computer Science and Design,GEN,212 (11712),OD,1
-Computer Science and Engineering,GEN,25 (8712),OD,1
-Computer Science and Social Sciences,GEN,250 (12018),OD,1
-Electronics and Communication Engineering,GEN,473 (13956),OD,1
-Electronics and VLSI Engineering,GEN,630 (15066),OD,1
-Computer Science and Applied Mathematics,GEN,1235 (18796),D,2
-Computer Science and Artificial Intelligence,GEN,527 (14231),D,2
-Computer Science and Design,GEN,1295 (19093),D,2
-Computer Science and Engineering,GEN,809 (24148),D,2
-Computer Science and Social Sciences,GEN,2208 (24941),D,2
-Computer Science and Applied Mathematics,GEN,157 (11176),OD,2
-Computer Science and Artificial Intelligence,GEN,27 (8950),OD,2
-Computer Science and Biosciences,GEN,226 (11770),OD,2
-Computer Science and Design,GEN,213 (11712),OD,2
-Computer Science and Engineering,GEN,25 (8712),OD,2
-Computer Science and Social Sciences,GEN,252 (12018),OD,2
-Electronics and Communication Engineering,GEN,476 (13956),OD,2
-Electronics and VLSI Engineering,GEN,635 (15066),OD,2
-Computer Science and Applied Mathematics,GEN,2208 (24941),D,3
-Computer Science and Artificial Intelligence,GEN,527 (14231),D,3
-Computer Science and Engineering,GEN,1295 (19093),D,3
-Computer Science and Social Sciences,GEN,1879 (22727),D,3
-Computer Science and Applied Mathematics,GEN,252 (12018),OD,3
-Computer Science and Artificial Intelligence,GEN,195 (11640),OD,3
-Computer Science and Biosciences,GEN,635 (15066),OD,3
-Computer Science and Design,GEN,537 (14335),OD,3
-Computer Science and Engineering,GEN,177 (11404),OD,3
-Computer Science and Social Sciences,GEN,636 (15114),OD,3
-Computer Science and Applied Mathematics,GEN,24941,D,4
-Computer Science and Artificial Intelligence,GEN,14231,D,4
-Computer Science and Engineering,GEN,24148,D,4
-Computer Science and Social Sciences,GEN,22727,D,4
-Computer Science and Applied Mathematics,GEN,12018,OD,4
-Computer Science and Artificial Intelligence,GEN,11712,OD,4
-Computer Science and Biosciences,GEN,15066,OD,4
-Computer Science and Design,GEN,15114,OD,4
-Computer Science and Engineering,GEN,11404,OD,4
-Electronics and VLSI Engineering,GEN,31772,OD,4
-Computer Science and Applied Mathematics,GEN-DEF,4073 (30799 (Priority VI)),D,1
-Computer Science and Artificial Intelligence,GEN-DEF,456 (4648 (Priority VI)),D,1
-Computer Science and Biosciences,GEN-DEF,4288 (32756 (Priority VI)),D,1
-Computer Science and Design,GEN-DEF,1946 (14385),D,1
-Computer Science and Engineering,GEN-DEF,14510 (262125 (Priority II)),D,1
-Computer Science and Social Sciences,GEN-DEF,4068 (30757 (Priority VI)),D,1
-Electronics and Communication Engineering,GEN-DEF,5098 (40211 (Priority VI)),D,1
-Electronics and VLSI Engineering,GEN-DEF,6151 (50038 (Priority VI)),D,1
-Computer Science and Engineering,GEN-DEF,13988 (232140 (Priority I)),OD,1
-Electronics and Communication Engineering,GEN-DEF,1462 (11248 (Priority III)),OD,1
-Computer Science and Applied Mathematics,GEN-DEF,4284 (32756 (Priority VI)),D,2
-Computer Science and Artificial Intelligence,GEN-DEF,1622 (12237 (Priority VI)),D,2
-Computer Science and Biosciences,GEN-DEF,5094 (40211 (Priority VI)),D,2
-Computer Science and Design,GEN-DEF,3794 (28514 (Priority VI)),D,2
-Computer Science and Engineering,GEN-DEF,14495 (262125 (Priority II)),D,2
-Computer Science and Social Sciences,GEN-DEF,4064 (30757 (Priority VI)),D,2
-Electronics and Communication Engineering,GEN-DEF,7213 (61613 (Priority VI)),D,2
-Electronics and VLSI Engineering,GEN-DEF,9161 (88618 (Priority VI)),D,2
-Computer Science and Engineering,GEN-DEF,13976 (232140 (Priority I)),OD,2
-Electronics and Communication Engineering,GEN-DEF,1461 (11248 (Priority III)),OD,2
-Computer Science and Applied Mathematics,GEN-DEF,4347 (32756 (Priority VI)),D,3
-Computer Science and Artificial Intelligence,GEN-DEF,1963 (14385 (Priority VI)),D,3
-Computer Science and Biosciences,GEN-DEF,5182 (40211 (Priority VI)),D,3
-Computer Science and Design,GEN-DEF,3848 (28514 (Priority VI)),D,3
-Computer Science and Engineering,GEN-DEF,14919 (262125 (Priority II)),D,3
-Computer Science and Social Sciences,GEN-DEF,4123 (30757 (Priority VI)),D,3
-Electronics and Communication Engineering,GEN-DEF,7374 (61613 (Priority VI)),D,3
-Electronics and VLSI Engineering,GEN-DEF,8700 (79018 (Priority VI)),D,3
-Computer Science and Engineering,GEN-DEF,14374 (232140 (Priority I)),OD,3
-Electronics and Communication Engineering,GEN-DEF,6427 (51630),OD,3
-Computer Science and Applied Mathematics,GEN-DEF,4347 (32756 (Priority VI)),D,4
-Computer Science and Artificial Intelligence,GEN-DEF,1963 (14385 (Priority VI)),D,4
-Computer Science and Biosciences,GEN-DEF,7374 (61613 (Priority VI)),D,4
-Computer Science and Design,GEN-DEF,3848 (28514 (Priority VI)),D,4
-Computer Science and Engineering,GEN-DEF,14919 (262125 (Priority II)),D,4
-Computer Science and Social Sciences,GEN-DEF,4123 (30757 (Priority VI)),D,4
-Electronics and Communication Engineering,GEN-DEF,7897 (67779 (Priority VI)),D,4
-Electronics and VLSI Engineering,GEN-DEF,8700 (79018 (Priority VI)),D,4
-Computer Science and Engineering,GEN-DEF,14374 (232140 (Priority I)),OD,4
-Electronics and Communication Engineering,GEN-DEF,10446 (106936 (Priority III)),OD,4
-Computer Science and Applied Mathematics,GEN-DEF,32756 (Priority VI),D,U1
-Computer Science and Artificial Intelligence,GEN-DEF,14385 (Priority VI),D,U1
-Computer Science and Biosciences,GEN-DEF,61613 (Priority VI),D,U1
-Computer Science and Design,GEN-DEF,28514 (Priority VI),D,U1
-Computer Science and Engineering,GEN-DEF,262125 (Priority II),D,U1
-Computer Science and Social Sciences,GEN-DEF,30757 (Priority VI),D,U1
-Electronics and Communication Engineering,GEN-DEF,67779 (Priority VI),D,U1
-Electronics and VLSI Engineering,GEN-DEF,79298 (Priority VI),D,U1
-Computer Science and Engineering,GEN-DEF,232140 (Priority I),OD,U1
-Electronics and Communication Engineering,GEN-DEF,123155 (Priority IV),OD,U1
-Electronics and VLSI Engineering,GEN-DEF,12642,OD,U1
-Computer Science and Artificial Intelligence,GEN-PWD,16531 (521716),D,1
-Computer Science and Engineering,GEN-PWD,14525 (263350),D,1
-Computer Science and Artificial Intelligence,GEN-PWD,16511 (521716),D,2
-Computer Science and Engineering,GEN-PWD,14510 (263350),D,2
-Computer Science and Applied Mathematics,GEN-PWD,17174 (570221),D,3
-Computer Science and Artificial Intelligence,GEN-PWD,17022 (521716),D,3
-Computer Science and Engineering,GEN-PWD,14934 (263350),D,3
-Computer Science and Artificial Intelligence,GEN-PWD,17022 (521716),D,4
-Computer Science and Engineering,GEN-PWD,14934 (263350),D,4
-Computer Science and Artificial Intelligence,GEN-PWD,521716,D,U1
-Computer Science and Engineering,GEN-PWD,263350,D,U1
-Computer Science and Applied Mathematics,EWS,4436 (34104),D,1
-Computer Science and Artificial Intelligence,EWS,2651 (19302),D,1
-Computer Science and Biosciences,EWS,5418 (43430),D,1
-Computer Science and Design,EWS,4470 (34435),D,1
-Computer Science and Engineering,EWS,3768 (28225),D,1
-Computer Science and Social Sciences,EWS,5217 (41353),D,1
-Electronics and Communication Engineering,EWS,5607 (45273),D,1
-Electronics and VLSI Engineering,EWS,6253 (51041),D,1
-Computer Science and Artificial Intelligence,EWS,106 (1544),OD,1
-Computer Science and Biosciences,EWS,965 (8164),OD,1
-Computer Science and Design,EWS,549 (5405),OD,1
-Computer Science and Engineering,EWS,261 (3122),OD,1
-Computer Science and Social Sciences,EWS,856 (7374),OD,1
-Electronics and Communication Engineering,EWS,1101 (8997),OD,1
-Electronics and VLSI Engineering,EWS,1124 (9105),OD,1
-Computer Science and Applied Mathematics,EWS,4692 (36541),D,2
-Computer Science and Artificial Intelligence,EWS,3506 (26200),D,2
-Computer Science and Biosciences,EWS,5603 (45273),D,2
-Computer Science and Design,EWS,5414 (43430),D,2
-Computer Science and Engineering,EWS,4219 (32160),D,2
-Computer Science and Social Sciences,EWS,5560 (44813),D,2
-Electronics and Communication Engineering,EWS,6249 (51041),D,2
-Electronics and VLSI Engineering,EWS,6571 (54257),D,2
-Computer Science and Applied Mathematics,EWS,861 (7436),OD,2
-Computer Science and Biosciences,EWS,965 (8164),OD,2
-Computer Science and Engineering,EWS,485 (4914),OD,2
-Computer Science and Social Sciences,EWS,1124 (9105),OD,2
-Electronics and Communication Engineering,EWS,1291 (10125),OD,2
-Electronics and VLSI Engineering,EWS,1361 (10615),OD,2
-Computer Science and Applied Mathematics,EWS,4769 (36541),D,3
-Computer Science and Artificial Intelligence,EWS,3914 (29033),D,3
-Computer Science and Biosciences,EWS,5721 (45341),D,3
-Computer Science and Design,EWS,5513 (43430),D,3
-Computer Science and Engineering,EWS,4280 (32160),D,3
-Computer Science and Social Sciences,EWS,5708 (45273),D,3
-Electronics and Communication Engineering,EWS,6372 (51041),D,3
-Electronics and VLSI Engineering,EWS,6781 (55051),D,3
-Computer Science and Applied Mathematics,EWS,1133 (9105),OD,3
-Computer Science and Artificial Intelligence,EWS,862 (7374),OD,3
-Computer Science and Biosciences,EWS,1600 (12000),OD,3
-Computer Science and Design,EWS,972 (8164),OD,3
-Computer Science and Engineering,EWS,534 (5266),OD,3
-Computer Science and Social Sciences,EWS,1334 (10411),OD,3
-Electronics and Communication Engineering,EWS,1405 (10842),OD,3
-Electronics and VLSI Engineering,EWS,1649 (12326),OD,3
-Computer Science and Applied Mathematics,EWS,5166 (40110),D,4
-Computer Science and Artificial Intelligence,EWS,3914 (29033),D,4
-Computer Science and Biosciences,EWS,5721 (45341),D,4
-Computer Science and Design,EWS,5513 (43430),D,4
-Computer Science and Engineering,EWS,4636 (35255),D,4
-Computer Science and Social Sciences,EWS,5708 (45273),D,4
-Electronics and Communication Engineering,EWS,6476 (52016),D,4
-Electronics and VLSI Engineering,EWS,6980 (57269),D,4
-Computer Science and Applied Mathematics,EWS,1716 (12716),OD,4
-Computer Science and Artificial Intelligence,EWS,862 (7374),OD,4
-Computer Science and Biosciences,EWS,1787 (13208),OD,4
-Computer Science and Design,EWS,972 (8164),OD,4
-Computer Science and Engineering,EWS,1002 (8341),OD,4
-Computer Science and Social Sciences,EWS,1785 (13176),OD,4
-Electronics and VLSI Engineering,EWS,1801 (13320),OD,4
-Computer Science and Applied Mathematics,EWS,40110,D,U1
-Computer Science and Artificial Intelligence,EWS,29033,D,U1
-Computer Science and Biosciences,EWS,45341,D,U1
-Computer Science and Design,EWS,43430,D,U1
-Computer Science and Engineering,EWS,35255,D,U1
-Computer Science and Social Sciences,EWS,45273,D,U1
-Electronics and Communication Engineering,EWS,52016,D,U1
-Electronics and VLSI Engineering,EWS,57269,D,U1
-Computer Science and Artificial Intelligence,EWS,7374,OD,U1
-Computer Science and Biosciences,EWS,29026,OD,U1
-Computer Science and Design,EWS,21514,OD,U1
-Computer Science and Engineering,EWS,8702,OD,U1
-Computer Science and Social Sciences,EWS,15786,OD,U1
-Electronics and Communication Engineering,EWS,56116,OD,U1
-Computer Science and Engineering,EWS,3011 (30993),D,S
-Computer Science and Applied Mathematics,EWS,131 (10830),OD,S
-Computer Science and Engineering,EWS,3007 (30993),D,1
-Computer Science and Artificial Intelligence,EWS,131 (10830),OD,1
-Computer Science and Design,EWS,866 (16509),OD,1
-Computer Science and Engineering,EWS,3042 (30993),D,2
-Computer Science and Engineering,EWS,3042 (30993),D,3
-Electronics and Communication Engineering,EWS,1816 (22378),OD,3
-Computer Science and Engineering,EWS,30993,D,4
-Computer Science and Applied Mathematics,EWS,22378,OD,4
-Computer Science and Engineering,EWS-DEF,12749 (178238 (Priority VI)),D,1
-Computer Science and Engineering,EWS-DEF,12737 (178238 (Priority VI)),D,2
-Computer Science and Engineering,EWS-DEF,13093 (178238 (Priority VI)),D,3
-Computer Science and Engineering,EWS-DEF,13093 (178238 (Priority VI)),D,4
-Computer Science and Engineering,EWS-DEF,178238 (Priority VI),D,U1
-Computer Science and Applied Mathematics,OBC,7693 (67383),D,1
-Computer Science and Artificial Intelligence,OBC,4864 (38037),D,1
-Computer Science and Biosciences,OBC,9548 (94659),D,1
-Computer Science and Design,OBC,7936 (70603),D,1
-Computer Science and Engineering,OBC,6111 (49721),D,1
-Computer Science and Social Sciences,OBC,8788 (83326),D,1
-Electronics and Communication Engineering,OBC,9707 (97569),D,1
-Electronics and VLSI Engineering,OBC,10531 (114549),D,1
-Computer Science and Applied Mathematics,OBC,1064 (8790),OD,1
-Computer Science and Artificial Intelligence,OBC,919 (7851),OD,1
-Computer Science and Biosciences,OBC,1493 (11462),OD,1
-Computer Science and Engineering,OBC,799 (7078),OD,1
-Computer Science and Social Sciences,OBC,1428 (11017),OD,1
-Electronics and Communication Engineering,OBC,1685 (12634),OD,1
-Electronics and VLSI Engineering,OBC,1927 (14218),OD,1
-Computer Science and Applied Mathematics,OBC,8813 (83695),D,2
-Computer Science and Artificial Intelligence,OBC,6633 (54893),D,2
-Computer Science and Biosciences,OBC,10017 (103501),D,2
-Computer Science and Design,OBC,8783 (83326),D,2
-Computer Science and Engineering,OBC,7459 (64251),D,2
-Computer Science and Social Sciences,OBC,9695 (97409),D,2
-Electronics and Communication Engineering,OBC,10219 (107802),D,2
-Electronics and VLSI Engineering,OBC,10781 (120781),D,2
-Computer Science and Applied Mathematics,OBC,1492 (11462),OD,2
-Computer Science and Artificial Intelligence,OBC,1372 (10696),OD,2
-Computer Science and Biosciences,OBC,1951 (14423),OD,2
-Computer Science and Design,OBC,1640 (12342),OD,2
-Computer Science and Engineering,OBC,1150 (9223),OD,2
-Computer Science and Social Sciences,OBC,1803 (13421),OD,2
-Electronics and Communication Engineering,OBC,2039 (14974),OD,2
-Electronics and VLSI Engineering,OBC,2420 (17695),OD,2
-Computer Science and Applied Mathematics,OBC,9261 (86824),D,3
-Computer Science and Artificial Intelligence,OBC,7386 (61802),D,3
-Computer Science and Biosciences,OBC,10381 (105465),D,3
-Computer Science and Design,OBC,9217 (86095),D,3
-Computer Science and Engineering,OBC,8032 (69574),D,3
-Computer Science and Social Sciences,OBC,9980 (97928),D,3
-Electronics and Communication Engineering,OBC,10502 (107923),D,3
-Electronics and VLSI Engineering,OBC,11220 (123936),D,3
-Computer Science and Applied Mathematics,OBC,1969 (14423),OD,3
-Computer Science and Artificial Intelligence,OBC,1505 (11462),OD,3
-Computer Science and Biosciences,OBC,2281 (16584),OD,3
-Computer Science and Design,OBC,1769 (13077),OD,3
-Computer Science and Engineering,OBC,1345 (10478),OD,3
-Computer Science and Social Sciences,OBC,1943 (14218),OD,3
-Electronics and Communication Engineering,OBC,2302 (16727),OD,3
-Electronics and VLSI Engineering,OBC,2445 (17695),OD,3
-Computer Science and Applied Mathematics,OBC,9657 (92601),D,4
-Computer Science and Artificial Intelligence,OBC,7735 (65737),D,4
-Computer Science and Biosciences,OBC,10445 (106935),D,4
-Computer Science and Design,OBC,9352 (88080),D,4
-Computer Science and Engineering,OBC,8403 (74736),D,4
-Computer Science and Social Sciences,OBC,9980 (97928),D,4
-Electronics and Communication Engineering,OBC,10834 (115097),D,4
-Electronics and VLSI Engineering,OBC,11528 (131579),D,4
-Computer Science and Applied Mathematics,OBC,2235 (16254),OD,4
-Computer Science and Artificial Intelligence,OBC,1794 (13261),OD,4
-Computer Science and Biosciences,OBC,2406 (17416),OD,4
-Computer Science and Design,OBC,2061 (14990),OD,4
-Computer Science and Engineering,OBC,1555 (11759),OD,4
-Computer Science and Social Sciences,OBC,1943 (14218),OD,4
-Electronics and Communication Engineering,OBC,2676 (19323),OD,4
-Electronics and VLSI Engineering,OBC,3004 (21850),OD,4
-Computer Science and Applied Mathematics,OBC,95238,D,U1
-Computer Science and Artificial Intelligence,OBC,65737,D,U1
-Computer Science and Biosciences,OBC,106935,D,U1
-Computer Science and Design,OBC,88080,D,U1
-Computer Science and Engineering,OBC,74736,D,U1
-Computer Science and Social Sciences,OBC,97928,D,U1
-Electronics and Communication Engineering,OBC,115097,D,U1
-Electronics and VLSI Engineering,OBC,131579,D,U1
-Computer Science and Applied Mathematics,OBC,17325,OD,U1
-Computer Science and Artificial Intelligence,OBC,14218,OD,U1
-Computer Science and Biosciences,OBC,29906,OD,U1
-Computer Science and Design,OBC,19323,OD,U1
-Computer Science and Engineering,OBC,14423,OD,U1
-Computer Science and Social Sciences,OBC,19237,OD,U1
-Electronics and Communication Engineering,OBC,34458,OD,U1
-Electronics and VLSI Engineering,OBC,44664,OD,U1
-Electronics and Communication Engineering,OBC,8481 (87665),D,S
-Computer Science and Biosciences,OBC,1121 (18145),OD,S
-Computer Science and Design,OBC,971 (17175),OD,S
-Computer Science and Engineering,OBC,332 (12777),OD,S
-Computer Science and Design,OBC,8476 (87665),D,1
-Computer Science and Engineering,OBC,1121 (18145),OD,1
-Computer Science and Design,OBC,8680 (87665),D,2
-Computer Science and Engineering,OBC,1130 (18145),OD,2
-Computer Science and Design,OBC,8680 (87665),D,3
-Computer Science and Engineering,OBC,1130 (18145),OD,3
-Computer Science and Design,OBC,87665,D,4
-Computer Science and Engineering,OBC,18145,OD,4
-Computer Science and Applied Mathematics,OBC-DEF,12633 (173850 (Priority VI)),D,1
-Computer Science and Artificial Intelligence,OBC-DEF,6840 (57354 (Priority VI)),D,1
-Computer Science and Biosciences,OBC-DEF,13463 (206099 (Priority VI)),D,1
-Computer Science and Engineering,OBC-DEF,11409 (136426 (Priority VI)),D,1
-Electronics and Communication Engineering,OBC-DEF,14354 (253817 (Priority VI)),D,1
-Electronics and VLSI Engineering,OBC-DEF,15110 (303957 (Priority VI)),D,1
-Computer Science and Applied Mathematics,OBC-DEF,12827 (181426 (Priority VI)),D,2
-Computer Science and Artificial Intelligence,OBC-DEF,6836 (57354 (Priority VI)),D,2
-Computer Science and Biosciences,OBC-DEF,13451 (206099 (Priority VI)),D,2
-Computer Science and Engineering,OBC-DEF,12399 (166351 (Priority VI)),D,2
-Electronics and Communication Engineering,OBC-DEF,16611 (552270 (Priority VI)),D,2
-Electronics and VLSI Engineering,OBC-DEF,14071 (237115 (Priority VIII)),D,2
-Computer Science and Applied Mathematics,OBC-DEF,13775 (203462 (Priority VI)),D,3
-Computer Science and Artificial Intelligence,OBC-DEF,12970 (173850 (Priority VI)),D,3
-Computer Science and Biosciences,OBC-DEF,13831 (206099 (Priority VI)),D,3
-Computer Science and Engineering,OBC-DEF,13269 (184755 (Priority VI)),D,3
-Electronics and Communication Engineering,OBC-DEF,17124 (552270 (Priority VI)),D,3
-Electronics and VLSI Engineering,OBC-DEF,14474 (237115 (Priority VIII)),D,3
-Computer Science and Applied Mathematics,OBC-DEF,13775 (203462 (Priority VI)),D,4
-Computer Science and Artificial Intelligence,OBC-DEF,12970 (173850 (Priority VI)),D,4
-Computer Science and Biosciences,OBC-DEF,13831 (206099 (Priority VI)),D,4
-Computer Science and Engineering,OBC-DEF,13269 (184755 (Priority VI)),D,4
-Electronics and Communication Engineering,OBC-DEF,17124 (552270 (Priority VI)),D,4
-Electronics and VLSI Engineering,OBC-DEF,14474 (237115 (Priority VIII)),D,4
-Computer Science and Applied Mathematics,OBC-DEF,203462 (Priority VI),D,U1
-Computer Science and Artificial Intelligence,OBC-DEF,173850 (Priority VI),D,U1
-Computer Science and Biosciences,OBC-DEF,206099 (Priority VI),D,U1
-Computer Science and Engineering,OBC-DEF,184755 (Priority VI),D,U1
-Electronics and Communication Engineering,OBC-DEF,552270 (Priority VI),D,U1
-Electronics and VLSI Engineering,OBC-DEF,237115,D,U1
-Computer Science and Applied Mathematics,SC,11278 (132842),D,1
-Computer Science and Artificial Intelligence,SC,9341 (91314),D,1
-Computer Science and Biosciences,SC,12485 (168457),D,1
-Computer Science and Design,SC,11167 (129982),D,1
-Computer Science and Engineering,SC,10258 (108625),D,1
-Computer Science and Social Sciences,SC,12399 (165766),D,1
-Electronics and Communication Engineering,SC,12598 (172452),D,1
-Electronics and VLSI Engineering,SC,13193 (194514),D,1
-Computer Science and Applied Mathematics,SC,3745 (28052),OD,1
-Computer Science and Artificial Intelligence,SC,2710 (19722),OD,1
-Computer Science and Biosciences,SC,4617 (35757),OD,1
-Computer Science and Design,SC,4871 (38134),OD,1
-Computer Science and Engineering,SC,2845 (20872),OD,1
-Computer Science and Social Sciences,SC,5231 (41511),OD,1
-Electronics and Communication Engineering,SC,3522 (26277),OD,1
-Electronics and VLSI Engineering,SC,5614 (45323),OD,1
-Computer Science and Applied Mathematics,SC,12026 (154039),D,2
-Computer Science and Artificial Intelligence,SC,10316 (109852),D,2
-Computer Science and Biosciences,SC,12711 (177002),D,2
-Computer Science and Design,SC,11240 (132079),D,2
-Computer Science and Engineering,SC,10834 (121914),D,2
-Computer Science and Social Sciences,SC,12494 (169014),D,2
-Electronics and Communication Engineering,SC,13127 (192529),D,2
-Electronics and VLSI Engineering,SC,13756 (220589),D,2
-Computer Science and Applied Mathematics,SC,4999 (39288),OD,2
-Computer Science and Artificial Intelligence,SC,2706 (19722),OD,2
-Computer Science and Biosciences,SC,5920 (47857),OD,2
-Computer Science and Design,SC,5958 (48175),OD,2
-Computer Science and Engineering,SC,5586 (45090),OD,2
-Computer Science and Social Sciences,SC,6379 (52329),OD,2
-Electronics and Communication Engineering,SC,5821 (47048),OD,2
-Electronics and VLSI Engineering,SC,6980 (59012),OD,2
-Computer Science and Applied Mathematics,SC,12356 (154039),D,3
-Computer Science and Artificial Intelligence,SC,10845 (115249),D,3
-Computer Science and Biosciences,SC,13733 (201591),D,3
-Computer Science and Design,SC,12755 (166788),D,3
-Computer Science and Engineering,SC,11478 (130388),D,3
-Computer Science and Social Sciences,SC,13706 (200560),D,3
-Electronics and Communication Engineering,SC,13874 (208067),D,3
-Electronics and VLSI Engineering,SC,14672 (248648),D,3
-Computer Science and Applied Mathematics,SC,6070 (48175),OD,3
-Computer Science and Artificial Intelligence,SC,2733 (19722),OD,3
-Computer Science and Biosciences,SC,6530 (52540),OD,3
-Computer Science and Design,SC,6171 (49114),OD,3
-Computer Science and Engineering,SC,5661 (44797),OD,3
-Computer Science and Social Sciences,SC,6900 (56362),OD,3
-Electronics and Communication Engineering,SC,6453 (51832),OD,3
-Electronics and VLSI Engineering,SC,7245 (60149),OD,3
-Computer Science and Applied Mathematics,SC,13099 (178510),D,4
-Computer Science and Artificial Intelligence,SC,10848 (115304),D,4
-Computer Science and Biosciences,SC,14420 (234262),D,4
-Computer Science and Design,SC,12930 (172275),D,4
-Computer Science and Engineering,SC,11741 (137016),D,4
-Computer Science and Social Sciences,SC,14147 (220589),D,4
-Electronics and Communication Engineering,SC,14832 (257020),D,4
-Electronics and VLSI Engineering,SC,15220 (280455),D,4
-Computer Science and Applied Mathematics,SC,6752 (54743),OD,4
-Computer Science and Artificial Intelligence,SC,2733 (19722),OD,4
-Computer Science and Biosciences,SC,7940 (68434),OD,4
-Computer Science and Design,SC,7070 (58323),OD,4
-Computer Science and Engineering,SC,5958 (47217),OD,4
-Computer Science and Social Sciences,SC,7563 (63676),OD,4
-Electronics and Communication Engineering,SC,7412 (62153),OD,4
-Electronics and VLSI Engineering,SC,8438 (75303),OD,4
-Computer Science and Applied Mathematics,SC,178510,D,U1
-Computer Science and Artificial Intelligence,SC,125305,D,U1
-Computer Science and Biosciences,SC,234262,D,U1
-Computer Science and Design,SC,172275,D,U1
-Computer Science and Engineering,SC,137459,D,U1
-Computer Science and Social Sciences,SC,220589,D,U1
-Electronics and Communication Engineering,SC,264004,D,U1
-Electronics and VLSI Engineering,SC,306633,D,U1
-Computer Science and Applied Mathematics,SC,63676,OD,U1
-Computer Science and Artificial Intelligence,SC,19722,OD,U1
-Computer Science and Biosciences,SC,89192,OD,U1
-Computer Science and Design,SC,78834,OD,U1
-Computer Science and Engineering,SC,49900,OD,U1
-Computer Science and Social Sciences,SC,96177,OD,U1
-Electronics and Communication Engineering,SC,62153,OD,U1
-Electronics and VLSI Engineering,SC,107451,OD,U1
-Computer Science and Applied Mathematics,SC,10398 (121261),D,S
-Computer Science and Artificial Intelligence,SC,9093 (96542),D,S
-Computer Science and Biosciences,SC,11861 (158331),D,S
-Computer Science and Artificial Intelligence,SC,9088 (96542),D,1
-Computer Science and Biosciences,SC,11852 (158331),D,1
-Computer Science and Engineering,SC,10393 (121261),D,1
-Computer Science and Applied Mathematics,SC,12179 (158331),D,2
-Computer Science and Artificial Intelligence,SC,10676 (121261),D,2
-Computer Science and Applied Mathematics,SC,12179 (158331),D,3
-Computer Science and Artificial Intelligence,SC,9316 (96542),D,3
-Computer Science and Applied Mathematics,SC,158331,D,4
-Computer Science and Artificial Intelligence,SC,96542,D,4
-Computer Science and Engineering,SC-DEF,16622 (547463 (Priority VIII)),D,1
-Computer Science and Artificial Intelligence,ST,15403 (330928),D,1
-Computer Science and Design,ST,17023 (868025),D,1
-Computer Science and Engineering,ST,16841 (645868),D,1
-Computer Science and Applied Mathematics,ST,- (70929),OD,1
-Computer Science and Artificial Intelligence,ST,7188 (61386),OD,1
-Computer Science and Biosciences,ST,10000 (102877),OD,1
-Computer Science and Engineering,ST,6691 (55580),OD,1
-Electronics and Communication Engineering,ST,9692 (97204),OD,1
-Electronics and VLSI Engineering,ST,9865 (100694),OD,1
-Computer Science and Artificial Intelligence,ST,16319 (475173),D,2
-Computer Science and Engineering,ST,16667 (573644),D,2
-Computer Science and Applied Mathematics,ST,9042 (86868),OD,2
-Computer Science and Artificial Intelligence,ST,8498 (79077),OD,2
-Computer Science and Biosciences,ST,10368 (110929),OD,2
-Computer Science and Engineering,ST,7184 (61386),OD,2
-Electronics and Communication Engineering,ST,9860 (100694),OD,2
-Electronics and VLSI Engineering,ST,10660 (117471),OD,2
-Computer Science and Artificial Intelligence,ST,16820 (475173),D,3
-Computer Science and Engineering,ST,17183 (573644),D,3
-Computer Science and Applied Mathematics,ST,9497 (90124),OD,3
-Computer Science and Artificial Intelligence,ST,8704 (79077),OD,3
-Computer Science and Biosciences,ST,11059 (120522),OD,3
-Computer Science and Engineering,ST,7344 (61386),OD,3
-Electronics and Communication Engineering,ST,10124 (100694),OD,3
-Electronics and VLSI Engineering,ST,10949 (117471),OD,3
-Computer Science and Artificial Intelligence,ST,16820 (475173),D,4
-Computer Science and Engineering,ST,17183 (573644),D,4
-Computer Science and Applied Mathematics,ST,10949 (117471),OD,4
-Computer Science and Artificial Intelligence,ST,8704 (79077),OD,4
-Computer Science and Biosciences,ST,11059 (120522),OD,4
-Computer Science and Engineering,ST,7344 (61386),OD,4
-Electronics and Communication Engineering,ST,10839 (115162),OD,4
-Electronics and VLSI Engineering,ST,11352 (126832),OD,4
-Computer Science and Artificial Intelligence,ST,475173,D,U1
-Computer Science and Engineering,ST,573644,D,U1
-Computer Science and Applied Mathematics,ST,117471,OD,U1
-Computer Science and Artificial Intelligence,ST,79077,OD,U1
-Computer Science and Biosciences,ST,142444,OD,U1
-Computer Science and Engineering,ST,61386,OD,U1
-Electronics and Communication Engineering,ST,132370,OD,U1
-Computer Science and Engineering,ST,5732 (54274),OD,2
-Computer Science and Engineering,ST,5732 (54274),OD,3
-Computer Science and Engineering,ST,54274,OD,4
+Computer Science and Applied Mathematics,GEN,8455,D,1
+Computer Science and Artificial Intelligence,GEN,2942,D,1
+Computer Science and Biosciences,GEN,15988,D,1
+Computer Science and Design,GEN,9893,D,1
+Computer Science and Engineering,GEN,5178,D,1
+Computer Science and Social Sciences,GEN,13339,D,1
+Electronics and Communication Engineering,GEN,17527,D,1
+Electronics and VLSI Engineering,GEN,21932,D,1
+Computer Science and Design,GEN,981,OD,1
+Electronics and Communication Engineering,GEN,1104,OD,1
+Electronics and VLSI Engineering,GEN,5310,OD,1
+Computer Science and Applied Mathematics,GEN,13376,D,2
+Computer Science and Artificial Intelligence,GEN,5178,D,2
+Computer Science and Biosciences,GEN,20359,D,2
+Computer Science and Design,GEN,16002,D,2
+Computer Science and Engineering,GEN,8322,D,2
+Computer Science and Social Sciences,GEN,17123,D,2
+Electronics and Communication Engineering,GEN,25049,D,2
+Electronics and VLSI Engineering,GEN,27753,D,2
+Computer Science and Biosciences,GEN,4554,OD,2
+Electronics and Communication Engineering,GEN,4662,OD,2
+Electronics and VLSI Engineering,GEN,6324,OD,2
+Computer Science and Applied Mathematics,GEN,13376,D,3
+Computer Science and Artificial Intelligence,GEN,6427,D,3
+Computer Science and Biosciences,GEN,20971,D,3
+Computer Science and Design,GEN,16002,D,3
+Computer Science and Engineering,GEN,8385,D,3
+Computer Science and Social Sciences,GEN,17419,D,3
+Electronics and Communication Engineering,GEN,25840,D,3
+Electronics and VLSI Engineering,GEN,29308,D,3
+Computer Science and Biosciences,GEN,4659,OD,3
+Electronics and Communication Engineering,GEN,6006,OD,3
+Electronics and VLSI Engineering,GEN,7444,OD,3
+Computer Science and Applied Mathematics,GEN,16114,D,4
+Computer Science and Artificial Intelligence,GEN,8683,D,4
+Computer Science and Biosciences,GEN,25174,D,4
+Computer Science and Design,GEN,20553,D,4
+Computer Science and Engineering,GEN,10347,D,4
+Computer Science and Social Sciences,GEN,20492,D,4
+Electronics and Communication Engineering,GEN,29806,D,4
+Electronics and VLSI Engineering,GEN,35636,D,4
+Computer Science and Applied Mathematics,GEN,4662,OD,4
+Computer Science and Artificial Intelligence,GEN,2485,OD,4
+Computer Science and Biosciences,GEN,7630,OD,4
+Computer Science and Design,GEN,4667,OD,4
+Computer Science and Social Sciences,GEN,6870,OD,4
+Electronics and Communication Engineering,GEN,7174,OD,4
+Electronics and VLSI Engineering,GEN,8818,OD,4
+Computer Science and Applied Mathematics,GEN,16230,D,S
+Computer Science and Artificial Intelligence,GEN,10173,D,S
+Computer Science and Biosciences,GEN,22727,D,S
+Computer Science and Design,GEN,19093,D,S
+Computer Science and Engineering,GEN,13935,D,S
+Electronics and Communication Engineering,GEN,24941,D,S
+Computer Science and Applied Mathematics,GEN,10232,OD,S
+Computer Science and Artificial Intelligence,GEN,5916,OD,S
+Computer Science and Biosciences,GEN,11712,OD,S
+Computer Science and Design,GEN,9975,OD,S
+Computer Science and Engineering,GEN,6694,OD,S
+Computer Science and Social Sciences,GEN,11176,OD,S
+Electronics and Communication Engineering,GEN,12018,OD,S
+Computer Science and Applied Mathematics,GEN,18796,D,1
+Computer Science and Artificial Intelligence,GEN,10173,D,1
+Computer Science and Design,GEN,19093,D,1
+Computer Science and Engineering,GEN,16230,D,1
+Computer Science and Social Sciences,GEN,24941,D,1
+Computer Science and Applied Mathematics,GEN,11176,OD,1
+Computer Science and Artificial Intelligence,GEN,9299,OD,1
+Computer Science and Biosciences,GEN,11640,OD,1
+Computer Science and Design,GEN,11712,OD,1
+Computer Science and Engineering,GEN,8712,OD,1
+Computer Science and Social Sciences,GEN,12018,OD,1
+Electronics and Communication Engineering,GEN,13956,OD,1
+Electronics and VLSI Engineering,GEN,15066,OD,1
+Computer Science and Applied Mathematics,GEN,18796,D,2
+Computer Science and Artificial Intelligence,GEN,14231,D,2
+Computer Science and Design,GEN,19093,D,2
+Computer Science and Engineering,GEN,24148,D,2
+Computer Science and Social Sciences,GEN,24941,D,2
+Computer Science and Applied Mathematics,GEN,11176,OD,2
+Computer Science and Artificial Intelligence,GEN,8950,OD,2
+Computer Science and Biosciences,GEN,11770,OD,2
+Computer Science and Design,GEN,11712,OD,2
+Computer Science and Engineering,GEN,8712,OD,2
+Computer Science and Social Sciences,GEN,12018,OD,2
+Electronics and Communication Engineering,GEN,13956,OD,2
+Electronics and VLSI Engineering,GEN,15066,OD,2
+Computer Science and Applied Mathematics,GEN,24941,D,3
+Computer Science and Artificial Intelligence,GEN,14231,D,3
+Computer Science and Engineering,GEN,19093,D,3
+Computer Science and Social Sciences,GEN,22727,D,3
+Computer Science and Applied Mathematics,GEN,12018,OD,3
+Computer Science and Artificial Intelligence,GEN,11640,OD,3
+Computer Science and Biosciences,GEN,15066,OD,3
+Computer Science and Design,GEN,14335,OD,3
+Computer Science and Engineering,GEN,11404,OD,3
+Computer Science and Social Sciences,GEN,15114,OD,3
+Computer Science and Applied Mathematics,GEN-DEF,30799,D,1
+Computer Science and Artificial Intelligence,GEN-DEF,4648,D,1
+Computer Science and Biosciences,GEN-DEF,32756,D,1
+Computer Science and Design,GEN-DEF,14385,D,1
+Computer Science and Engineering,GEN-DEF,262125,D,1
+Computer Science and Social Sciences,GEN-DEF,30757,D,1
+Electronics and Communication Engineering,GEN-DEF,40211,D,1
+Electronics and VLSI Engineering,GEN-DEF,50038,D,1
+Computer Science and Engineering,GEN-DEF,232140,OD,1
+Electronics and Communication Engineering,GEN-DEF,11248,OD,1
+Computer Science and Applied Mathematics,GEN-DEF,32756,D,2
+Computer Science and Artificial Intelligence,GEN-DEF,12237,D,2
+Computer Science and Biosciences,GEN-DEF,40211,D,2
+Computer Science and Design,GEN-DEF,28514,D,2
+Computer Science and Engineering,GEN-DEF,262125,D,2
+Computer Science and Social Sciences,GEN-DEF,30757,D,2
+Electronics and Communication Engineering,GEN-DEF,61613,D,2
+Electronics and VLSI Engineering,GEN-DEF,88618,D,2
+Computer Science and Engineering,GEN-DEF,232140,OD,2
+Electronics and Communication Engineering,GEN-DEF,11248,OD,2
+Computer Science and Applied Mathematics,GEN-DEF,32756,D,3
+Computer Science and Artificial Intelligence,GEN-DEF,14385,D,3
+Computer Science and Biosciences,GEN-DEF,40211,D,3
+Computer Science and Design,GEN-DEF,28514,D,3
+Computer Science and Engineering,GEN-DEF,262125,D,3
+Computer Science and Social Sciences,GEN-DEF,30757,D,3
+Electronics and Communication Engineering,GEN-DEF,61613,D,3
+Electronics and VLSI Engineering,GEN-DEF,79018,D,3
+Computer Science and Engineering,GEN-DEF,232140,OD,3
+Electronics and Communication Engineering,GEN-DEF,51630,OD,3
+Computer Science and Applied Mathematics,GEN-DEF,32756,D,4
+Computer Science and Artificial Intelligence,GEN-DEF,14385,D,4
+Computer Science and Biosciences,GEN-DEF,61613,D,4
+Computer Science and Design,GEN-DEF,28514,D,4
+Computer Science and Engineering,GEN-DEF,262125,D,4
+Computer Science and Social Sciences,GEN-DEF,30757,D,4
+Electronics and Communication Engineering,GEN-DEF,67779,D,4
+Electronics and VLSI Engineering,GEN-DEF,79018,D,4
+Computer Science and Engineering,GEN-DEF,232140,OD,4
+Electronics and Communication Engineering,GEN-DEF,106936,OD,4
+Computer Science and Applied Mathematics,GEN-DEF,Priority,D,U1
+Computer Science and Artificial Intelligence,GEN-DEF,Priority,D,U1
+Computer Science and Biosciences,GEN-DEF,Priority,D,U1
+Computer Science and Design,GEN-DEF,Priority,D,U1
+Computer Science and Engineering,GEN-DEF,Priority,D,U1
+Computer Science and Social Sciences,GEN-DEF,Priority,D,U1
+Electronics and Communication Engineering,GEN-DEF,Priority,D,U1
+Electronics and VLSI Engineering,GEN-DEF,Priority,D,U1
+Computer Science and Engineering,GEN-DEF,Priority,OD,U1
+Electronics and Communication Engineering,GEN-DEF,Priority,OD,U1
+Computer Science and Artificial Intelligence,GEN-PWD,521716,D,1
+Computer Science and Engineering,GEN-PWD,263350,D,1
+Computer Science and Artificial Intelligence,GEN-PWD,521716,D,2
+Computer Science and Engineering,GEN-PWD,263350,D,2
+Computer Science and Applied Mathematics,GEN-PWD,570221,D,3
+Computer Science and Artificial Intelligence,GEN-PWD,521716,D,3
+Computer Science and Engineering,GEN-PWD,263350,D,3
+Computer Science and Artificial Intelligence,GEN-PWD,521716,D,4
+Computer Science and Engineering,GEN-PWD,263350,D,4
+Computer Science and Applied Mathematics,EWS,34104,D,1
+Computer Science and Artificial Intelligence,EWS,19302,D,1
+Computer Science and Biosciences,EWS,43430,D,1
+Computer Science and Design,EWS,34435,D,1
+Computer Science and Engineering,EWS,28225,D,1
+Computer Science and Social Sciences,EWS,41353,D,1
+Electronics and Communication Engineering,EWS,45273,D,1
+Electronics and VLSI Engineering,EWS,51041,D,1
+Computer Science and Artificial Intelligence,EWS,1544,OD,1
+Computer Science and Biosciences,EWS,8164,OD,1
+Computer Science and Design,EWS,5405,OD,1
+Computer Science and Engineering,EWS,3122,OD,1
+Computer Science and Social Sciences,EWS,7374,OD,1
+Electronics and Communication Engineering,EWS,8997,OD,1
+Electronics and VLSI Engineering,EWS,9105,OD,1
+Computer Science and Applied Mathematics,EWS,36541,D,2
+Computer Science and Artificial Intelligence,EWS,26200,D,2
+Computer Science and Biosciences,EWS,45273,D,2
+Computer Science and Design,EWS,43430,D,2
+Computer Science and Engineering,EWS,32160,D,2
+Computer Science and Social Sciences,EWS,44813,D,2
+Electronics and Communication Engineering,EWS,51041,D,2
+Electronics and VLSI Engineering,EWS,54257,D,2
+Computer Science and Applied Mathematics,EWS,7436,OD,2
+Computer Science and Biosciences,EWS,8164,OD,2
+Computer Science and Engineering,EWS,4914,OD,2
+Computer Science and Social Sciences,EWS,9105,OD,2
+Electronics and Communication Engineering,EWS,10125,OD,2
+Electronics and VLSI Engineering,EWS,10615,OD,2
+Computer Science and Applied Mathematics,EWS,36541,D,3
+Computer Science and Artificial Intelligence,EWS,29033,D,3
+Computer Science and Biosciences,EWS,45341,D,3
+Computer Science and Design,EWS,43430,D,3
+Computer Science and Engineering,EWS,32160,D,3
+Computer Science and Social Sciences,EWS,45273,D,3
+Electronics and Communication Engineering,EWS,51041,D,3
+Electronics and VLSI Engineering,EWS,55051,D,3
+Computer Science and Applied Mathematics,EWS,9105,OD,3
+Computer Science and Artificial Intelligence,EWS,7374,OD,3
+Computer Science and Biosciences,EWS,12000,OD,3
+Computer Science and Design,EWS,8164,OD,3
+Computer Science and Engineering,EWS,5266,OD,3
+Computer Science and Social Sciences,EWS,10411,OD,3
+Electronics and Communication Engineering,EWS,10842,OD,3
+Electronics and VLSI Engineering,EWS,12326,OD,3
+Computer Science and Applied Mathematics,EWS,40110,D,4
+Computer Science and Artificial Intelligence,EWS,29033,D,4
+Computer Science and Biosciences,EWS,45341,D,4
+Computer Science and Design,EWS,43430,D,4
+Computer Science and Engineering,EWS,35255,D,4
+Computer Science and Social Sciences,EWS,45273,D,4
+Electronics and Communication Engineering,EWS,52016,D,4
+Electronics and VLSI Engineering,EWS,57269,D,4
+Computer Science and Applied Mathematics,EWS,12716,OD,4
+Computer Science and Artificial Intelligence,EWS,7374,OD,4
+Computer Science and Biosciences,EWS,13208,OD,4
+Computer Science and Design,EWS,8164,OD,4
+Computer Science and Engineering,EWS,8341,OD,4
+Computer Science and Social Sciences,EWS,13176,OD,4
+Electronics and VLSI Engineering,EWS,13320,OD,4
+Computer Science and Engineering,EWS,30993,D,S
+Computer Science and Applied Mathematics,EWS,10830,OD,S
+Computer Science and Engineering,EWS,30993,D,1
+Computer Science and Artificial Intelligence,EWS,10830,OD,1
+Computer Science and Design,EWS,16509,OD,1
+Computer Science and Engineering,EWS,30993,D,2
+Computer Science and Engineering,EWS,30993,D,3
+Electronics and Communication Engineering,EWS,22378,OD,3
+Computer Science and Engineering,EWS-DEF,178238,D,1
+Computer Science and Engineering,EWS-DEF,178238,D,2
+Computer Science and Engineering,EWS-DEF,178238,D,3
+Computer Science and Engineering,EWS-DEF,178238,D,4
+Computer Science and Engineering,EWS-DEF,Priority,D,U1
+Computer Science and Applied Mathematics,OBC,67383,D,1
+Computer Science and Artificial Intelligence,OBC,38037,D,1
+Computer Science and Biosciences,OBC,94659,D,1
+Computer Science and Design,OBC,70603,D,1
+Computer Science and Engineering,OBC,49721,D,1
+Computer Science and Social Sciences,OBC,83326,D,1
+Electronics and Communication Engineering,OBC,97569,D,1
+Electronics and VLSI Engineering,OBC,114549,D,1
+Computer Science and Applied Mathematics,OBC,8790,OD,1
+Computer Science and Artificial Intelligence,OBC,7851,OD,1
+Computer Science and Biosciences,OBC,11462,OD,1
+Computer Science and Engineering,OBC,7078,OD,1
+Computer Science and Social Sciences,OBC,11017,OD,1
+Electronics and Communication Engineering,OBC,12634,OD,1
+Electronics and VLSI Engineering,OBC,14218,OD,1
+Computer Science and Applied Mathematics,OBC,83695,D,2
+Computer Science and Artificial Intelligence,OBC,54893,D,2
+Computer Science and Biosciences,OBC,103501,D,2
+Computer Science and Design,OBC,83326,D,2
+Computer Science and Engineering,OBC,64251,D,2
+Computer Science and Social Sciences,OBC,97409,D,2
+Electronics and Communication Engineering,OBC,107802,D,2
+Electronics and VLSI Engineering,OBC,120781,D,2
+Computer Science and Applied Mathematics,OBC,11462,OD,2
+Computer Science and Artificial Intelligence,OBC,10696,OD,2
+Computer Science and Biosciences,OBC,14423,OD,2
+Computer Science and Design,OBC,12342,OD,2
+Computer Science and Engineering,OBC,9223,OD,2
+Computer Science and Social Sciences,OBC,13421,OD,2
+Electronics and Communication Engineering,OBC,14974,OD,2
+Electronics and VLSI Engineering,OBC,17695,OD,2
+Computer Science and Applied Mathematics,OBC,86824,D,3
+Computer Science and Artificial Intelligence,OBC,61802,D,3
+Computer Science and Biosciences,OBC,105465,D,3
+Computer Science and Design,OBC,86095,D,3
+Computer Science and Engineering,OBC,69574,D,3
+Computer Science and Social Sciences,OBC,97928,D,3
+Electronics and Communication Engineering,OBC,107923,D,3
+Electronics and VLSI Engineering,OBC,123936,D,3
+Computer Science and Applied Mathematics,OBC,14423,OD,3
+Computer Science and Artificial Intelligence,OBC,11462,OD,3
+Computer Science and Biosciences,OBC,16584,OD,3
+Computer Science and Design,OBC,13077,OD,3
+Computer Science and Engineering,OBC,10478,OD,3
+Computer Science and Social Sciences,OBC,14218,OD,3
+Electronics and Communication Engineering,OBC,16727,OD,3
+Electronics and VLSI Engineering,OBC,17695,OD,3
+Computer Science and Applied Mathematics,OBC,92601,D,4
+Computer Science and Artificial Intelligence,OBC,65737,D,4
+Computer Science and Biosciences,OBC,106935,D,4
+Computer Science and Design,OBC,88080,D,4
+Computer Science and Engineering,OBC,74736,D,4
+Computer Science and Social Sciences,OBC,97928,D,4
+Electronics and Communication Engineering,OBC,115097,D,4
+Electronics and VLSI Engineering,OBC,131579,D,4
+Computer Science and Applied Mathematics,OBC,16254,OD,4
+Computer Science and Artificial Intelligence,OBC,13261,OD,4
+Computer Science and Biosciences,OBC,17416,OD,4
+Computer Science and Design,OBC,14990,OD,4
+Computer Science and Engineering,OBC,11759,OD,4
+Computer Science and Social Sciences,OBC,14218,OD,4
+Electronics and Communication Engineering,OBC,19323,OD,4
+Electronics and VLSI Engineering,OBC,21850,OD,4
+Electronics and Communication Engineering,OBC,87665,D,S
+Computer Science and Biosciences,OBC,18145,OD,S
+Computer Science and Design,OBC,17175,OD,S
+Computer Science and Engineering,OBC,12777,OD,S
+Computer Science and Design,OBC,87665,D,1
+Computer Science and Engineering,OBC,18145,OD,1
+Computer Science and Design,OBC,87665,D,2
+Computer Science and Engineering,OBC,18145,OD,2
+Computer Science and Design,OBC,87665,D,3
+Computer Science and Engineering,OBC,18145,OD,3
+Computer Science and Applied Mathematics,OBC-DEF,173850,D,1
+Computer Science and Artificial Intelligence,OBC-DEF,57354,D,1
+Computer Science and Biosciences,OBC-DEF,206099,D,1
+Computer Science and Engineering,OBC-DEF,136426,D,1
+Electronics and Communication Engineering,OBC-DEF,253817,D,1
+Electronics and VLSI Engineering,OBC-DEF,303957,D,1
+Computer Science and Applied Mathematics,OBC-DEF,181426,D,2
+Computer Science and Artificial Intelligence,OBC-DEF,57354,D,2
+Computer Science and Biosciences,OBC-DEF,206099,D,2
+Computer Science and Engineering,OBC-DEF,166351,D,2
+Electronics and Communication Engineering,OBC-DEF,552270,D,2
+Electronics and VLSI Engineering,OBC-DEF,237115,D,2
+Computer Science and Applied Mathematics,OBC-DEF,203462,D,3
+Computer Science and Artificial Intelligence,OBC-DEF,173850,D,3
+Computer Science and Biosciences,OBC-DEF,206099,D,3
+Computer Science and Engineering,OBC-DEF,184755,D,3
+Electronics and Communication Engineering,OBC-DEF,552270,D,3
+Electronics and VLSI Engineering,OBC-DEF,237115,D,3
+Computer Science and Applied Mathematics,OBC-DEF,203462,D,4
+Computer Science and Artificial Intelligence,OBC-DEF,173850,D,4
+Computer Science and Biosciences,OBC-DEF,206099,D,4
+Computer Science and Engineering,OBC-DEF,184755,D,4
+Electronics and Communication Engineering,OBC-DEF,552270,D,4
+Electronics and VLSI Engineering,OBC-DEF,237115,D,4
+Computer Science and Applied Mathematics,OBC-DEF,Priority,D,U1
+Computer Science and Artificial Intelligence,OBC-DEF,Priority,D,U1
+Computer Science and Biosciences,OBC-DEF,Priority,D,U1
+Computer Science and Engineering,OBC-DEF,Priority,D,U1
+Electronics and Communication Engineering,OBC-DEF,Priority,D,U1
+Computer Science and Applied Mathematics,SC,132842,D,1
+Computer Science and Artificial Intelligence,SC,91314,D,1
+Computer Science and Biosciences,SC,168457,D,1
+Computer Science and Design,SC,129982,D,1
+Computer Science and Engineering,SC,108625,D,1
+Computer Science and Social Sciences,SC,165766,D,1
+Electronics and Communication Engineering,SC,172452,D,1
+Electronics and VLSI Engineering,SC,194514,D,1
+Computer Science and Applied Mathematics,SC,28052,OD,1
+Computer Science and Artificial Intelligence,SC,19722,OD,1
+Computer Science and Biosciences,SC,35757,OD,1
+Computer Science and Design,SC,38134,OD,1
+Computer Science and Engineering,SC,20872,OD,1
+Computer Science and Social Sciences,SC,41511,OD,1
+Electronics and Communication Engineering,SC,26277,OD,1
+Electronics and VLSI Engineering,SC,45323,OD,1
+Computer Science and Applied Mathematics,SC,154039,D,2
+Computer Science and Artificial Intelligence,SC,109852,D,2
+Computer Science and Biosciences,SC,177002,D,2
+Computer Science and Design,SC,132079,D,2
+Computer Science and Engineering,SC,121914,D,2
+Computer Science and Social Sciences,SC,169014,D,2
+Electronics and Communication Engineering,SC,192529,D,2
+Electronics and VLSI Engineering,SC,220589,D,2
+Computer Science and Applied Mathematics,SC,39288,OD,2
+Computer Science and Artificial Intelligence,SC,19722,OD,2
+Computer Science and Biosciences,SC,47857,OD,2
+Computer Science and Design,SC,48175,OD,2
+Computer Science and Engineering,SC,45090,OD,2
+Computer Science and Social Sciences,SC,52329,OD,2
+Electronics and Communication Engineering,SC,47048,OD,2
+Electronics and VLSI Engineering,SC,59012,OD,2
+Computer Science and Applied Mathematics,SC,154039,D,3
+Computer Science and Artificial Intelligence,SC,115249,D,3
+Computer Science and Biosciences,SC,201591,D,3
+Computer Science and Design,SC,166788,D,3
+Computer Science and Engineering,SC,130388,D,3
+Computer Science and Social Sciences,SC,200560,D,3
+Electronics and Communication Engineering,SC,208067,D,3
+Electronics and VLSI Engineering,SC,248648,D,3
+Computer Science and Applied Mathematics,SC,48175,OD,3
+Computer Science and Artificial Intelligence,SC,19722,OD,3
+Computer Science and Biosciences,SC,52540,OD,3
+Computer Science and Design,SC,49114,OD,3
+Computer Science and Engineering,SC,44797,OD,3
+Computer Science and Social Sciences,SC,56362,OD,3
+Electronics and Communication Engineering,SC,51832,OD,3
+Electronics and VLSI Engineering,SC,60149,OD,3
+Computer Science and Applied Mathematics,SC,178510,D,4
+Computer Science and Artificial Intelligence,SC,115304,D,4
+Computer Science and Biosciences,SC,234262,D,4
+Computer Science and Design,SC,172275,D,4
+Computer Science and Engineering,SC,137016,D,4
+Computer Science and Social Sciences,SC,220589,D,4
+Electronics and Communication Engineering,SC,257020,D,4
+Electronics and VLSI Engineering,SC,280455,D,4
+Computer Science and Applied Mathematics,SC,54743,OD,4
+Computer Science and Artificial Intelligence,SC,19722,OD,4
+Computer Science and Biosciences,SC,68434,OD,4
+Computer Science and Design,SC,58323,OD,4
+Computer Science and Engineering,SC,47217,OD,4
+Computer Science and Social Sciences,SC,63676,OD,4
+Electronics and Communication Engineering,SC,62153,OD,4
+Electronics and VLSI Engineering,SC,75303,OD,4
+Computer Science and Applied Mathematics,SC,121261,D,S
+Computer Science and Artificial Intelligence,SC,96542,D,S
+Computer Science and Biosciences,SC,158331,D,S
+Computer Science and Artificial Intelligence,SC,96542,D,1
+Computer Science and Biosciences,SC,158331,D,1
+Computer Science and Engineering,SC,121261,D,1
+Computer Science and Applied Mathematics,SC,158331,D,2
+Computer Science and Artificial Intelligence,SC,121261,D,2
+Computer Science and Applied Mathematics,SC,158331,D,3
+Computer Science and Artificial Intelligence,SC,96542,D,3
+Computer Science and Engineering,SC-DEF,547463,D,1
+Computer Science and Artificial Intelligence,ST,330928,D,1
+Computer Science and Design,ST,868025,D,1
+Computer Science and Engineering,ST,645868,D,1
+Computer Science and Applied Mathematics,ST,70929,OD,1
+Computer Science and Artificial Intelligence,ST,61386,OD,1
+Computer Science and Biosciences,ST,102877,OD,1
+Computer Science and Engineering,ST,55580,OD,1
+Electronics and Communication Engineering,ST,97204,OD,1
+Electronics and VLSI Engineering,ST,100694,OD,1
+Computer Science and Artificial Intelligence,ST,475173,D,2
+Computer Science and Engineering,ST,573644,D,2
+Computer Science and Applied Mathematics,ST,86868,OD,2
+Computer Science and Artificial Intelligence,ST,79077,OD,2
+Computer Science and Biosciences,ST,110929,OD,2
+Computer Science and Engineering,ST,61386,OD,2
+Electronics and Communication Engineering,ST,100694,OD,2
+Electronics and VLSI Engineering,ST,117471,OD,2
+Computer Science and Artificial Intelligence,ST,475173,D,3
+Computer Science and Engineering,ST,573644,D,3
+Computer Science and Applied Mathematics,ST,90124,OD,3
+Computer Science and Artificial Intelligence,ST,79077,OD,3
+Computer Science and Biosciences,ST,120522,OD,3
+Computer Science and Engineering,ST,61386,OD,3
+Electronics and Communication Engineering,ST,100694,OD,3
+Electronics and VLSI Engineering,ST,117471,OD,3
+Computer Science and Artificial Intelligence,ST,475173,D,4
+Computer Science and Engineering,ST,573644,D,4
+Computer Science and Applied Mathematics,ST,117471,OD,4
+Computer Science and Artificial Intelligence,ST,79077,OD,4
+Computer Science and Biosciences,ST,120522,OD,4
+Computer Science and Engineering,ST,61386,OD,4
+Electronics and Communication Engineering,ST,115162,OD,4
+Electronics and VLSI Engineering,ST,126832,OD,4
+Computer Science and Engineering,ST,54274,OD,2
+Computer Science and Engineering,ST,54274,OD,3

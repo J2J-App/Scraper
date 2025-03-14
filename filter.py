@@ -9,6 +9,12 @@ for cl in clg:
         with open(f"Data/{cl}-data/{y}/{cl}-{y}-cutoff.csv","r",newline="") as f:
             r=csv.reader(f)
             for i in r:
+                if cl == "iiit-delhi":
+                    z = i[2].split()
+                    try:
+                        i[2] = z[1][1:].rstrip(")")
+                    except IndexError:
+                        i[2] = "-"
                 if i[4]=="Upgradation 2":
                     i[4]="U2"
                 if i[4]=="Upgradation 1":
