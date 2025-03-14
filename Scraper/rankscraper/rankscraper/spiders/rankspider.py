@@ -4,22 +4,22 @@ from rankscraper.items import RankscraperItem
 class RankscraperSpider(scrapy.Spider):
     name = "rankscraper"
     allowed_domains = ["localhost:5500"]
-    start_urls = ["http://localhost:5500/Offline_File/nsut-west-2022-cutoff.html"]
+    start_urls = ["http://localhost:5500/Offline_File/igdtuw-2023-cutoff.html"]
 
     custom_settings = {
         'FEEDS': {
-            'nsut-west-2022-cutoff.csv': {'format': 'csv', 'overwrite': True},
+            'igdtuw-2023-cutoff.csv': {'format': 'csv', 'overwrite': True},
         }
     }
     
     # custom_settings = {
     #     'FEEDS': {
-    #         'nsut-west-2022-cutoff.json': {'format': 'json', 'overwrite': True},
+    #         'igdtuw-2023-cutoff.json': {'format': 'json', 'overwrite': True},
     #     }
     # }
 
     def parse(self, response):
-        sections = response.css("div.box-card.crs-box")
+        sections = response.css("div.box-card.crs-box") # Get all the sections in the page
         for section in sections:
             main_heading = section.css("p.cp-clg-h::text").get() # Get the main heading of the section ( category of students )
             rounds = section.css("ul.tabs-nav li::text").getall() # Get the round names (round 1, round 2, etc.)
@@ -30,7 +30,7 @@ class RankscraperSpider(scrapy.Spider):
                 if round_index < len(rounds):
                     round_name = rounds[round_index]
                 else:
-                    round_name = "something bad happened"
+                    round_name = "something bad happened" # If the number of rounds is less than the number of tables, detected spotround-2 
                 
                 rows = table.css("tr")
                 region = None  # To store Delhi/Outside Delhi region

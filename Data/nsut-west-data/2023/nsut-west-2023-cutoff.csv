@@ -55,30 +55,30 @@ Civil Engineering,GEN,59209,OD,S
 Geoinformatics,GEN,64803,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,GEN,50573,OD,S
 Architecture,GEN,801,OD,S
-Civil Engineering,GEN,640066,D,something bad happened
-Geoinformatics,GEN,506294,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,GEN,833068,D,something bad happened
-Architecture,GEN,35003,D,something bad happened
-Civil Engineering,GEN,200421,OD,something bad happened
-Geoinformatics,GEN,287426,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,GEN,50573,OD,something bad happened
-Architecture,GEN,801,OD,something bad happened
-Civil Engineering,SpotRound-1,210512,D,something bad happened
-Geoinformatics,SpotRound-1,184976,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,114615,D,something bad happened
-Architecture,SpotRound-1,35003,D,something bad happened
-Civil Engineering,SpotRound-1,59209,OD,something bad happened
-Geoinformatics,SpotRound-1,64803,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,50573,OD,something bad happened
-Architecture,SpotRound-1,801,OD,something bad happened
-Civil Engineering,SpotRound-2,640066,D,something bad happened
-Geoinformatics,SpotRound-2,506294,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,833068,D,something bad happened
-Architecture,SpotRound-2,35003,D,something bad happened
-Civil Engineering,SpotRound-2,200421,OD,something bad happened
-Geoinformatics,SpotRound-2,287426,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,50573,OD,something bad happened
-Architecture,SpotRound-2,801,OD,something bad happened
+Civil Engineering,GEN,640066,D,s2
+Geoinformatics,GEN,506294,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,GEN,833068,D,s2
+Architecture,GEN,35003,D,s2
+Civil Engineering,GEN,200421,OD,s2
+Geoinformatics,GEN,287426,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,GEN,50573,OD,s2
+Architecture,GEN,801,OD,s2
+Civil Engineering,SpotRound-1,210512,D,s2
+Geoinformatics,SpotRound-1,184976,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,114615,D,s2
+Architecture,SpotRound-1,35003,D,s2
+Civil Engineering,SpotRound-1,59209,OD,s2
+Geoinformatics,SpotRound-1,64803,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,50573,OD,s2
+Architecture,SpotRound-1,801,OD,s2
+Civil Engineering,SpotRound-2,640066,D,s2
+Geoinformatics,SpotRound-2,506294,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,833068,D,s2
+Architecture,SpotRound-2,35003,D,s2
+Civil Engineering,SpotRound-2,200421,OD,s2
+Geoinformatics,SpotRound-2,287426,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,50573,OD,s2
+Architecture,SpotRound-2,801,OD,s2
 Civil Engineering,GEN-DEF,107291,D,1
 Geoinformatics,GEN-DEF,116814 (Priority VI),D,1
 Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,80657,D,1
@@ -135,30 +135,30 @@ Civil Engineering,GEN-DEF,-,OD,S
 Geoinformatics,GEN-DEF,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,-,OD,S
 Architecture,GEN-DEF,-,OD,S
-Civil Engineering,GEN-DEF,-,D,something bad happened
-Geoinformatics,GEN-DEF,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,-,D,something bad happened
-Architecture,GEN-DEF,-,D,something bad happened
-Civil Engineering,GEN-DEF,-,OD,something bad happened
-Geoinformatics,GEN-DEF,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,-,OD,something bad happened
-Architecture,GEN-DEF,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,GEN-DEF,-,D,s2
+Geoinformatics,GEN-DEF,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,-,D,s2
+Architecture,GEN-DEF,-,D,s2
+Civil Engineering,GEN-DEF,-,OD,s2
+Geoinformatics,GEN-DEF,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,GEN-DEF,-,OD,s2
+Architecture,GEN-DEF,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,GENGirlCandidate,85918,D,1
 Geoinformatics,GENGirlCandidate,88324,D,1
 Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,79049,D,1
@@ -215,22 +215,22 @@ Civil Engineering,GENGirlCandidate,-,OD,S
 Geoinformatics,GENGirlCandidate,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,GENGirlCandidate,-,OD,S
 Architecture,GENGirlCandidate,-,OD,S
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,GEN-PWD,-,D,1
 Geoinformatics,GEN-PWD,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,GEN-PWD,-,D,1
@@ -287,30 +287,30 @@ Civil Engineering,GEN-PWD,-,OD,S
 Geoinformatics,GEN-PWD,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,GEN-PWD,-,OD,S
 Architecture,GEN-PWD,-,OD,S
-Civil Engineering,GEN-PWD,-,D,something bad happened
-Geoinformatics,GEN-PWD,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,GEN-PWD,-,D,something bad happened
-Architecture,GEN-PWD,-,D,something bad happened
-Civil Engineering,GEN-PWD,-,OD,something bad happened
-Geoinformatics,GEN-PWD,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,GEN-PWD,-,OD,something bad happened
-Architecture,GEN-PWD,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,GEN-PWD,-,D,s2
+Geoinformatics,GEN-PWD,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,GEN-PWD,-,D,s2
+Architecture,GEN-PWD,-,D,s2
+Civil Engineering,GEN-PWD,-,OD,s2
+Geoinformatics,GEN-PWD,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,GEN-PWD,-,OD,s2
+Architecture,GEN-PWD,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,EWS,97593,D,1
 Geoinformatics,EWS,102759,D,1
 Mechanical Engineering with specialization in Electric Vehicles,EWS,94868,D,1
@@ -367,30 +367,30 @@ Civil Engineering,EWS,49414,OD,S
 Geoinformatics,EWS,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,EWS,43794,OD,S
 Architecture,EWS,-,OD,S
-Civil Engineering,EWS,187045,D,something bad happened
-Geoinformatics,EWS,148769,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,EWS,173782,D,something bad happened
-Architecture,EWS,-,D,something bad happened
-Civil Engineering,EWS,49414,OD,something bad happened
-Geoinformatics,EWS,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,EWS,43794,OD,something bad happened
-Architecture,EWS,-,OD,something bad happened
-Civil Engineering,SpotRound-1,187045,D,something bad happened
-Geoinformatics,SpotRound-1,148769,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,173782,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,49414,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,43794,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,187045,D,something bad happened
-Geoinformatics,SpotRound-2,148769,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,173782,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,49414,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,43794,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,EWS,187045,D,s2
+Geoinformatics,EWS,148769,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,EWS,173782,D,s2
+Architecture,EWS,-,D,s2
+Civil Engineering,EWS,49414,OD,s2
+Geoinformatics,EWS,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,EWS,43794,OD,s2
+Architecture,EWS,-,OD,s2
+Civil Engineering,SpotRound-1,187045,D,s2
+Geoinformatics,SpotRound-1,148769,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,173782,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,49414,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,43794,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,187045,D,s2
+Geoinformatics,SpotRound-2,148769,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,173782,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,49414,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,43794,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,EWS-DEF,-,D,1
 Geoinformatics,EWS-DEF,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,EWS-DEF,-,D,1
@@ -447,30 +447,30 @@ Civil Engineering,EWS-DEF,-,OD,S
 Geoinformatics,EWS-DEF,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,EWS-DEF,-,OD,S
 Architecture,EWS-DEF,-,OD,S
-Civil Engineering,EWS-DEF,-,D,something bad happened
-Geoinformatics,EWS-DEF,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,EWS-DEF,-,D,something bad happened
-Architecture,EWS-DEF,-,D,something bad happened
-Civil Engineering,EWS-DEF,-,OD,something bad happened
-Geoinformatics,EWS-DEF,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,EWS-DEF,-,OD,something bad happened
-Architecture,EWS-DEF,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,EWS-DEF,-,D,s2
+Geoinformatics,EWS-DEF,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,EWS-DEF,-,D,s2
+Architecture,EWS-DEF,-,D,s2
+Civil Engineering,EWS-DEF,-,OD,s2
+Geoinformatics,EWS-DEF,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,EWS-DEF,-,OD,s2
+Architecture,EWS-DEF,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,EWSGirlCandidate,148571,D,1
 Geoinformatics,EWSGirlCandidate,123637,D,1
 Mechanical Engineering with specialization in Electric Vehicles,EWSGirlCandidate,127748,D,1
@@ -527,22 +527,22 @@ Civil Engineering,EWSGirlCandidate,-,OD,S
 Geoinformatics,EWSGirlCandidate,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,EWSGirlCandidate,-,OD,S
 Architecture,EWSGirlCandidate,-,OD,S
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,EWS-PWD,-,D,1
 Geoinformatics,EWS-PWD,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,EWS-PWD,-,D,1
@@ -599,30 +599,30 @@ Civil Engineering,EWS-PWD,-,OD,S
 Geoinformatics,EWS-PWD,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,EWS-PWD,-,OD,S
 Architecture,EWS-PWD,-,OD,S
-Civil Engineering,EWS-PWD,-,D,something bad happened
-Geoinformatics,EWS-PWD,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,EWS-PWD,-,D,something bad happened
-Architecture,EWS-PWD,-,D,something bad happened
-Civil Engineering,EWS-PWD,-,OD,something bad happened
-Geoinformatics,EWS-PWD,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,EWS-PWD,-,OD,something bad happened
-Architecture,EWS-PWD,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,EWS-PWD,-,D,s2
+Geoinformatics,EWS-PWD,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,EWS-PWD,-,D,s2
+Architecture,EWS-PWD,-,D,s2
+Civil Engineering,EWS-PWD,-,OD,s2
+Geoinformatics,EWS-PWD,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,EWS-PWD,-,OD,s2
+Architecture,EWS-PWD,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,OBC,192031,D,1
 Geoinformatics,OBC,202253,D,1
 Mechanical Engineering with specialization in Electric Vehicles,OBC,160254,D,1
@@ -679,30 +679,30 @@ Civil Engineering,OBC,85107,OD,S
 Geoinformatics,OBC,85120,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,OBC,62487,OD,S
 Architecture,OBC,-,OD,S
-Civil Engineering,OBC,359011,D,something bad happened
-Geoinformatics,OBC,410179,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,OBC,287575,D,something bad happened
-Architecture,OBC,-,D,something bad happened
-Civil Engineering,OBC,85107,OD,something bad happened
-Geoinformatics,OBC,85120,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,OBC,62487,OD,something bad happened
-Architecture,OBC,-,OD,something bad happened
-Civil Engineering,SpotRound-1,359011,D,something bad happened
-Geoinformatics,SpotRound-1,410179,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,287575,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,85107,OD,something bad happened
-Geoinformatics,SpotRound-1,85120,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,62487,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,359011,D,something bad happened
-Geoinformatics,SpotRound-2,410179,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,287575,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,85107,OD,something bad happened
-Geoinformatics,SpotRound-2,85120,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,62487,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,OBC,359011,D,s2
+Geoinformatics,OBC,410179,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,OBC,287575,D,s2
+Architecture,OBC,-,D,s2
+Civil Engineering,OBC,85107,OD,s2
+Geoinformatics,OBC,85120,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,OBC,62487,OD,s2
+Architecture,OBC,-,OD,s2
+Civil Engineering,SpotRound-1,359011,D,s2
+Geoinformatics,SpotRound-1,410179,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,287575,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,85107,OD,s2
+Geoinformatics,SpotRound-1,85120,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,62487,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,359011,D,s2
+Geoinformatics,SpotRound-2,410179,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,287575,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,85107,OD,s2
+Geoinformatics,SpotRound-2,85120,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,62487,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,OBC-DEF,-,D,1
 Geoinformatics,OBC-DEF,658432 (Priority VI),D,1
 Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,384647,D,1
@@ -759,30 +759,30 @@ Civil Engineering,OBC-DEF,-,OD,S
 Geoinformatics,OBC-DEF,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,-,OD,S
 Architecture,OBC-DEF,-,OD,S
-Civil Engineering,OBC-DEF,-,D,something bad happened
-Geoinformatics,OBC-DEF,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,-,D,something bad happened
-Architecture,OBC-DEF,-,D,something bad happened
-Civil Engineering,OBC-DEF,-,OD,something bad happened
-Geoinformatics,OBC-DEF,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,-,OD,something bad happened
-Architecture,OBC-DEF,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,OBC-DEF,-,D,s2
+Geoinformatics,OBC-DEF,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,-,D,s2
+Architecture,OBC-DEF,-,D,s2
+Civil Engineering,OBC-DEF,-,OD,s2
+Geoinformatics,OBC-DEF,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,OBC-DEF,-,OD,s2
+Architecture,OBC-DEF,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,OBCGirlCandidate,328871,D,1
 Geoinformatics,OBCGirlCandidate,329416,D,1
 Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,322093,D,1
@@ -839,22 +839,22 @@ Civil Engineering,OBCGirlCandidate,-,OD,S
 Geoinformatics,OBCGirlCandidate,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,OBCGirlCandidate,-,OD,S
 Architecture,OBCGirlCandidate,-,OD,S
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,OBC-PWD,-,D,1
 Geoinformatics,OBC-PWD,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,OBC-PWD,-,D,1
@@ -911,30 +911,30 @@ Civil Engineering,OBC-PWD,-,OD,S
 Geoinformatics,OBC-PWD,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,OBC-PWD,-,OD,S
 Architecture,OBC-PWD,-,OD,S
-Civil Engineering,OBC-PWD,-,D,something bad happened
-Geoinformatics,OBC-PWD,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,OBC-PWD,-,D,something bad happened
-Architecture,OBC-PWD,-,D,something bad happened
-Civil Engineering,OBC-PWD,-,OD,something bad happened
-Geoinformatics,OBC-PWD,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,OBC-PWD,-,OD,something bad happened
-Architecture,OBC-PWD,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,OBC-PWD,-,D,s2
+Geoinformatics,OBC-PWD,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,OBC-PWD,-,D,s2
+Architecture,OBC-PWD,-,D,s2
+Civil Engineering,OBC-PWD,-,OD,s2
+Geoinformatics,OBC-PWD,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,OBC-PWD,-,OD,s2
+Architecture,OBC-PWD,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,SC,297655,D,1
 Geoinformatics,SC,312708,D,1
 Mechanical Engineering with specialization in Electric Vehicles,SC,270279,D,1
@@ -991,30 +991,30 @@ Civil Engineering,SC,230235,OD,S
 Geoinformatics,SC,588183,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,SC,211846,OD,S
 Architecture,SC,-,OD,S
-Civil Engineering,SC,1039366,D,something bad happened
-Geoinformatics,SC,525965,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SC,833068,D,something bad happened
-Architecture,SC,-,D,something bad happened
-Civil Engineering,SC,230235,OD,something bad happened
-Geoinformatics,SC,588183,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SC,211846,OD,something bad happened
-Architecture,SC,-,OD,something bad happened
-Civil Engineering,SpotRound-1,1039366,D,something bad happened
-Geoinformatics,SpotRound-1,525965,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,833068,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,230235,OD,something bad happened
-Geoinformatics,SpotRound-1,588183,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,211846,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,1039366,D,something bad happened
-Geoinformatics,SpotRound-2,525965,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,833068,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,230235,OD,something bad happened
-Geoinformatics,SpotRound-2,588183,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,211846,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,SC,1039366,D,s2
+Geoinformatics,SC,525965,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SC,833068,D,s2
+Architecture,SC,-,D,s2
+Civil Engineering,SC,230235,OD,s2
+Geoinformatics,SC,588183,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SC,211846,OD,s2
+Architecture,SC,-,OD,s2
+Civil Engineering,SpotRound-1,1039366,D,s2
+Geoinformatics,SpotRound-1,525965,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,833068,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,230235,OD,s2
+Geoinformatics,SpotRound-1,588183,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,211846,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,1039366,D,s2
+Geoinformatics,SpotRound-2,525965,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,833068,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,230235,OD,s2
+Geoinformatics,SpotRound-2,588183,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,211846,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,SC-DEF,-,D,1
 Geoinformatics,SC-DEF,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,SC-DEF,-,D,1
@@ -1071,30 +1071,30 @@ Civil Engineering,SC-DEF,-,OD,S
 Geoinformatics,SC-DEF,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,SC-DEF,-,OD,S
 Architecture,SC-DEF,-,OD,S
-Civil Engineering,SC-DEF,-,D,something bad happened
-Geoinformatics,SC-DEF,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SC-DEF,-,D,something bad happened
-Architecture,SC-DEF,-,D,something bad happened
-Civil Engineering,SC-DEF,-,OD,something bad happened
-Geoinformatics,SC-DEF,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SC-DEF,-,OD,something bad happened
-Architecture,SC-DEF,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,SC-DEF,-,D,s2
+Geoinformatics,SC-DEF,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SC-DEF,-,D,s2
+Architecture,SC-DEF,-,D,s2
+Civil Engineering,SC-DEF,-,OD,s2
+Geoinformatics,SC-DEF,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SC-DEF,-,OD,s2
+Architecture,SC-DEF,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,SCGirlCandidate,400404,D,1
 Geoinformatics,SCGirlCandidate,441081,D,1
 Mechanical Engineering with specialization in Electric Vehicles,SCGirlCandidate,459503,D,1
@@ -1151,22 +1151,22 @@ Civil Engineering,SCGirlCandidate,-,OD,S
 Geoinformatics,SCGirlCandidate,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,SCGirlCandidate,-,OD,S
 Architecture,SCGirlCandidate,-,OD,S
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,SC-PWD,-,D,1
 Geoinformatics,SC-PWD,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,SC-PWD,-,D,1
@@ -1223,30 +1223,30 @@ Civil Engineering,SC-PWD,-,OD,S
 Geoinformatics,SC-PWD,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,SC-PWD,-,OD,S
 Architecture,SC-PWD,-,OD,S
-Civil Engineering,SC-PWD,-,D,something bad happened
-Geoinformatics,SC-PWD,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SC-PWD,-,D,something bad happened
-Architecture,SC-PWD,-,D,something bad happened
-Civil Engineering,SC-PWD,-,OD,something bad happened
-Geoinformatics,SC-PWD,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SC-PWD,-,OD,something bad happened
-Architecture,SC-PWD,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,SC-PWD,-,D,s2
+Geoinformatics,SC-PWD,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SC-PWD,-,D,s2
+Architecture,SC-PWD,-,D,s2
+Civil Engineering,SC-PWD,-,OD,s2
+Geoinformatics,SC-PWD,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SC-PWD,-,OD,s2
+Architecture,SC-PWD,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,ST,521306,D,1
 Geoinformatics,ST,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,ST,742524,D,1
@@ -1303,30 +1303,30 @@ Civil Engineering,ST,-,OD,S
 Geoinformatics,ST,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,ST,187056,OD,S
 Architecture,ST,-,OD,S
-Civil Engineering,ST,-,D,something bad happened
-Geoinformatics,ST,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,ST,-,D,something bad happened
-Architecture,ST,-,D,something bad happened
-Civil Engineering,ST,-,OD,something bad happened
-Geoinformatics,ST,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,ST,187056,OD,something bad happened
-Architecture,ST,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,187056,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,187056,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,ST,-,D,s2
+Geoinformatics,ST,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,ST,-,D,s2
+Architecture,ST,-,D,s2
+Civil Engineering,ST,-,OD,s2
+Geoinformatics,ST,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,ST,187056,OD,s2
+Architecture,ST,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,187056,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,187056,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,ST-DEF,-,D,1
 Geoinformatics,ST-DEF,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,ST-DEF,-,D,1
@@ -1383,30 +1383,30 @@ Civil Engineering,ST-DEF,-,OD,S
 Geoinformatics,ST-DEF,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,ST-DEF,-,OD,S
 Architecture,ST-DEF,-,OD,S
-Civil Engineering,ST-DEF,-,D,something bad happened
-Geoinformatics,ST-DEF,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,ST-DEF,-,D,something bad happened
-Architecture,ST-DEF,-,D,something bad happened
-Civil Engineering,ST-DEF,-,OD,something bad happened
-Geoinformatics,ST-DEF,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,ST-DEF,-,OD,something bad happened
-Architecture,ST-DEF,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,ST-DEF,-,D,s2
+Geoinformatics,ST-DEF,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,ST-DEF,-,D,s2
+Architecture,ST-DEF,-,D,s2
+Civil Engineering,ST-DEF,-,OD,s2
+Geoinformatics,ST-DEF,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,ST-DEF,-,OD,s2
+Architecture,ST-DEF,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,STGirlCandidate,678683,D,1
 Geoinformatics,STGirlCandidate,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,STGirlCandidate,-,D,1
@@ -1463,22 +1463,22 @@ Civil Engineering,STGirlCandidate,-,OD,S
 Geoinformatics,STGirlCandidate,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,STGirlCandidate,-,OD,S
 Architecture,STGirlCandidate,-,OD,S
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2
 Civil Engineering,ST-PWD,-,D,1
 Geoinformatics,ST-PWD,-,D,1
 Mechanical Engineering with specialization in Electric Vehicles,ST-PWD,-,D,1
@@ -1535,27 +1535,27 @@ Civil Engineering,ST-PWD,-,OD,S
 Geoinformatics,ST-PWD,-,OD,S
 Mechanical Engineering with specialization in Electric Vehicles,ST-PWD,-,OD,S
 Architecture,ST-PWD,-,OD,S
-Civil Engineering,ST-PWD,-,D,something bad happened
-Geoinformatics,ST-PWD,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,ST-PWD,-,D,something bad happened
-Architecture,ST-PWD,-,D,something bad happened
-Civil Engineering,ST-PWD,-,OD,something bad happened
-Geoinformatics,ST-PWD,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,ST-PWD,-,OD,something bad happened
-Architecture,ST-PWD,-,OD,something bad happened
-Civil Engineering,SpotRound-1,-,D,something bad happened
-Geoinformatics,SpotRound-1,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,something bad happened
-Architecture,SpotRound-1,-,D,something bad happened
-Civil Engineering,SpotRound-1,-,OD,something bad happened
-Geoinformatics,SpotRound-1,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,something bad happened
-Architecture,SpotRound-1,-,OD,something bad happened
-Civil Engineering,SpotRound-2,-,D,something bad happened
-Geoinformatics,SpotRound-2,-,D,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,something bad happened
-Architecture,SpotRound-2,-,D,something bad happened
-Civil Engineering,SpotRound-2,-,OD,something bad happened
-Geoinformatics,SpotRound-2,-,OD,something bad happened
-Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,something bad happened
-Architecture,SpotRound-2,-,OD,something bad happened
+Civil Engineering,ST-PWD,-,D,s2
+Geoinformatics,ST-PWD,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,ST-PWD,-,D,s2
+Architecture,ST-PWD,-,D,s2
+Civil Engineering,ST-PWD,-,OD,s2
+Geoinformatics,ST-PWD,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,ST-PWD,-,OD,s2
+Architecture,ST-PWD,-,OD,s2
+Civil Engineering,SpotRound-1,-,D,s2
+Geoinformatics,SpotRound-1,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,D,s2
+Architecture,SpotRound-1,-,D,s2
+Civil Engineering,SpotRound-1,-,OD,s2
+Geoinformatics,SpotRound-1,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-1,-,OD,s2
+Architecture,SpotRound-1,-,OD,s2
+Civil Engineering,SpotRound-2,-,D,s2
+Geoinformatics,SpotRound-2,-,D,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,D,s2
+Architecture,SpotRound-2,-,D,s2
+Civil Engineering,SpotRound-2,-,OD,s2
+Geoinformatics,SpotRound-2,-,OD,s2
+Mechanical Engineering with specialization in Electric Vehicles,SpotRound-2,-,OD,s2
+Architecture,SpotRound-2,-,OD,s2

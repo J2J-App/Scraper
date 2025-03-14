@@ -52,4 +52,7 @@ class RankscraperPipeline:
         adapter["Category"] = adapter["Category"].replace("SCPWD","SC-PWD")
         adapter["Category"] = adapter["Category"].replace("STPWD","ST-PWD")
         
+        # To replace "something bad happened" with "s2"
+        adapter["Round"] = adapter["Round"].replace("something bad happened", "s2")
+        
         return item
