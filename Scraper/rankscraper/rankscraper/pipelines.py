@@ -30,4 +30,26 @@ class RankscraperPipeline:
         adapter["Branch"] = adapter["Branch"].replace("                                                                                    ", " ")
         adapter["Jee_Rank"] = adapter["Jee_Rank"].replace("                                                                                    ", " ")
         
+        #To shorten the data
+        adapter["Region"] = adapter["Region"].replace("B) Outside Delhi Region", "OD")
+        adapter["Region"] = adapter["Region"].replace("A) Delhi Region", "D")
+        
+        adapter["Round"] = adapter["Round"].replace("Round 1", "1")
+        adapter["Round"] = adapter["Round"].replace("Round 2", "2")
+        adapter["Round"] = adapter["Round"].replace("Round 3", "3")
+        adapter["Round"] = adapter["Round"].replace("Round 4", "4")
+        adapter["Round"] = adapter["Round"].replace("Round 5", "5")
+        adapter["Round"] = adapter["Round"].replace("Upgradation Round", "U1")
+        adapter["Round"] = adapter["Round"].replace("Upgradation Round 2", "U2")
+        adapter["Round"] = adapter["Round"].replace("Spot Round", "S")
+        
+        adapter["Category"] = adapter["Category"].replace("General","GEN")
+        adapter["Category"] = adapter["Category"].replace("Defence","-DEF")
+        adapter["Category"] = adapter["Category"].replace(" ","")
+        adapter["Category"] = adapter["Category"].replace("GENPWD","GEN-PWD")
+        adapter["Category"] = adapter["Category"].replace("EWSPWD","EWS-PWD")
+        adapter["Category"] = adapter["Category"].replace("OBCPWD","OBC-PWD")
+        adapter["Category"] = adapter["Category"].replace("SCPWD","SC-PWD")
+        adapter["Category"] = adapter["Category"].replace("STPWD","ST-PWD")
+        
         return item

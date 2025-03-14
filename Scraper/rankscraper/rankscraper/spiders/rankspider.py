@@ -4,17 +4,17 @@ from rankscraper.items import RankscraperItem
 class RankscraperSpider(scrapy.Spider):
     name = "rankscraper"
     allowed_domains = ["localhost:5500"]
-    start_urls = ["http://localhost:5500/Offline_File/iiit-delhi-2022-cutoff.html"]
+    start_urls = ["http://localhost:5500/Offline_File/nsut-west-2022-cutoff.html"]
 
     custom_settings = {
         'FEEDS': {
-            'iiit-delhi-2022-cutoff.csv': {'format': 'csv', 'overwrite': True},
+            'nsut-west-2022-cutoff.csv': {'format': 'csv', 'overwrite': True},
         }
     }
     
     # custom_settings = {
     #     'FEEDS': {
-    #         'iiit-delhi-2022-cutoff.json': {'format': 'json', 'overwrite': True},
+    #         'nsut-west-2022-cutoff.json': {'format': 'json', 'overwrite': True},
     #     }
     # }
 
